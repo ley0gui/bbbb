@@ -272,14 +272,12 @@ def buscar_dados_razao_social():
                 
                 valor_empenhado_sem_contrato = valor_empenhado_sem_contrato - valor_anulado_empenho
                 
-                          # Adicionar à lista de resultados como "Sem Contrato"
+                # Adicionar à lista de resultados como "Sem Contrato"
                 contratos_formatados.append({
                     "empresa": razao_social,
                     "anoContrato": "SC",  # "SC" para Sem Contrato em vez de "N/A"
                     "numContrato": "0",  # Usar "0" para permitir ordenação numérica
                     "total_empenhado": valor_empenhado_sem_contrato,
-                    "total_contratos": 0,  # Consideramos o valor empenhado como o valor do "contrato"
-                    "diferenca": 0,  # Não há diferença para empenhos sem contrato
                     "detalhes_contrato": {
                         "modalidade": "Sem Contrato",
                         "tipoContratacao": "Empenho Direto",
@@ -296,8 +294,6 @@ def buscar_dados_razao_social():
             if contratos:
                 # Para cada contrato encontrado, criar um item separado
                 for contrato in contratos:
-                    valor_contrato = contrato["valor"]
-                    
                     # Preparar informações para empenhos associados a este contrato específico
                     empenhos_do_contrato = [
                         emp for emp in empenhos_com_contrato 
@@ -315,11 +311,6 @@ def buscar_dados_razao_social():
                     )
     
                     valor_empenhado_contrato = valor_empenhado_contrato - valor_anulado_empenho
-    
-                    # Calcular diferença para este contrato específico
-                    diferenca = max(0, valor_contrato - valor_empenhado_contrato)
-                    
-                    
                     
                     # Adicionar à lista de resultados
                     contratos_formatados.append({
@@ -327,8 +318,6 @@ def buscar_dados_razao_social():
                         "anoContrato": contrato["anoContrato"],
                         "numContrato": contrato["numContrato"],
                         "total_empenhado": valor_empenhado_contrato,
-                        "total_contratos": valor_contrato,  # Valor deste contrato específico
-                        "diferenca": diferenca,
                         "detalhes_contrato": {
                             "modalidade": contrato["detalhes"].get("txtDescricaoModalidade", ""),
                             "tipoContratacao": contrato["detalhes"].get("txtTipoContratacao", ""),
@@ -383,8 +372,6 @@ def buscar_dados_razao_social():
                     "anoContrato": ano_contrato,
                     "numContrato": num_contrato,
                     "total_empenhado": valor_empenhado_grupo,
-                    "total_contratos": valor_empenhado_grupo,  # Sem informações do contrato, assumimos empenhado = contratado
-                    "diferenca": 0,
                     "detalhes_contrato": {
                         "modalidade": "Informações indisponíveis",
                         "tipoContratacao": "Informações indisponíveis",

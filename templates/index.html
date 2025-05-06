@@ -1,10 +1,11 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Consulta de Empenhos e Contratos</title>
+    <title>Consulta de Empenhos</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -12,7 +13,7 @@
 
 <body>
     <div class="container">
-        <h1>Consulta de Empenhos e Contratos</h1>
+        <h1>Consulta de Empenhos</h1>
 
         <form id="formEmpenho">
             <label for="anoEmpenho">Ano do Empenho:</label>
@@ -52,7 +53,6 @@
             </div>
         </div>
     </div>
-
     <script>
         $(document).ready(function () {
             // Armazenar dados de todos os contratos para usar no modal
@@ -100,9 +100,7 @@
                             $("#resumo-total").html(`
                         <div class="resumo-box">
                             <p><strong>Total de contratos:</strong> ${totalEmpresas}</p>
-                            <p><strong>Valor Total Contratado:</strong> R$ ${formatarValor(totalContratado)}</p>
                             <p><strong>Valor Total Empenhado:</strong> R$ ${formatarValor(totalEmpenhado)}</p>
-                            <p><strong>Valor Total a Empenhar:</strong> R$ ${formatarValor(totalContratado - totalEmpenhado)}</p>
                         </div>
                     `);
 

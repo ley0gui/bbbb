@@ -5,8 +5,6 @@
             "anoContrato": "SC",
             "numContrato": "0",
             "total_empenhado": 9734451.05,
-            "total_contratos": 0,
-            "diferenca": 0,
             "detalhes_contrato": {
                 "modalidade": "Sem Contrato",
                 "tipoContratacao": "Empenho Direto",
@@ -23,8 +21,6 @@
             "anoContrato": 2023,
             "numContrato": 25922,
             "total_empenhado": 7520892.24,
-            "total_contratos": 7662700.0,
-            "diferenca": 141807.75999999978,
             "detalhes_contrato": {
                 "modalidade": "Não Aplicável",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -46,8 +42,6 @@
             "anoContrato": "SC",
             "numContrato": "0",
             "total_empenhado": 3782166.9099999997,
-            "total_contratos": 0,
-            "diferenca": 0,
             "detalhes_contrato": {
                 "modalidade": "Sem Contrato",
                 "tipoContratacao": "Empenho Direto",
@@ -64,8 +58,6 @@
             "anoContrato": 2025,
             "numContrato": 2056,
             "total_empenhado": 2592151.83,
-            "total_contratos": 2827802.0,
-            "diferenca": 235650.16999999993,
             "detalhes_contrato": {
                 "modalidade": "Dispensa de Licitação",
                 "tipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
@@ -87,8 +79,6 @@
             "anoContrato": 2021,
             "numContrato": 26176,
             "total_empenhado": 2577090.12,
-            "total_contratos": 8869754.41,
-            "diferenca": 6292664.29,
             "detalhes_contrato": {
                 "modalidade": "Pregão",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -110,8 +100,6 @@
             "anoContrato": 2021,
             "numContrato": 27484,
             "total_empenhado": 2183010.25,
-            "total_contratos": 9475481.57,
-            "diferenca": 7292471.32,
             "detalhes_contrato": {
                 "modalidade": "Pregão",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -133,8 +121,6 @@
             "anoContrato": 2021,
             "numContrato": 23448,
             "total_empenhado": 1783559.88,
-            "total_contratos": 78779676.15,
-            "diferenca": 76996116.27000001,
             "detalhes_contrato": {
                 "modalidade": "Dispensa de Licitação",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -156,8 +142,6 @@
             "anoContrato": 2023,
             "numContrato": 25861,
             "total_empenhado": 1204175.57,
-            "total_contratos": 1204175.57,
-            "diferenca": 0,
             "detalhes_contrato": {
                 "modalidade": "Concorrência",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -179,8 +163,6 @@
             "anoContrato": 2021,
             "numContrato": 18904,
             "total_empenhado": 1161609.1,
-            "total_contratos": 3837000.84,
-            "diferenca": 2675391.7399999998,
             "detalhes_contrato": {
                 "modalidade": "Dispensa de Licitação",
                 "tipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
@@ -202,8 +184,6 @@
             "anoContrato": 2021,
             "numContrato": 15968,
             "total_empenhado": 992703.3,
-            "total_contratos": 4640116.13,
-            "diferenca": 3647412.83,
             "detalhes_contrato": {
                 "modalidade": "Não Aplicável",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -225,8 +205,6 @@
             "anoContrato": 2023,
             "numContrato": 17504,
             "total_empenhado": 877658.2600000001,
-            "total_contratos": 1742858.2,
-            "diferenca": 865199.9399999998,
             "detalhes_contrato": {
                 "modalidade": "Pregão",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -248,8 +226,6 @@
             "anoContrato": 2021,
             "numContrato": 24071,
             "total_empenhado": 816006.51,
-            "total_contratos": 2786553.08,
-            "diferenca": 1970546.57,
             "detalhes_contrato": {
                 "modalidade": "Pregão",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -271,8 +247,6 @@
             "anoContrato": 2025,
             "numContrato": 11843,
             "total_empenhado": 594235.6,
-            "total_contratos": 865637.83,
-            "diferenca": 271402.23,
             "detalhes_contrato": {
                 "modalidade": "Dispensa de Licitação",
                 "tipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
@@ -294,8 +268,6 @@
             "anoContrato": 2022,
             "numContrato": 31815,
             "total_empenhado": 385244.58,
-            "total_contratos": 754735.5,
-            "diferenca": 369490.92,
             "detalhes_contrato": {
                 "modalidade": "Pregão",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -317,8 +289,6 @@
             "anoContrato": 2021,
             "numContrato": 11688,
             "total_empenhado": 365852.04,
-            "total_contratos": 2304777.6399999997,
-            "diferenca": 1938925.5999999996,
             "detalhes_contrato": {
                 "modalidade": "Pregão",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -340,8 +310,6 @@
             "anoContrato": 2022,
             "numContrato": 12884,
             "total_empenhado": 358942.38,
-            "total_contratos": 1544595.86,
-            "diferenca": 1185653.48,
             "detalhes_contrato": {
                 "modalidade": "Pregão",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -363,8 +331,6 @@
             "anoContrato": 2023,
             "numContrato": 36257,
             "total_empenhado": 345317.6,
-            "total_contratos": 360150.47000000003,
-            "diferenca": 14832.870000000054,
             "detalhes_contrato": {
                 "modalidade": "Pregão",
                 "tipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
@@ -386,8 +352,6 @@
             "anoContrato": 2024,
             "numContrato": 3288,
             "total_empenhado": 314999.68000000005,
-            "total_contratos": 319218.7,
-            "diferenca": 4219.01999999996,
             "detalhes_contrato": {
                 "modalidade": "Pregão",
                 "tipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
@@ -409,8 +373,6 @@
             "anoContrato": 2023,
             "numContrato": 10617,
             "total_empenhado": 293880.07,
-            "total_contratos": 626972.23,
-            "diferenca": 333092.16,
             "detalhes_contrato": {
                 "modalidade": "Pregão",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -432,8 +394,6 @@
             "anoContrato": 2023,
             "numContrato": 367,
             "total_empenhado": 281430.87,
-            "total_contratos": 53977.57,
-            "diferenca": 0,
             "detalhes_contrato": {
                 "modalidade": "Pregão",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -455,8 +415,6 @@
             "anoContrato": 2023,
             "numContrato": 33610,
             "total_empenhado": 274539.81,
-            "total_contratos": 395880.0,
-            "diferenca": 121340.19,
             "detalhes_contrato": {
                 "modalidade": "Dispensa de Licitação",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -478,8 +436,6 @@
             "anoContrato": 2021,
             "numContrato": 18901,
             "total_empenhado": 240000.0,
-            "total_contratos": 1241114.82,
-            "diferenca": 1001114.8200000001,
             "detalhes_contrato": {
                 "modalidade": "Dispensa de Licitação",
                 "tipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
@@ -501,8 +457,6 @@
             "anoContrato": 2018,
             "numContrato": 896,
             "total_empenhado": 180000.0,
-            "total_contratos": 1107566.67,
-            "diferenca": 927566.6699999999,
             "detalhes_contrato": {
                 "modalidade": "Não Aplicável",
                 "tipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
@@ -524,8 +478,6 @@
             "anoContrato": 2021,
             "numContrato": 20023,
             "total_empenhado": 139727.07,
-            "total_contratos": 556463.96,
-            "diferenca": 416736.88999999996,
             "detalhes_contrato": {
                 "modalidade": "Pregão",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -547,8 +499,6 @@
             "anoContrato": 2021,
             "numContrato": 17564,
             "total_empenhado": 86082.84,
-            "total_contratos": 311577.12,
-            "diferenca": 225494.28,
             "detalhes_contrato": {
                 "modalidade": "Inexigibilidade",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -570,8 +520,6 @@
             "anoContrato": 2021,
             "numContrato": 8814,
             "total_empenhado": 71796.0,
-            "total_contratos": 241841.02,
-            "diferenca": 170045.02,
             "detalhes_contrato": {
                 "modalidade": "Não Aplicável",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -593,8 +541,6 @@
             "anoContrato": 2024,
             "numContrato": 26672,
             "total_empenhado": 37258.4,
-            "total_contratos": 55887.6,
-            "diferenca": 18629.199999999997,
             "detalhes_contrato": {
                 "modalidade": "Dispensa de Licitação",
                 "tipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
@@ -616,8 +562,6 @@
             "anoContrato": 2025,
             "numContrato": 607,
             "total_empenhado": 20000.0,
-            "total_contratos": 20000.0,
-            "diferenca": 0,
             "detalhes_contrato": {
                 "modalidade": "Dispensa de Licitação",
                 "tipoContratacao": "Ordem de Execução de Serviço",
@@ -639,8 +583,6 @@
             "anoContrato": 2023,
             "numContrato": 38439,
             "total_empenhado": 5709.5,
-            "total_contratos": 326052.0,
-            "diferenca": 320342.5,
             "detalhes_contrato": {
                 "modalidade": "Dispensa de Licitação",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -662,8 +604,6 @@
             "anoContrato": 2021,
             "numContrato": 15971,
             "total_empenhado": 3343.84,
-            "total_contratos": 18514.91,
-            "diferenca": 15171.07,
             "detalhes_contrato": {
                 "modalidade": "Não Aplicável",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -685,8 +625,6 @@
             "anoContrato": "SC",
             "numContrato": "0",
             "total_empenhado": 3000.0,
-            "total_contratos": 0,
-            "diferenca": 0,
             "detalhes_contrato": {
                 "modalidade": "Sem Contrato",
                 "tipoContratacao": "Empenho Direto",
