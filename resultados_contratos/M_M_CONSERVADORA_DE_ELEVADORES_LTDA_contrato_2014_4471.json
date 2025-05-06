@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6022201700010065",
+            "codModalidade": 8,
+            "datVigencia": "13/02/2015 00:00:00",
+            "valAditamentos": 331128.46,
+            "codContrato": 4471,
+            "valLiquidado": 375803.11,
+            "codOrgao": "22",
+            "valPago": 375803.11,
+            "valAnulacao": 110197.94,
+            "valEmpenhadoLiquido": 375803.11,
+            "valTotalEmpenhado": 465348.57,
+            "anoContrato": 2014,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 89545.46,
+            "valPrincipal": 60000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "MANUNTENÇÃO PREVENTIVA E CORRETIVA COM SUBSTITUIÇÃO DE PEÇAS PARA OS 6 ELEVADORES DO EDIFICIO DOMINGOS FERNANDES ALONSO"
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "razao_social": "DMN CHAVEIROS E FECHADURAS LTDA - ME",
+    "resultado": {
+        "razao_social": "DMN CHAVEIROS E FECHADURAS LTDA - ME",
+        "total_empenhado": 664.0,
+        "quantidade_empenhos": 2,
+        "empenhos": [
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 3207,
+                "codEmpenho": 2433,
+                "anoEmpenho": 2015,
+                "mesEmpenho": 1,
+                "datEmpenho": "23/01/2015 00:00:00",
+                "codProcesso": "201400272137",
+                "numCpfCnpj": "03778302000183",
+                "txtRazaoSocial": "DMN CHAVEIROS E FECHADURAS LTDA - ME",
+                "numContrato": 3044,
+                "anoContrato": 2014,
+                "codOrgao": "22",
+                "txDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Gabinete do Secretário",
+                "codFuncao": "15",
+                "txDescricaoFuncao": "Urbanismo",
+                "codSubFuncao": "122",
+                "txDescricaoSubFuncao": "Administração Geral",
+                "codPrograma": "3024",
+                "txDescricaoPrograma": "Suporte Administrativo",
+                "codProjetoAtividade": "2100",
+                "txDescricaoProjetoAtividade": "Administração da Unidade",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "39",
+                "txDescricaoElemento": "OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA",
+                "codFonteRecurso": "00",
+                "txDescricaoFonteRecurso": "Tesouro Municipal",
+                "codItemDespesa": "9",
+                "txDescricaoItemDespesa": "Outros Serviços de Terceiros - PJ",
+                "codSubElemento": "9",
+                "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros -Pessoa Jurídica",
+                "valTotalEmpenhado": 1323.34,
+                "valAnuladoEmpenho": 659.34,
+                "valEmpenhadoLiquido": 664.0,
+                "valLiquidado": 664.0,
+                "valPagoExercicio": 664.0,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "UND",
+                        "descricaoAnexo": "SERVIÇOS DE CONFECÇÕES DE CHAVES E SEGREDOS, TROCA DE FECHADURAS, ABERTURA E CONSERTO DE FECHADURAS",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 1323.34
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            },
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 11815,
+                "codEmpenho": 17856,
+                "anoEmpenho": 2015,
+                "mesEmpenho": 2,
+                "datEmpenho": "09/02/2015 00:00:00",
+                "codProcesso": "201500205130",
+                "numCpfCnpj": "03778302000183",
+                "txtRazaoSocial": "DMN CHAVEIROS E FECHADURAS LTDA - ME",
+                "numContrato": 2925,
+                "anoContrato": 2015,
+                "codOrgao": "22",
+                "txDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Gabinete do Secretário",
+                "codFuncao": "15",
+                "txDescricaoFuncao": "Urbanismo",
+                "codSubFuncao": "122",
+                "txDescricaoSubFuncao": "Administração Geral",
+                "codPrograma": "3024",
+                "txDescricaoPrograma": "Suporte Administrativo",
+                "codProjetoAtividade": "2100",
+                "txDescricaoProjetoAtividade": "Administração da Unidade",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "39",
+                "txDescricaoElemento": "SERVIÇO DE APOIO ADMINISTRATIVO, TÉCNICO E OPERACIONAL",
+                "codFonteRecurso": "00",
+                "txDescricaoFonteRecurso": "Tesouro Municipal",
+                "codItemDespesa": "9",
+                "txDescricaoItemDespesa": "Outros Serviços de Apoio Administrativo, Técnico e Operacional",
+                "codSubElemento": "7",
+                "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros -Pessoa Jurídica",
+                "valTotalEmpenhado": 7980.0,
+                "valAnuladoEmpenho": 7980.0,
+                "valEmpenhadoLiquido": 0.0,
+                "valLiquidado": 0.0,
+                "valPagoExercicio": 0.0,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "UND",
+                        "descricaoAnexo": "COMUM YALE",
+                        "qtdeAnexo": 30,
+                        "valorUnitarioAnexo": 9.0
+                    },
+                    {
+                        "siglaUnidadeMedida": "UND",
+                        "descricaoAnexo": "TETRA",
+                        "qtdeAnexo": 5,
+                        "valorUnitarioAnexo": 25.0
+                    },
+                    {
+                        "siglaUnidadeMedida": "UND",
+                        "descricaoAnexo": "GORJE",
+                        "qtdeAnexo": 5,
+                        "valorUnitarioAnexo": 25.0
+                    },
+                    {
+                        "siglaUnidadeMedida": "UND",
+                        "descricaoAnexo": "MULTI-PONTO",
+                        "qtdeAnexo": 5,
+                        "valorUnitarioAnexo": 90.0
+                    },
+                    {
+                        "siglaUnidadeMedida": "UND",
+                        "descricaoAnexo": "TROCA DE FECHADURAS (PORTAS)",
+                        "qtdeAnexo": 6,
+                        "valorUnitarioAnexo": 260.0
+                    },
+                    {
+                        "siglaUnidadeMedida": "UND",
+                        "descricaoAnexo": "TROCA DE FECHADURAS (ARQUIVOS E ARMÁRIOS)",
+                        "qtdeAnexo": 10,
+                        "valorUnitarioAnexo": 80.0
+                    },
+                    {
+                        "siglaUnidadeMedida": "UND",
+                        "descricaoAnexo": "ABERTURA DE FECHADURAS (PORTA)",
+                        "qtdeAnexo": 10,
+                        "valorUnitarioAnexo": 70.0
+                    },
+                    {
+                        "siglaUnidadeMedida": "UND",
+                        "descricaoAnexo": "ABERTURA DE FECHADURA TETRA",
+                        "qtdeAnexo": 5,
+                        "valorUnitarioAnexo": 80.0
+                    },
+                    {
+                        "siglaUnidadeMedida": "UND",
+                        "descricaoAnexo": "ABERTURA DE ARMÁRIOS E ARQUIVOS",
+                        "qtdeAnexo": 10,
+                        "valorUnitarioAnexo": 45.0
+                    },
+                    {
+                        "siglaUnidadeMedida": "UND",
+                        "descricaoAnexo": "CONFECÇÃO DE SEGREDO DE PORTA",
+                        "qtdeAnexo": 10,
+                        "valorUnitarioAnexo": 80.0
+                    },
+                    {
+                        "siglaUnidadeMedida": "UND",
+                        "descricaoAnexo": "CONFECÇÃO DE SEGREDO DE ARMÁRIOS E ARQUIVO",
+                        "qtdeAnexo": 20,
+                        "valorUnitarioAnexo": 50.0
+                    },
+                    {
+                        "siglaUnidadeMedida": "UND",
+                        "descricaoAnexo": "CONFECÇÃO DE SEGREDOS TETRA",
+                        "qtdeAnexo": 5,
+                        "valorUnitarioAnexo": 110.0
+                    },
+                    {
+                        "siglaUnidadeMedida": "UND",
+                        "descricaoAnexo": "CONSERTO DE FECHADURA",
+                        "qtdeAnexo": 5,
+                        "valorUnitarioAnexo": 150.0
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 1294.44,
+            "codProcesso": "6022202100006588",
+            "codModalidade": 8,
+            "datVigencia": "01/06/2025 00:00:00",
+            "datAssinaturaContrato": "02/06/2021 00:00:00",
+            "valAditamentos": 27375.24,
+            "codContrato": 8836,
+            "valLiquidado": 30806.36,
+            "codOrgao": "22",
+            "valPago": 30212.19,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 32014.41,
+            "valTotalEmpenhado": 41895.71,
+            "anoContrato": 2021,
+            "numOriginalContrato": "004/SIURB/2021",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 9881.3,
+            "datPublicacaoContrato": "04/06/2021 00:00:00",
+            "valPrincipal": 10320.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de serviços de locação, instalação e manutenção de aparelhos purificadores de água"
+        }
+    ]
+}

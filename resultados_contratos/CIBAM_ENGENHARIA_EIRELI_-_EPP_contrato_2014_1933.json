@@ -1,0 +1,55 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6022201600003849",
+            "codModalidade": 12,
+            "datVigencia": "02/01/2015 00:00:00",
+            "valAditamentos": 194874.89,
+            "codContrato": 1933,
+            "valLiquidado": 241629.37,
+            "codOrgao": "22",
+            "valPago": 241629.37,
+            "valAnulacao": 50528.51,
+            "valEmpenhadoLiquido": 241629.37,
+            "valTotalEmpenhado": 260796.63,
+            "anoContrato": 2014,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 19167.26,
+            "valPrincipal": 43286.88,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "MANUTENÇÃO E REPARO NOS QUADROS ELETRICOS E BOMBAS DAS CAIXAS D´AGUA NOS EDIFICIOS DOMINGOS FERNANDES ALONSO E MENDES CALDEIRA"
+        },
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "10",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "201402891624",
+            "codModalidade": 12,
+            "datVigencia": "14/10/2015 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 1933,
+            "valLiquidado": 18817.5,
+            "codOrgao": "01",
+            "valPago": 18817.5,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 18817.5,
+            "valTotalEmpenhado": 18817.5,
+            "anoContrato": 2014,
+            "txtDescricaoOrgao": "Autarquia Hospitalar Municipal",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 18817.5,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "CURATIVO ADESIVO FILME TRANSPARENTE 6,0 CM X 7,0 CM E CURATIVO ADESIVO FILME TRANSPARENTE 10,0 CM X 12,0 CM "
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 2146.38,
+            "codProcesso": "6022202200024847",
+            "codModalidade": 12,
+            "datVigencia": "02/01/2026 00:00:00",
+            "datAssinaturaContrato": "13/12/2022 00:00:00",
+            "valAditamentos": 39759.84,
+            "codContrato": 33597,
+            "valLiquidado": 45706.32,
+            "codOrgao": "22",
+            "valPago": 43926.26,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 61726.86,
+            "valTotalEmpenhado": 63438.74,
+            "anoContrato": 2022,
+            "numOriginalContrato": "262/SIURB/22",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 1711.88,
+            "datPublicacaoContrato": "20/12/2022 00:00:00",
+            "valPrincipal": 19879.92,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada para prestação/realização de serviços em manutenção preventiva e corretiva, com fornecimento e substituição de peças, sem ônus ou custo adicional a administração pública, nas bombas d'água e quadros elétricos das bombas na sede da secretaria municipal de infraestrutura urbana e obras - SIURB, conforme especificações estabelecidas nas descrições e condições constantes do termo de referência anexo II."
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6022202100008580",
+            "codModalidade": 8,
+            "datVigencia": "07/05/2026 00:00:00",
+            "datAssinaturaContrato": "07/05/2021 00:00:00",
+            "valAditamentos": 241841.02,
+            "codContrato": 8814,
+            "valLiquidado": 240035.32,
+            "codOrgao": "22",
+            "valPago": 240035.32,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 300212.2,
+            "valTotalEmpenhado": 334677.2,
+            "anoContrato": 2021,
+            "numOriginalContrato": "013/SIURB/21",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 34465.0,
+            "datPublicacaoContrato": "20/05/2021 00:00:00",
+            "valPrincipal": 150820.8,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "ATA de RP 02/2021 Ministério da Economia - Prestação de serviços de telefonia - Serviço Telefônico Fixo Comutado – STFC (fixo-fixo e fixo-móvel) e de Serviço Móvel Pessoal - SMP (Móvel-Móvel, Móvel-Fixo e dados), nas modalidades Local, Longa Distância Nacional (LDN) e Longa Distância Internacional (LDI)"
+        }
+    ]
+}

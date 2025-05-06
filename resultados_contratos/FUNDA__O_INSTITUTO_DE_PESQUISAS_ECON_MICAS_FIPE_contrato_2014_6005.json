@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 80671.44,
+            "codProcesso": "201303450590",
+            "codModalidade": 6,
+            "datVigencia": "09/04/2016 00:00:00",
+            "valAditamentos": 1487400.0,
+            "codContrato": 6005,
+            "valLiquidado": 2793331.32,
+            "codOrgao": "22",
+            "valPago": 2793331.32,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 2793331.32,
+            "valTotalEmpenhado": 3848700.94,
+            "anoContrato": 2014,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 1055369.62,
+            "valPrincipal": 1242600.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "SERVIÇOS TÉCNICOS VISANDO O LEVANTAMENTO DE CUSTOS MÉDIOS, DOS INSUMOS ADOTADOS NAS TABELAS DE SIURB E ELABORAÇÃO DOS INDICES DE PAVIMENTAÇÃO DE VIAS ARTERIAIS E DE TRAFEGO LEVE."
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 259555.24,
+            "codProcesso": "6022202100009862",
+            "codModalidade": 12,
+            "datVigencia": "14/07/2025 00:00:00",
+            "datAssinaturaContrato": "02/07/2021 00:00:00",
+            "valAditamentos": 2045222.4,
+            "codContrato": 11688,
+            "valLiquidado": 2565280.93,
+            "codOrgao": "22",
+            "valPago": 2565280.93,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 2870157.63,
+            "valTotalEmpenhado": 3786611.49,
+            "anoContrato": 2021,
+            "numOriginalContrato": "022/SIURB/21",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 916453.86,
+            "datPublicacaoContrato": "03/07/2021 00:00:00",
+            "valPrincipal": 612000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de uma empresa especializada na prestação de serviços de Prevenção e Combate a Incêndio de Bombeiro Civil"
+        }
+    ]
+}

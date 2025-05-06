@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6022201700000213",
+            "codModalidade": 8,
+            "datVigencia": "23/08/2016 00:00:00",
+            "valAditamentos": 25950.0,
+            "codContrato": 22431,
+            "valLiquidado": 36111.3,
+            "codOrgao": "22",
+            "valPago": 36111.3,
+            "valAnulacao": 18661.37,
+            "valEmpenhadoLiquido": 36111.3,
+            "valTotalEmpenhado": 60012.84,
+            "anoContrato": 2015,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 23901.54,
+            "valPrincipal": 25950.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "ATA de RP  021/2014 - PG 142/2014 - TRIBUNAL REGIONAL DO TRABALHO 2a REGIÃO\r\nAQUISIÇÃO DE ÁGUA MINERAL SEM GAS - 20 LITROS"
+        }
+    ]
+}

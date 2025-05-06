@@ -1,0 +1,239 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7fc; /* Fundo suave */
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #002b5b; /* Azul escuro */
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: #002b5b;
+    margin-top: 30px;
+    text-align: center;
+}
+
+h3 {
+    color: #004080;
+    margin-bottom: 10px;
+}
+
+label {
+    font-weight: bold;
+    color: #002b5b; /* Azul escuro */
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    background-color: #004080; /* Azul escuro */
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background-color: #005bb5; /* Azul mais claro */
+}
+
+select:focus, input:focus {
+    border-color: #005bb5;
+    outline: none;
+}
+
+/* Estilos para os resultados */
+#graficos-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.grafico-box {
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.empresa-card {
+    width: 300px;
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+}
+
+.empresa-card:hover {
+    transform: translateY(-5px);
+}
+
+.empresa-dados {
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+.empresa-dados p {
+    margin: 5px 0;
+}
+
+.grafico-empresa {
+    display: flex;
+    justify-content: center;
+}
+
+.resumo-box {
+    background-color: #e8f0fe;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 20px 0;
+    text-align: center;
+    border-left: 5px solid #004080;
+}
+
+/* Spinner de carregamento */
+.spinner {
+    border: 4px solid rgba(0, 0, 0, 0.1);
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border-left-color: #004080;
+    animation: spin 1s linear infinite;
+    margin: 20px auto;
+}
+
+.contrato {
+    text-align: center;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 10% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 700px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.modal-title {
+    margin: 0;
+    color: #004080;
+    font-size: 1.5em;
+}
+
+.close-modal {
+    color: #aaa;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close-modal:hover {
+    color: #555;
+}
+
+.modal-body {
+    margin-bottom: 15px;
+}
+
+.info-group {
+    margin-bottom: 15px;
+}
+
+.info-group h4 {
+    margin-bottom: 5px;
+    color: #004080;
+}
+
+.info-item {
+    margin: 5px 0;
+    padding: 5px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.info-label {
+    font-weight: bold;
+    display: inline-block;
+    min-width: 150px;
+}
+
+.empresa-card, .grafico-empresa {
+    cursor: pointer;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+        padding: 15px;
+    }
+    
+    .empresa-card {
+        width: 100%;
+    }
+}

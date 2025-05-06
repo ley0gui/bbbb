@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 57983.72,
+            "codProcesso": "6022202100013070",
+            "codModalidade": 12,
+            "datVigencia": "24/10/2025 00:00:00",
+            "datAssinaturaContrato": "20/10/2021 00:00:00",
+            "valAditamentos": 498480.24,
+            "codContrato": 20023,
+            "valLiquidado": 595957.99,
+            "codOrgao": "22",
+            "valPago": 595957.99,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 689109.37,
+            "valTotalEmpenhado": 716801.94,
+            "anoContrato": 2021,
+            "numOriginalContrato": "058/SIURB/2021",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 27692.57,
+            "datPublicacaoContrato": "21/10/2021 00:00:00",
+            "valPrincipal": 160800.04,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada na prestação de serviços contínuos de copeiras, com fornecimento de mão–de–obra uniformizada, com inclusão de todos os encargos sociais e tributos, bem como de todas e quaisquer despesas, sejam estas diretas ou indiretas, necessárias para a perfeita e total execução dos serviços, para a Secretaria Municipal de Infra-estrutura Urbana e Obras - SIURB."
+        }
+    ]
+}

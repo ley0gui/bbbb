@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6022202100021811",
+            "codModalidade": 6,
+            "datVigencia": "31/12/2025 00:00:00",
+            "valAditamentos": 1241114.82,
+            "codContrato": 18901,
+            "valLiquidado": 648778.89,
+            "codOrgao": "22",
+            "valPago": 648778.89,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 851712.48,
+            "valTotalEmpenhado": 1038158.88,
+            "anoContrato": 2021,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 186446.4,
+            "valPrincipal": 39200.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": " Para atender as despesas decorrentes da utilização dos serviços prestados pela concessionária  COMPANHIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO - SABESP,"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Convite",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 24967.85,
+            "codProcesso": "6022201700000230",
+            "codModalidade": 2,
+            "datVigencia": "08/04/2019 00:00:00",
+            "valAditamentos": 138115.68,
+            "codContrato": 2554,
+            "valLiquidado": 194017.27,
+            "codOrgao": "22",
+            "valPago": 194017.27,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 194017.27,
+            "valTotalEmpenhado": 223473.41,
+            "anoContrato": 2014,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 29456.14,
+            "valPrincipal": 34920.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "CONSERVAÇÃO E MANUTENÇÃO DE ELEVADORES "
+        }
+    ]
+}

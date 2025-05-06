@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 1046481.57,
+            "codProcesso": "6022202100012138",
+            "codModalidade": 12,
+            "datVigencia": "16/10/2025 00:00:00",
+            "datAssinaturaContrato": "16/12/2021 00:00:00",
+            "valAditamentos": 8429000.0,
+            "codContrato": 27484,
+            "valLiquidado": 11171004.52,
+            "codOrgao": "22",
+            "valPago": 10840732.96,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 12371082.71,
+            "valTotalEmpenhado": 13409485.09,
+            "anoContrato": 2021,
+            "numOriginalContrato": "103/SIURB/21",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 1038402.38,
+            "datPublicacaoContrato": "29/12/2021 00:00:00",
+            "valPrincipal": 4110000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa para prestação de serviço de transporte mediante locação de veículos novos, em caráter não eventual, com quilometragem livre, com condutor e combustível, GPS."
+        }
+    ]
+}

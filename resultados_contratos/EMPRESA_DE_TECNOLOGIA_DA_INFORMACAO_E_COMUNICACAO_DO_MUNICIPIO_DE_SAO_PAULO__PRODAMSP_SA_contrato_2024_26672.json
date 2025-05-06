@@ -1,0 +1,31 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6022202400057196",
+            "codModalidade": 6,
+            "valAditamentos": 0.0,
+            "codContrato": 26672,
+            "valLiquidado": 0.0,
+            "codOrgao": "22",
+            "valPago": 0.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 37258.4,
+            "valTotalEmpenhado": 51230.3,
+            "anoContrato": 2024,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 13971.9,
+            "valPrincipal": 55887.6,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Prestação de Serviços de Comunicação de Dados - SD-WAN para o suporte aos negócios para SIURB"
+        }
+    ]
+}

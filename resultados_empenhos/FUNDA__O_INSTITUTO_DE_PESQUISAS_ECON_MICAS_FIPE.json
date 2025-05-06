@@ -1,0 +1,68 @@
+{
+    "razao_social": "FUNDAÇÃO INSTITUTO DE PESQUISAS ECONÔMICAS FIPE",
+    "resultado": {
+        "razao_social": "FUNDAÇÃO INSTITUTO DE PESQUISAS ECONÔMICAS FIPE",
+        "total_empenhado": 2592151.83,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 4113,
+                "codEmpenho": 14954,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "31/01/2025 00:00:00",
+                "codProcesso": "6022202400095705",
+                "numCpfCnpj": "43942358000146",
+                "txtRazaoSocial": "FUNDAÇÃO INSTITUTO DE PESQUISAS ECONÔMICAS FIPE",
+                "numContrato": 2056,
+                "anoContrato": 2025,
+                "codOrgao": "22",
+                "txDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Gabinete do Secretário",
+                "codFuncao": "15",
+                "txDescricaoFuncao": "Urbanismo",
+                "codSubFuncao": "122",
+                "txDescricaoSubFuncao": "Administração Geral",
+                "codPrograma": "3024",
+                "txDescricaoPrograma": "Suporte Administrativo",
+                "codProjetoAtividade": "2100",
+                "txDescricaoProjetoAtividade": "Administração da Unidade",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "39",
+                "txDescricaoElemento": "Serviços Técnicos Profissionais",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "3",
+                "txDescricaoItemDespesa": "Pesquisa em Geral",
+                "codSubElemento": "0",
+                "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
+                "valTotalEmpenhado": 2592151.83,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 2592151.83,
+                "valLiquidado": 179733.5,
+                "valPagoExercicio": 0.0,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "U",
+                        "descricaoAnexo": "Levantamento custos médios de 3000 insumos adotados nas tabelas de SIURB, elaboração de 04 índices-Pavimentação de Tráfego Leve, Pavimentação de Vias Arteriais, Mão de Obra e Locação de Veículos e Criação de até 100 composições de custos unitários (CPU’s)",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 2592151.83
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

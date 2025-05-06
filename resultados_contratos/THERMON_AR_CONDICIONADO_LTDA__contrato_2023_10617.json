@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 74972.23,
+            "codProcesso": "6022202100009897",
+            "codModalidade": 12,
+            "datVigencia": "07/12/2025 00:00:00",
+            "datAssinaturaContrato": "06/12/2021 00:00:00",
+            "valAditamentos": 552000.0,
+            "codContrato": 10617,
+            "valLiquidado": 665230.09,
+            "codOrgao": "22",
+            "valPago": 638513.72,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 878961.05,
+            "valTotalEmpenhado": 927441.18,
+            "anoContrato": 2023,
+            "numOriginalContrato": "086/SIURB/2021",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 48480.13,
+            "datPublicacaoContrato": "09/12/2021 00:00:00",
+            "valPrincipal": 276000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Manutenção preventiva e corretiva de aparelhos de ar condicionado, incluindo mão de obra, equipamentos e materiais necessários à manutenção, para atender a Secretaria Municipal de Infraestrutura Urbana e Obras."
+        }
+    ]
+}

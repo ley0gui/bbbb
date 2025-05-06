@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "201201838262",
+            "codModalidade": 6,
+            "datVigencia": "30/12/2014 00:00:00",
+            "valAditamentos": 570000.0,
+            "codContrato": 17945,
+            "valLiquidado": 246546.71,
+            "codOrgao": "22",
+            "valPago": 246546.71,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 246546.71,
+            "valTotalEmpenhado": 526904.68,
+            "anoContrato": 2012,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 280357.97,
+            "valPrincipal": 350000.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "CONSUMO DE LIGAÇÕES TELEFONICAS FIXAS NOS PRORPIOS MUNICIPAIS - DA TELEFONICA BRASIL S.A."
+        }
+    ]
+}

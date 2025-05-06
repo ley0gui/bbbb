@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 67915.28,
+            "codProcesso": "6022201700019852",
+            "codModalidade": 12,
+            "datVigencia": "15/06/2024 00:00:00",
+            "datAssinaturaContrato": "09/04/2018 00:00:00",
+            "valAditamentos": 955972.31,
+            "codContrato": 7633,
+            "valLiquidado": 1105166.95,
+            "codOrgao": "22",
+            "valPago": 1105166.95,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1105166.95,
+            "valTotalEmpenhado": 1270251.6,
+            "anoContrato": 2018,
+            "numOriginalContrato": "005/SMSO/18",
+            "txtDescricaoOrgao": "Secretaria Municipal de Serviços e Obras",
+            "valAnuladoEmpenho": 165084.65,
+            "datPublicacaoContrato": "20/04/2018 00:00:00",
+            "valPrincipal": 157000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada em locação, instalação, manutenção preventiva e corretiva de Central Privativa de Comutação Telefônica – CPCT do tipo PABX, com tecnologia CPA-T digital - TDM/IP (híbrido – analógico, digital e VoIP), bem como atualizações de software que se fizerem necessárias."
+        }
+    ]
+}

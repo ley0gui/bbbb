@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 87342.52,
+            "codProcesso": "6022202200047340",
+            "codModalidade": 12,
+            "datVigencia": "02/05/2026 00:00:00",
+            "datAssinaturaContrato": "14/04/2023 00:00:00",
+            "valAditamentos": 1655515.68,
+            "codContrato": 17504,
+            "valLiquidado": 1499021.77,
+            "codOrgao": "22",
+            "valPago": 1427986.35,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 2163573.77,
+            "valTotalEmpenhado": 2163573.77,
+            "anoContrato": 2023,
+            "numOriginalContrato": "053/SIURB/2023",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 0.0,
+            "datPublicacaoContrato": "19/04/2023 00:00:00",
+            "valPrincipal": 720000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de serviços técnicos especializados para suporte de tecnologia da informação, envolvendo sustentação de sistemas de informações; documentação e revisão de processos; suporte a banco de dados; servidor de aplicação, bem como aplicação e serviços contínuos de infraestrutura de tecnologia da informação nos serviços de Help Desk, Service Desk e cabeamento de serviços de implantação de infraestrutura lógica."
+        }
+    ]
+}

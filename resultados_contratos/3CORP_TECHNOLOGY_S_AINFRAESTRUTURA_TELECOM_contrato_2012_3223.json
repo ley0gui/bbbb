@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 44454.35,
+            "codProcesso": "6022201700000949",
+            "codModalidade": 12,
+            "datVigencia": "08/02/2017 00:00:00",
+            "valAditamentos": 262843.82,
+            "codContrato": 3223,
+            "valLiquidado": 359261.72,
+            "codOrgao": "22",
+            "valPago": 359261.72,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 359261.72,
+            "valTotalEmpenhado": 383526.48,
+            "anoContrato": 2012,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 24264.76,
+            "valPrincipal": 52147.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "LOCAÇÃO, INSTALAÇÃO, MANUTENÇÃO PREVENTIVA E CORRETIVA DE CENTRAL PRIVATIVA DE COMUNICAÇÃO TELEFONICA - CPCT DO TIPO PABX. COM BASE NO ARTIGO 4º, INCISOS XXI E XXII DA LEI FEDERAL Nº 10.520/2002 E NO USO DE COMPETENCIA DELEGADA PELA PORTARIA Nº 02/2011/SIURB."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6022201700000221",
+            "codModalidade": 6,
+            "datVigencia": "08/10/2018 00:00:00",
+            "datAssinaturaContrato": "30/12/2014 00:00:00",
+            "valAditamentos": 9960.0,
+            "codContrato": 27090,
+            "valLiquidado": 8822.28,
+            "codOrgao": "22",
+            "valPago": 8822.28,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 8822.28,
+            "valTotalEmpenhado": 12141.8,
+            "anoContrato": 2014,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 3319.52,
+            "datPublicacaoContrato": "10/01/2015 00:00:00",
+            "valPrincipal": 1287.42,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "GAS NATURAL PARA USO NO 23o ANDAR DO EDIFICIO DOMINGOS FERNANDES ALONSO"
+        }
+    ]
+}

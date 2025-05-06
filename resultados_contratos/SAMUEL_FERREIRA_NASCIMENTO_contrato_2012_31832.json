@@ -1,0 +1,34 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 1110.42,
+            "codProcesso": "200503274204",
+            "codModalidade": 8,
+            "datVigencia": "21/09/2016 00:00:00",
+            "datAssinaturaContrato": "14/02/2014 00:00:00",
+            "valAditamentos": 17794.56,
+            "codContrato": 31832,
+            "valLiquidado": 4004.99,
+            "codOrgao": "22",
+            "valPago": 4004.99,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 4004.99,
+            "valTotalEmpenhado": 12432.95,
+            "anoContrato": 2012,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 8427.96,
+            "datPublicacaoContrato": "14/02/2014 00:00:00",
+            "valPrincipal": 21140.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "PAGAMENTO DE ALUGUEL POR FORÇA DE MANDATO JUDICIAL CONFORME OFICIO 375/05 - JUD 32"
+        }
+    ]
+}

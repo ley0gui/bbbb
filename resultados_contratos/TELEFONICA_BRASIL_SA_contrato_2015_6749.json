@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6022201700000809",
+            "codModalidade": 8,
+            "datVigencia": "29/03/2021 00:00:00",
+            "valAditamentos": 158257.8,
+            "codContrato": 6749,
+            "valLiquidado": 78269.49,
+            "codOrgao": "22",
+            "valPago": 78269.49,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 78269.49,
+            "valTotalEmpenhado": 203050.77,
+            "anoContrato": 2015,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 124781.28,
+            "valPrincipal": 31651.56,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "PRESTAÇÃO DE TELEFONIA MÓVEL, PARA USO DOS FUNCIONÁRIOS DESTA PASTA"
+        }
+    ]
+}

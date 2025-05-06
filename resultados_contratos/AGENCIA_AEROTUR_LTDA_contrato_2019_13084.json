@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6022201900027786",
+            "codModalidade": 8,
+            "datVigencia": "29/06/2025 00:00:00",
+            "datAssinaturaContrato": "26/06/2019 00:00:00",
+            "valAditamentos": 300000.0,
+            "codContrato": 13084,
+            "valLiquidado": 47549.46,
+            "codOrgao": "22",
+            "valPago": 47549.46,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 47549.46,
+            "valTotalEmpenhado": 365163.27,
+            "anoContrato": 2019,
+            "numOriginalContrato": "044/SIURB/2019",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 317613.81,
+            "datPublicacaoContrato": "27/06/2019 00:00:00",
+            "valPrincipal": 60000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Ata de RP nº 007/SG-COBES/2018 - Contratação de empresa especializada para prestação de serviços de agenciamento de passagens aéreas."
+        }
+    ]
+}

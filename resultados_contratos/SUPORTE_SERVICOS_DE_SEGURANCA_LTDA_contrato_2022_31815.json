@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 39384.54,
+            "codProcesso": "6022202100012308",
+            "codModalidade": 12,
+            "datVigencia": "28/02/2026 00:00:00",
+            "datAssinaturaContrato": "30/12/2022 00:00:00",
+            "valAditamentos": 715350.96,
+            "codContrato": 31815,
+            "valLiquidado": 732810.98,
+            "codOrgao": "22",
+            "valPago": 732810.98,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1056079.9,
+            "valTotalEmpenhado": 1148780.27,
+            "anoContrato": 2022,
+            "numOriginalContrato": "270/SIURB/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 92700.37,
+            "datPublicacaoContrato": "11/01/2023 00:00:00",
+            "valPrincipal": 360956.98,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada na prestação de serviços e implantação da instalação do sistema de segurança e vigilância\neletrônica, com circuito fechado de televisão CFTV e compartilhamento na plataforma CITY CAMERAS com armazenamento em “nuvem”, executados de forma contínua nas dependências da Secretaria Municipal de Infraestrutura Urbana e Obras - SIURB."
+        }
+    ]
+}

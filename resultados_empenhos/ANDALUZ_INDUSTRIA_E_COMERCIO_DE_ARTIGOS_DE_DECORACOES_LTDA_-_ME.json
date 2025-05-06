@@ -1,0 +1,68 @@
+{
+    "razao_social": "ANDALUZ INDUSTRIA E COMERCIO DE ARTIGOS DE DECORACOES LTDA - ME",
+    "resultado": {
+        "razao_social": "ANDALUZ INDUSTRIA E COMERCIO DE ARTIGOS DE DECORACOES LTDA - ME",
+        "total_empenhado": 14391.12,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 1915,
+                "codEmpenho": 1477,
+                "anoEmpenho": 2015,
+                "mesEmpenho": 1,
+                "datEmpenho": "22/01/2015 00:00:00",
+                "codProcesso": "201402888917",
+                "numCpfCnpj": "10936330000147",
+                "txtRazaoSocial": "ANDALUZ INDUSTRIA E COMERCIO DE ARTIGOS DE DECORACOES LTDA - ME",
+                "numContrato": 29026,
+                "anoContrato": 2014,
+                "codOrgao": "22",
+                "txDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Gabinete do Secretário",
+                "codFuncao": "15",
+                "txDescricaoFuncao": "Urbanismo",
+                "codSubFuncao": "122",
+                "txDescricaoSubFuncao": "Administração Geral",
+                "codPrograma": "3024",
+                "txDescricaoPrograma": "Suporte Administrativo",
+                "codProjetoAtividade": "2100",
+                "txDescricaoProjetoAtividade": "Administração da Unidade",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "39",
+                "txDescricaoElemento": "OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA",
+                "codFonteRecurso": "00",
+                "txDescricaoFonteRecurso": "Tesouro Municipal",
+                "codItemDespesa": "9",
+                "txDescricaoItemDespesa": "Outros Serviços de Terceiros - PJ",
+                "codSubElemento": "9",
+                "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros -Pessoa Jurídica",
+                "valTotalEmpenhado": 64231.2,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 14391.12,
+                "valLiquidado": 14391.12,
+                "valPagoExercicio": 14391.12,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "SVS",
+                        "descricaoAnexo": "SERVS DE INSTALAÇÃO DE DIVISORIAS COM FORNECIMENTO DE MATERIAIS E MÃO DE OBRA CONF. ATA RP Nº 035/SMADS 2014",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 64231.2
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

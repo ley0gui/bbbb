@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 846285.79,
+            "codProcesso": "6022201700010600",
+            "codModalidade": 12,
+            "datVigencia": "21/04/2018 00:00:00",
+            "valAditamentos": 3139641.3,
+            "codContrato": 10911,
+            "valLiquidado": 3814493.85,
+            "codOrgao": "22",
+            "valPago": 3814493.85,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 3814493.85,
+            "valTotalEmpenhado": 4274466.05,
+            "anoContrato": 2014,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 459972.2,
+            "valPrincipal": 6900.7,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "CT 056/SIURB/2012 - Prorrogação de Prazo"
+        }
+    ]
+}

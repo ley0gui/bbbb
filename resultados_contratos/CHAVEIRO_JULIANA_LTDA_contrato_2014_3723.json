@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "201400272153",
+            "codModalidade": 6,
+            "datVigencia": "23/02/2015 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 3723,
+            "valLiquidado": 6669.0,
+            "codOrgao": "22",
+            "valPago": 6669.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 6669.0,
+            "valTotalEmpenhado": 7905.0,
+            "anoContrato": 2014,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 1236.0,
+            "valPrincipal": 7905.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação da empresa para prestação de serviços de confecção de carimbos para esta pasta, nos termos das informações às fls 03/04 e 24 do processo 2014-0.027.215-3"
+        }
+    ]
+}

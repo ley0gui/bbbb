@@ -1,0 +1,33 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 22436.47,
+            "codProcesso": "201101669213",
+            "codModalidade": 12,
+            "datVigencia": "15/05/2015 00:00:00",
+            "valAditamentos": 603262.68,
+            "codContrato": 4326,
+            "valLiquidado": 755631.71,
+            "codOrgao": "22",
+            "valPago": 755631.71,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 755631.71,
+            "valTotalEmpenhado": 1051118.98,
+            "anoContrato": 2012,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 295487.27,
+            "datPublicacaoContrato": "13/04/2013 00:00:00",
+            "valPrincipal": 225000.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "CONTRATAÇÃO DE SERVIÇO ESPECIALIZADO DE BOMBEIRO  PROFISSIONAL  CIVIL COM CONHECIMENTO BÁSICOS PREVENÇÃO E COMBATE  A INCENDIO ,ABONDONO DE LOCAL SINISTRADO  E TECNICAS DE EMERGENCIA  MÉDICA, COM CREDENCIAMENTO PARA O EXERCÍCIO  DE SUAS ATIVIDADES PROFISSIONAIS PARA ATUAÇÃO NAS DEPENDENCIAS DO COMPLEXO OLIDO ,AV. SÃO JOÃO 473  E NO MENDES CALDEIRA , SITO A PRAÇA DA REPUBLICA 154  "
+        }
+    ]
+}

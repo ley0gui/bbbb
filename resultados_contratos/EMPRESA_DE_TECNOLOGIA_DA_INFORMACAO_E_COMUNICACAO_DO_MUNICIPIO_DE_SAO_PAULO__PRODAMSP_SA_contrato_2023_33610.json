@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6022202300057569",
+            "codModalidade": 6,
+            "datVigencia": "09/05/2025 00:00:00",
+            "datAssinaturaContrato": "24/04/2024 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 33610,
+            "valLiquidado": 271798.03,
+            "codOrgao": "22",
+            "valPago": 0.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 274539.81,
+            "valTotalEmpenhado": 604439.81,
+            "anoContrato": 2023,
+            "numOriginalContrato": "060/SIURB/2024",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 329900.0,
+            "datPublicacaoContrato": "26/04/2024 00:00:00",
+            "valPrincipal": 395880.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de hospedagem em nuvem do sistema Siurb-Digital, como infraestrutura, armazenamento, recursos de processamento, serviços de rede, serviços de segurança, entre outros, para gestão dos empreendimentos da SECRETARIA MUNICIPAL DE INFRAESTRURA URBANA E OBRAS – SIURB."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 128293.79,
+            "codProcesso": "6022201700000167",
+            "codModalidade": 8,
+            "datVigencia": "18/01/2018 00:00:00",
+            "valAditamentos": 828858.59,
+            "codContrato": 23607,
+            "valLiquidado": 1048982.65,
+            "codOrgao": "22",
+            "valPago": 1048982.65,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1048982.65,
+            "valTotalEmpenhado": 1313701.98,
+            "anoContrato": 2011,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 264719.33,
+            "valPrincipal": 148841.52,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Outsourcing de Impressão - contratação de empresa especializada para fornecimento de solução de impressão departamental, de caráter local ou de computador de grande porte com acesso via rede local (TCP/IP), compreendendo a cessão de direito de uso de equipamentos, incluindo a prestação de serviços de manutenção preventiva e corretiva, fornecimento de peças e suprimentos necessários (exceto papel), incluidno serviços de operacionalização de solução, para atender as necessidades de impressão desta Pasta."
+        }
+    ]
+}

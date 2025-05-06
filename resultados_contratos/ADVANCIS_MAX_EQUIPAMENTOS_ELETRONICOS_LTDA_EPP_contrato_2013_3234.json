@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 53826.44,
+            "codProcesso": "6022201700000043",
+            "codModalidade": 12,
+            "datVigencia": "01/03/2019 00:00:00",
+            "valAditamentos": 388669.4,
+            "codContrato": 3234,
+            "valLiquidado": 501047.17,
+            "codOrgao": "22",
+            "valPago": 501047.17,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 501047.17,
+            "valTotalEmpenhado": 653887.3,
+            "anoContrato": 2013,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 152840.13,
+            "valPrincipal": 67500.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA LOCAÇÃO, INSTALAÇÃO E CONFIGURAÇÃO DE EQUIPAMENTOS E SOFTWARES, BEM COMO A EXECUÇÃO DE TREINAMENTO, NECESSÁRIOS AO CONTROLE DE ACESSO E REGISTRO DE PONTO ELETRONICO NAS DEPENDENCIAS DO EDIFICIO DOMINGOS FERNANDES ALONSO.\n\n"
+        }
+    ]
+}

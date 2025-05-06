@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 301.34,
+            "codProcesso": "6022202200045070",
+            "codModalidade": 6,
+            "datVigencia": "20/10/2024 00:00:00",
+            "datAssinaturaContrato": "13/10/2022 00:00:00",
+            "valAditamentos": 8885.24,
+            "codContrato": 26298,
+            "valLiquidado": 17484.6,
+            "codOrgao": "22",
+            "valPago": 17484.6,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 17484.6,
+            "valTotalEmpenhado": 17734.79,
+            "anoContrato": 2022,
+            "numOriginalContrato": "281/SIURB/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 250.19,
+            "datPublicacaoContrato": "20/10/2022 00:00:00",
+            "valPrincipal": 8592.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada na prestação de serviços de acesso de sinais de TV por assinatura, com a instalação e assistência técnica nos pontos a serem instalados na sede da Secretaria Municipal de Infraestrutura Urbana e Obras."
+        }
+    ]
+}

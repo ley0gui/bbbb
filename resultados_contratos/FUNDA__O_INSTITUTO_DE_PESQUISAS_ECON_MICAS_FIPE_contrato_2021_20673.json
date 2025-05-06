@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6022202100008467",
+            "codModalidade": 6,
+            "datVigencia": "02/11/2024 00:00:00",
+            "datAssinaturaContrato": "03/11/2021 00:00:00",
+            "valAditamentos": 3834290.2,
+            "codContrato": 20673,
+            "valLiquidado": 5631605.8,
+            "codOrgao": "22",
+            "valPago": 5631605.8,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 5631605.8,
+            "valTotalEmpenhado": 6454190.15,
+            "anoContrato": 2021,
+            "numOriginalContrato": "038/SIURB/21",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 822584.35,
+            "datPublicacaoContrato": "06/11/2021 00:00:00",
+            "valPrincipal": 1797316.2,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de Serviços Técnicos visando o Levantamento dos Custos Médios de 2.300 insumos adotados nas Tabelas de SIURB e a Elaboração de 04 (quatro) índices - “Pavimentação de Tráfego Leve”, “Pavimentação de Vias Arteriais”, “Mão de Obra” e “Locação de Veículos”."
+        }
+    ]
+}

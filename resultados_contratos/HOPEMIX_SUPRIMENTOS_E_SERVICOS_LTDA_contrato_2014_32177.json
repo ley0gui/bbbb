@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "201403150393",
+            "codModalidade": 6,
+            "datVigencia": "30/11/2014 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 32177,
+            "valLiquidado": 3360.0,
+            "codOrgao": "22",
+            "valPago": 3360.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 3360.0,
+            "valTotalEmpenhado": 3360.0,
+            "anoContrato": 2014,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 3360.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "AQUISIÇÃO DE ETIQUETAS AUTO ADESIVAS."
+        }
+    ]
+}

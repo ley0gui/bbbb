@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "201501437930",
+            "codModalidade": 7,
+            "datVigencia": "30/08/2016 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 19923,
+            "valLiquidado": 396.0,
+            "codOrgao": "22",
+            "valPago": 396.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 396.0,
+            "valTotalEmpenhado": 396.0,
+            "anoContrato": 2015,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 396.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "ASSINATURA DA \"REVISTA TECHNE\""
+        }
+    ]
+}

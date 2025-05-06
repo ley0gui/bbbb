@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Tomada de Preços",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 12249.29,
+            "codProcesso": "6022202200057516",
+            "codModalidade": 3,
+            "datVigencia": "19/01/2025 00:00:00",
+            "datAssinaturaContrato": "20/12/2022 00:00:00",
+            "valAditamentos": 270975.6,
+            "codContrato": 31177,
+            "valLiquidado": 554200.44,
+            "codOrgao": "22",
+            "valPago": 554200.44,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 554200.44,
+            "valTotalEmpenhado": 599363.04,
+            "anoContrato": 2022,
+            "numOriginalContrato": "236/SIURB/22",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 45162.6,
+            "datPublicacaoContrato": "06/01/2023 00:00:00",
+            "valPrincipal": 270975.6,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de serviços de vigilância e segurança patrimonial desarmada para a Secretaria Municipal de Infraestrutura Urbana e Obras - SIURB - para expropriação de imóvel localizado na Rua Conselheiro Crispiniano nº 397 - Centro - São Paulo/SP, com disponibilização de 01 (um) posto diurno diário e 01 (um) posto noturno diário."
+        }
+    ]
+}

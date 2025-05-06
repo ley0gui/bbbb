@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6022202100021838",
+            "codModalidade": 6,
+            "datVigencia": "31/12/2025 00:00:00",
+            "valAditamentos": 3837000.84,
+            "codContrato": 18904,
+            "valLiquidado": 3038050.77,
+            "codOrgao": "22",
+            "valPago": 3038050.77,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 3937000.84,
+            "valTotalEmpenhado": 4633334.08,
+            "anoContrato": 2021,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 696333.24,
+            "valPrincipal": 100000.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Para atender as  despesas decorrentes da utilização dos serviços prestados pela ENEL / ELETROPAULO METROPOLITANA\nELETRICIDADE DE SAO PAULO S.A"
+        }
+    ]
+}

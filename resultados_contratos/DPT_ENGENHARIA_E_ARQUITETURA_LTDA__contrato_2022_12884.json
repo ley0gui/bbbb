@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 66863.09,
+            "codProcesso": "6022202100018373",
+            "codModalidade": 12,
+            "datVigencia": "27/06/2025 00:00:00",
+            "datAssinaturaContrato": "30/05/2022 00:00:00",
+            "valAditamentos": 1477732.77,
+            "codContrato": 12884,
+            "valLiquidado": 1579917.99,
+            "codOrgao": "22",
+            "valPago": 1579917.99,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1827397.61,
+            "valTotalEmpenhado": 2578402.11,
+            "anoContrato": 2022,
+            "numOriginalContrato": "063/SIURB/22",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 751004.5,
+            "datPublicacaoContrato": "01/06/2022 00:00:00",
+            "valPrincipal": 588567.98,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de serviços de manutenção predial, abrangendo as preventivas, corretivas e assistência técnica das instalações elétricas, das hidráulicas, da civil e de serviços gerais conexos, com fornecimento estimado de peças e equipamentos, incluindo eventual necessidade de deslocamento de mobiliários e materiais de suporte necessários, no prédio sede da Secretaria Municipal de Infraestrutura Urbana e Obras - SIURB."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Tomada de Preços",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "201500205130",
+            "codModalidade": 3,
+            "datVigencia": "08/02/2016 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 2925,
+            "valLiquidado": 0.0,
+            "codOrgao": "22",
+            "valPago": 0.0,
+            "valAnulacao": 7980.0,
+            "valEmpenhadoLiquido": 0.0,
+            "valTotalEmpenhado": 7980.0,
+            "anoContrato": 2015,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 7980.0,
+            "valPrincipal": 7980.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "CONTRATAÇÃO DE EMPRESA PARA CONFECÇÃO DE CHAVES "
+        }
+    ]
+}

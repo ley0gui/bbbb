@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 180798.09,
+            "codProcesso": "6022201700000361",
+            "codModalidade": 12,
+            "datVigencia": "05/12/2017 00:00:00",
+            "valAditamentos": 1136298.78,
+            "codContrato": 6033,
+            "valLiquidado": 1499061.15,
+            "codOrgao": "22",
+            "valPago": 1499061.15,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1499061.15,
+            "valTotalEmpenhado": 1842252.15,
+            "anoContrato": 2012,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 343191.0,
+            "valPrincipal": 277920.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Á VISTA DOS ELEMENTOS CONSTANTES DESTES AUTOS EM ESPECIAL DA MANIFESTAÇÃO DA ATAJ FLS ,RETRO NOS TERMOS ARTº 43 INCISO VI DA LEI FEDERAL 8.666/93  E 10.520/02 MODALIDADE PREGÃO  CUJO OBJETO É A CONTRATAÇÃO  DE EMPRESA ESPECIALIZADA EM REPRODUÇÃO  DE CÓPIAS  ELETROSTÁTICAS ,PLOTAGEM DE ARQUIVO DIGITAIS E CORRELATO CON FORNECIMENTO DE MÃO DE BORA E DOS MATERIAIS  DE CONSUMO  CONFORME DESCRITO NO ANEXO II DESTE EDITAL  EM FAVOR DA EMPRESA COMAVI COMÉRCIO DE MAQUINAS E VISUAIS LTDA  O VALOR PREGÃO  É DE R$ 231.600,00\r\n                                                                                                  VALOR CÓPIAS EXCEDENTES  R$  46.320,00\r\n\r\n                                                                                                  SOMA.......................................R$ 277.920,00"
+        }
+    ]
+}

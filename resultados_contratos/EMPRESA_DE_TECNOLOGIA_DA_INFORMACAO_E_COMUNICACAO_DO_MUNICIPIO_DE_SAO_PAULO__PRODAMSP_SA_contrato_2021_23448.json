@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 67749526.89,
+            "codProcesso": "6022202100035464",
+            "codModalidade": 6,
+            "datVigencia": "24/11/2025 00:00:00",
+            "datAssinaturaContrato": "02/12/2021 00:00:00",
+            "valAditamentos": 11030149.26,
+            "codContrato": 23448,
+            "valLiquidado": 8249214.95,
+            "codOrgao": "22",
+            "valPago": 8249214.95,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 9439451.94,
+            "valTotalEmpenhado": 15114762.55,
+            "anoContrato": 2021,
+            "numOriginalContrato": "083/SIURB/2021",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 5675310.61,
+            "datPublicacaoContrato": "07/12/2021 00:00:00",
+            "valPrincipal": 4030916.02,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de serviços técnicos especializados de Tecnologia da Informação para a sustentação e melhorias do TIC compatíveis com a sua finalidade e relacionados na proposta PC-SIURB-211104-143."
+        }
+    ]
+}

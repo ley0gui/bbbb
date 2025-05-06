@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "201400272137",
+            "codModalidade": 6,
+            "datVigencia": "28/02/2015 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 3044,
+            "valLiquidado": 3709.0,
+            "codOrgao": "22",
+            "valPago": 3709.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 3709.0,
+            "valTotalEmpenhado": 7939.94,
+            "anoContrato": 2014,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 4230.94,
+            "valPrincipal": 7940.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Aquisição e Confecção de chaves (comum Yale, tetra, gorje e multiponto) , troca de fechaduras (portas, arquivos e armários), abertura de fechaduras ( portas, tetra, arquivos e armários), confecção de segredos  de porta, armários e arquivos, tetra e conserto de fechaduras."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "201500537680",
+            "codModalidade": 6,
+            "datVigencia": "30/03/2016 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 6738,
+            "valLiquidado": 2360.0,
+            "codOrgao": "22",
+            "valPago": 2360.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 2360.0,
+            "valTotalEmpenhado": 7980.0,
+            "anoContrato": 2015,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 5620.0,
+            "valPrincipal": 7980.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "CONFECÇÃO DE CHAVES E SERVIÇOS DIVERSOS RELACIONADOS AO OBJETO"
+        }
+    ]
+}

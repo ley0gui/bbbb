@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 164855.56,
+            "codProcesso": "6022201700000191",
+            "codModalidade": 12,
+            "datVigencia": "14/05/2016 00:00:00",
+            "valAditamentos": 2577141.92,
+            "codContrato": 12231,
+            "valLiquidado": 3291760.33,
+            "codOrgao": "22",
+            "valPago": 3291760.33,
+            "valAnulacao": 69303.05,
+            "valEmpenhadoLiquido": 3291760.33,
+            "valTotalEmpenhado": 4322406.73,
+            "anoContrato": 2015,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 1030646.4,
+            "valPrincipal": 572000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada para prestação de serviços de segurança contra incêndio, pânico, abandono de edificação, primeiros socorros por meio de brigada de bombeiro civil, para atuação nas dependências do Edificio domingos Fernandes Alonso e Edfício Mendes Caldeira."
+        }
+    ]
+}

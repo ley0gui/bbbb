@@ -1,0 +1,68 @@
+{
+    "razao_social": "TIM S A",
+    "resultado": {
+        "razao_social": "TIM S A",
+        "total_empenhado": 71796.0,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 8172,
+                "codEmpenho": 9642,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "27/01/2025 00:00:00",
+                "codProcesso": "6022202100008580",
+                "numCpfCnpj": "02421421000111",
+                "txtRazaoSocial": "TIM S A",
+                "numContrato": 8814,
+                "anoContrato": 2021,
+                "codOrgao": "22",
+                "txDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Gabinete do Secretário",
+                "codFuncao": "15",
+                "txDescricaoFuncao": "Urbanismo",
+                "codSubFuncao": "122",
+                "txDescricaoSubFuncao": "Administração Geral",
+                "codPrograma": "3024",
+                "txDescricaoPrograma": "Suporte Administrativo",
+                "codProjetoAtividade": "2100",
+                "txDescricaoProjetoAtividade": "Administração da Unidade",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "39",
+                "txDescricaoElemento": "Serviços de Telecomunicações",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "0",
+                "txDescricaoItemDespesa": "Telefonia Móvel",
+                "codSubElemento": "5",
+                "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
+                "valTotalEmpenhado": 71796.0,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 71796.0,
+                "valLiquidado": 11619.12,
+                "valPagoExercicio": 11619.12,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "U",
+                        "descricaoAnexo": "CT. 013/SIURB/21 - Prestação de serviços de telefonia móvel pessoal",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 71796.0
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

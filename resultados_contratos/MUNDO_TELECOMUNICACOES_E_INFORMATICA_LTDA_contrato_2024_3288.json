@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 16218.7,
+            "codProcesso": "6022202300020436",
+            "codModalidade": 12,
+            "datVigencia": "01/04/2026 00:00:00",
+            "datAssinaturaContrato": "05/02/2024 00:00:00",
+            "valAditamentos": 303000.0,
+            "codContrato": 3288,
+            "valLiquidado": 295245.76,
+            "codOrgao": "22",
+            "valPago": 268812.88,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 533141.68,
+            "valTotalEmpenhado": 819999.68,
+            "anoContrato": 2024,
+            "numOriginalContrato": "010/SIURB/2024",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 286858.0,
+            "datPublicacaoContrato": "08/02/2024 00:00:00",
+            "valPrincipal": 303000.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada em locação, instalação, manutenção preventiva e corretiva de sistema de telefonia IP, bem como atualizações de software que se fizerem necessárias."
+        }
+    ]
+}

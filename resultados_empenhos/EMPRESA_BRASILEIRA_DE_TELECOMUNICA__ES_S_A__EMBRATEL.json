@@ -1,0 +1,68 @@
+{
+    "razao_social": "EMPRESA BRASILEIRA DE TELECOMUNICAÇÕES S.A. EMBRATEL",
+    "resultado": {
+        "razao_social": "EMPRESA BRASILEIRA DE TELECOMUNICAÇÕES S.A. EMBRATEL",
+        "total_empenhado": 0.0,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 1101,
+                "codEmpenho": 1053,
+                "anoEmpenho": 2015,
+                "mesEmpenho": 1,
+                "datEmpenho": "22/01/2015 00:00:00",
+                "codProcesso": "201201838351",
+                "numCpfCnpj": "33530486012569",
+                "txtRazaoSocial": "EMPRESA BRASILEIRA DE TELECOMUNICAÇÕES S.A. EMBRATEL",
+                "numContrato": 299,
+                "anoContrato": 2014,
+                "codOrgao": "22",
+                "txDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Gabinete do Secretário",
+                "codFuncao": "15",
+                "txDescricaoFuncao": "Urbanismo",
+                "codSubFuncao": "122",
+                "txDescricaoSubFuncao": "Administração Geral",
+                "codPrograma": "3024",
+                "txDescricaoPrograma": "Suporte Administrativo",
+                "codProjetoAtividade": "2100",
+                "txDescricaoProjetoAtividade": "Administração da Unidade",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "39",
+                "txDescricaoElemento": "SERVIÇOS DE TELECOMUNICAÇÕES",
+                "codFonteRecurso": "00",
+                "txDescricaoFonteRecurso": "Tesouro Municipal",
+                "codItemDespesa": "0",
+                "txDescricaoItemDespesa": "Telefonia Fixa",
+                "codSubElemento": "5",
+                "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros -Pessoa Jurídica",
+                "valTotalEmpenhado": 1000.0,
+                "valAnuladoEmpenho": 1000.0,
+                "valEmpenhadoLiquido": 0.0,
+                "valLiquidado": 0.0,
+                "valPagoExercicio": 0.0,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "SVS",
+                        "descricaoAnexo": "DESP.DE NAT.CONTINUADAS DE FORNECIMENTODE LIGAÇÕES TELEFONICAS NOS PROPRIOS MUNICIPAIS",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 1000.0
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

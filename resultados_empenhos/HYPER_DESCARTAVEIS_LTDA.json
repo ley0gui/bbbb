@@ -1,0 +1,68 @@
+{
+    "razao_social": "HYPER DESCARTAVEIS LTDA",
+    "resultado": {
+        "razao_social": "HYPER DESCARTAVEIS LTDA",
+        "total_empenhado": 700.0,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 3590,
+                "codEmpenho": 2740,
+                "anoEmpenho": 2015,
+                "mesEmpenho": 1,
+                "datEmpenho": "23/01/2015 00:00:00",
+                "codProcesso": "201500112948",
+                "numCpfCnpj": "17471840000135",
+                "txtRazaoSocial": "HYPER DESCARTAVEIS LTDA",
+                "numContrato": 651,
+                "anoContrato": 2015,
+                "codOrgao": "22",
+                "txDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Gabinete do Secretário",
+                "codFuncao": "15",
+                "txDescricaoFuncao": "Urbanismo",
+                "codSubFuncao": "122",
+                "txDescricaoSubFuncao": "Administração Geral",
+                "codPrograma": "3024",
+                "txDescricaoPrograma": "Suporte Administrativo",
+                "codProjetoAtividade": "2100",
+                "txDescricaoProjetoAtividade": "Administração da Unidade",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "30",
+                "txDescricaoElemento": "GÊNEROS DE ALIMENTAÇÃO",
+                "codFonteRecurso": "00",
+                "txDescricaoFonteRecurso": "Tesouro Municipal",
+                "codItemDespesa": "9",
+                "txDescricaoItemDespesa": "Diversos gêneros alimentícios",
+                "codSubElemento": "0",
+                "txDescricaoSubElementoDespesa": "Material de Consumo",
+                "valTotalEmpenhado": 700.0,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 700.0,
+                "valLiquidado": 700.0,
+                "valPagoExercicio": 700.0,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "MAT",
+                        "descricaoAnexo": "AQUISIÇÃO DE ADOÇANTE LIQUIDO ",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 700.0
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

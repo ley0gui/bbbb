@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 23577.12,
+            "codProcesso": "6022202100012944",
+            "codModalidade": 7,
+            "datVigencia": "30/09/2025 00:00:00",
+            "datAssinaturaContrato": "16/09/2021 00:00:00",
+            "valAditamentos": 288000.0,
+            "codContrato": 17564,
+            "valLiquidado": 350188.56,
+            "codOrgao": "22",
+            "valPago": 340623.8,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 407577.12,
+            "valTotalEmpenhado": 411071.39,
+            "anoContrato": 2021,
+            "numOriginalContrato": "047/SIURB/2021",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 3494.27,
+            "datPublicacaoContrato": "02/10/2021 00:00:00",
+            "valPrincipal": 96000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Execução de serviços de manutenção preventiva e corretiva com aplicação de peças em elevadores de fabricação Atlas Schindler, instalados no Edifício Varicred II, situado na Rua XV de Novembro, 165 "
+        }
+    ]
+}

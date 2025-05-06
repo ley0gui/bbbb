@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 31575.45,
+            "codProcesso": "6022201900046896",
+            "codModalidade": 12,
+            "datVigencia": "21/07/2025 00:00:00",
+            "datAssinaturaContrato": "26/06/2020 00:00:00",
+            "valAditamentos": 168972.64,
+            "codContrato": 9624,
+            "valLiquidado": 203875.02,
+            "codOrgao": "22",
+            "valPago": 199826.44,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 218854.79,
+            "valTotalEmpenhado": 242487.23,
+            "anoContrato": 2020,
+            "numOriginalContrato": "034/SIURB/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 23632.44,
+            "datPublicacaoContrato": "03/07/2020 00:00:00",
+            "valPrincipal": 32700.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE INSTALAÇÃO E LOCAÇÃO DO CONJUNTO DE EQUIPAMENTOS NECESSÁRIOS E SUFICIENTES PARA O FUNCIONAMENTO DE UM MÓDULO DE CONTROLE DE ACESSO(CATRACAS, CANCELAS, CARTÕES A AMBIENTES PROTEGIDOS)"
+        }
+    ]
+}

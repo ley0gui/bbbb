@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 879948.52,
+            "codProcesso": "6022202100012456",
+            "codModalidade": 12,
+            "datVigencia": "23/12/2025 00:00:00",
+            "datAssinaturaContrato": "20/12/2021 00:00:00",
+            "valAditamentos": 7989805.89,
+            "codContrato": 26176,
+            "valLiquidado": 8366435.8,
+            "codOrgao": "22",
+            "valPago": 8132154.88,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 10240683.16,
+            "valTotalEmpenhado": 10626707.12,
+            "anoContrato": 2021,
+            "numOriginalContrato": "106/SIURB/2021",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 386023.96,
+            "datPublicacaoContrato": "29/12/2021 00:00:00",
+            "valPrincipal": 1957226.76,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada na prestação de serviços presencial de vigilância desarmada executados de forma contínua, realizados por meio de Postos Fixos nos locais da Sede da SIURB.\n\n "
+        }
+    ]
+}

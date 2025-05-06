@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 1350.38,
+            "codProcesso": "6022202100019060",
+            "codModalidade": 8,
+            "datVigencia": "23/08/2025 00:00:00",
+            "datAssinaturaContrato": "24/08/2021 00:00:00",
+            "valAditamentos": 4638765.75,
+            "codContrato": 15968,
+            "valLiquidado": 2778171.45,
+            "codOrgao": "22",
+            "valPago": 2777554.57,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 3450780.7,
+            "valTotalEmpenhado": 7037864.1,
+            "anoContrato": 2021,
+            "numOriginalContrato": "040/SIURB/2021",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 3587083.4,
+            "datPublicacaoContrato": "10/09/2021 00:00:00",
+            "valPrincipal": 1091976.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de 110 (cento e dez) vagas de estágio, sendo e 80 (oitenta) vagas para nível superior e 30 (trinta) vagas para nível médio, para atender às necessidades da Secretaria Municipal de Infraestrutura Urbana e Obras - SIURB"
+        }
+    ]
+}

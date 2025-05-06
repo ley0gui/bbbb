@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6022202300045714",
+            "codModalidade": 6,
+            "datVigencia": "10/08/2024 00:00:00",
+            "datAssinaturaContrato": "14/08/2023 00:00:00",
+            "valAditamentos": 90326.41,
+            "codContrato": 39057,
+            "valLiquidado": 4494539.1,
+            "codOrgao": "22",
+            "valPago": 4494539.1,
+            "valAnulacao": 1016.12,
+            "valEmpenhadoLiquido": 4494539.1,
+            "valTotalEmpenhado": 4495555.22,
+            "anoContrato": 2023,
+            "numOriginalContrato": "031/SIURB/2024",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 1016.12,
+            "datPublicacaoContrato": "14/08/2023 00:00:00",
+            "valPrincipal": 4405228.81,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Intervenção, em caráter emergencial, para realização de obras para contenção das margens de córrego localizado na Rua Paulino Nunes Esposo e serviços complementares – Subprefeitura Parelheiros."
+        }
+    ]
+}

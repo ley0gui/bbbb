@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6022202300072983",
+            "codModalidade": 6,
+            "datVigencia": "09/05/2025 00:00:00",
+            "datAssinaturaContrato": "24/04/2024 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 38439,
+            "valLiquidado": 3806.63,
+            "codOrgao": "22",
+            "valPago": 1800.16,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 5709.5,
+            "valTotalEmpenhado": 250248.5,
+            "anoContrato": 2023,
+            "numOriginalContrato": "008/SIURB/2024",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 244539.0,
+            "datPublicacaoContrato": "26/04/2024 00:00:00",
+            "valPrincipal": 326052.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de prestação de serviços técnicos especializados de tecnologia da informação para prestação de serviços de Infraestrutura em Nuvem (Infrastructure as a Service - IaaS) e de Gerenciamento do Consumo de Nuvem (GCN) para o suporte aos negócios para a Secretaria Municipal de Infraestrutura Urbana e Obras – SIURB na plataforma Amazon Web Services (AWS)."
+        }
+    ]
+}

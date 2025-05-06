@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "201002493079",
+            "codModalidade": 6,
+            "datVigencia": "19/02/2015 00:00:00",
+            "valAditamentos": 560.74,
+            "codContrato": 4932,
+            "valLiquidado": 25180.54,
+            "codOrgao": "22",
+            "valPago": 25180.54,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 25180.54,
+            "valTotalEmpenhado": 49303.94,
+            "anoContrato": 2014,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 24123.4,
+            "valPrincipal": 27721.2,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "CT 05/SIURB/11- ,SUCESSÃO DECORRENTE DA INCORPORAÇÃO PELA EMPRESA OI MÓVEL S/A"
+        }
+    ]
+}

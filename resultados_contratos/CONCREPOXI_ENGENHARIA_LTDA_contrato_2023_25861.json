@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Concorrência",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "7910202200004676",
+            "codModalidade": 4,
+            "datVigencia": "20/07/2025 00:00:00",
+            "datAssinaturaContrato": "20/09/2024 00:00:00",
+            "valAditamentos": 1204175.57,
+            "codContrato": 25861,
+            "valLiquidado": 2418796.14,
+            "codOrgao": "22",
+            "valPago": 2418796.14,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 3712437.05,
+            "valTotalEmpenhado": 6309080.11,
+            "anoContrato": 2023,
+            "numOriginalContrato": "202/SIURB/23",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 2596643.06,
+            "datPublicacaoContrato": "25/09/2024 00:00:00",
+            "valPrincipal": 2508261.48,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Execução de obras e serviços de recuperação estrutural da Passarela Ciccilo Matarazzo – Lote 26."
+        }
+    ]
+}

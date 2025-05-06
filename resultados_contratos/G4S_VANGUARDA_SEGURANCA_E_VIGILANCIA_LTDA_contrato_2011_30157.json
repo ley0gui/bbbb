@@ -1,0 +1,34 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 202281.54,
+            "codProcesso": "200901940301",
+            "codModalidade": 6,
+            "datVigencia": "25/05/2016 00:00:00",
+            "datAssinaturaContrato": "27/04/2012 00:00:00",
+            "valAditamentos": 1655689.81,
+            "codContrato": 30157,
+            "valLiquidado": 1859216.62,
+            "codOrgao": "22",
+            "valPago": 1859216.62,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1859216.62,
+            "valTotalEmpenhado": 2031499.89,
+            "anoContrato": 2011,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 172283.27,
+            "datPublicacaoContrato": "15/05/2012 00:00:00",
+            "valPrincipal": 215111.12,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "serviços de vigilancia e segurança patrimonial - transfencia contratação 444/2010"
+        }
+    ]
+}

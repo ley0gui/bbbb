@@ -1,0 +1,68 @@
+{
+    "razao_social": "TELEFONICA BRASIL SA",
+    "resultado": {
+        "razao_social": "TELEFONICA BRASIL SA",
+        "total_empenhado": 180000.0,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 5118,
+                "codEmpenho": 4550,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "22/01/2025 00:00:00",
+                "codProcesso": "6022201700030830",
+                "numCpfCnpj": "02558157000162",
+                "txtRazaoSocial": "TELEFONICA BRASIL SA",
+                "numContrato": 896,
+                "anoContrato": 2018,
+                "codOrgao": "22",
+                "txDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Gabinete do Secretário",
+                "codFuncao": "15",
+                "txDescricaoFuncao": "Urbanismo",
+                "codSubFuncao": "122",
+                "txDescricaoSubFuncao": "Administração Geral",
+                "codPrograma": "3024",
+                "txDescricaoPrograma": "Suporte Administrativo",
+                "codProjetoAtividade": "2100",
+                "txDescricaoProjetoAtividade": "Administração da Unidade",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "39",
+                "txDescricaoElemento": "Serviços de Telecomunicações",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "0",
+                "txDescricaoItemDespesa": "Telefonia Fixa",
+                "codSubElemento": "5",
+                "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
+                "valTotalEmpenhado": 180000.0,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 180000.0,
+                "valLiquidado": 44920.09,
+                "valPagoExercicio": 44920.09,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "U",
+                        "descricaoAnexo": "Consumo de telefonia fixa nos próprios Municipais",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 180000.0
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

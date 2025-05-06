@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "201501064319",
+            "codModalidade": 7,
+            "datVigencia": "13/05/2016 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 12283,
+            "valLiquidado": 768.0,
+            "codOrgao": "22",
+            "valPago": 768.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 768.0,
+            "valTotalEmpenhado": 768.0,
+            "anoContrato": 2015,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 768.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Revista Construção Mercado"
+        }
+    ]
+}

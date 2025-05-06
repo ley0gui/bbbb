@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 16276.07,
+            "codProcesso": "6022202300016641",
+            "codModalidade": 12,
+            "datVigencia": "08/01/2025 00:00:00",
+            "datAssinaturaContrato": "22/12/2023 00:00:00",
+            "valAditamentos": 343874.4,
+            "codContrato": 36257,
+            "valLiquidado": 409503.9,
+            "codOrgao": "22",
+            "valPago": 381073.84,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 669514.95,
+            "valTotalEmpenhado": 682505.55,
+            "anoContrato": 2023,
+            "numOriginalContrato": "327/SIURB/2023",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 12990.6,
+            "datPublicacaoContrato": "08/01/2024 00:00:00",
+            "valPrincipal": 343874.4,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Prestação de serviços de transporte mediante locação de veículo novo, em caráter não eventual, modalidade B (com condutor, combustível e GPS), objetivando o deslocamento para apoio das atividades técnico-administrativas do contratante."
+        }
+    ]
+}

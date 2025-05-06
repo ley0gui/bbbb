@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 263833.19,
+            "codProcesso": "6022202100035855",
+            "codModalidade": 12,
+            "datVigencia": "07/12/2025 00:00:00",
+            "datAssinaturaContrato": "03/12/2021 00:00:00",
+            "valAditamentos": 2522719.89,
+            "codContrato": 24071,
+            "valLiquidado": 2673693.95,
+            "codOrgao": "22",
+            "valPago": 2599511.54,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 3267153.23,
+            "valTotalEmpenhado": 3615815.16,
+            "anoContrato": 2021,
+            "numOriginalContrato": "085/SIURB/21",
+            "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+            "valAnuladoEmpenho": 348661.93,
+            "datPublicacaoContrato": "09/12/2021 00:00:00",
+            "valPrincipal": 619353.98,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada na prestação de serviços de limpeza predial, asseio e Conservação Predial, com fornecimento de mão-de-obra, saneantes domissanitários, materiais de consumo, utensílios, máquinas e equipamentos, nas dependências da Secretaria Municipal de Infraestrutura Urbana e Obras - SIURB e nas áreas."
+        }
+    ]
+}

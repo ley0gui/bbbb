@@ -1,0 +1,34 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 9713.81,
+            "codProcesso": "201001168484",
+            "codModalidade": 12,
+            "datVigencia": "29/05/2016 00:00:00",
+            "datAssinaturaContrato": "15/02/2012 00:00:00",
+            "valAditamentos": 96667.33,
+            "codContrato": 4222,
+            "valLiquidado": 127411.36,
+            "codOrgao": "22",
+            "valPago": 127411.36,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 127411.36,
+            "valTotalEmpenhado": 129764.86,
+            "anoContrato": 2011,
+            "txtDescricaoOrgao": "Secretaria Municipal de Infra-Estrutura Urbana e Obras",
+            "valAnuladoEmpenho": 2353.5,
+            "datPublicacaoContrato": "15/02/2012 00:00:00",
+            "valPrincipal": 21800.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "contratação de empresa especializada na prestação de serviços de instalação, manutenção preventiva e corretiva de aparelhos de ar condiconado em confirmadade com o descrito no Memorial Descritvo - Anexo II e demais regras estabelecidas neste edital e e seus anexos"
+        }
+    ]
+}
