@@ -1,0 +1,58 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016201800744742",
+            "codModalidade": 7,
+            "datVigencia": "12/11/2025 00:00:00",
+            "datAssinaturaContrato": "24/10/2022 00:00:00",
+            "valAditamentos": 60494.63,
+            "codContrato": 1574,
+            "valLiquidado": 121609.32,
+            "codOrgao": "16",
+            "valPago": 113367.83,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 158508.28,
+            "valTotalEmpenhado": 337790.09,
+            "anoContrato": 2023,
+            "numOriginalContrato": "TC  9912450389",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 179281.81,
+            "datPublicacaoContrato": "26/10/2022 00:00:00",
+            "valPrincipal": 154701.04,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Serviços e vendas Correios e Telegrafos"
+        },
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "04",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6210202300073507",
+            "codModalidade": 6,
+            "datVigencia": "29/08/2024 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 1574,
+            "valLiquidado": 474.98,
+            "codOrgao": "02",
+            "valPago": 474.98,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 474.98,
+            "valTotalEmpenhado": 474.98,
+            "anoContrato": 2023,
+            "txtDescricaoOrgao": "Hospital do Servidor Público Municipal",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 474.98,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Toner para impressora laser Lexmark MS310DN 504H, cor preto. / Tinta para impressora Epson L355"
+        }
+    ]
+}

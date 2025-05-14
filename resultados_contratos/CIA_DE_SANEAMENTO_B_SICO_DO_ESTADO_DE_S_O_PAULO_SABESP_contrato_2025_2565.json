@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202500073670",
+            "codModalidade": 7,
+            "datVigencia": "30/01/2026 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 2565,
+            "valLiquidado": 1647483.04,
+            "codOrgao": "16",
+            "valPago": 1298965.13,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 9112858.3,
+            "valTotalEmpenhado": 9138337.71,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 25479.41,
+            "valPrincipal": 12281000.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Aquisição de Prestação de Serviços Especializados - as despesas com fornecimento de água e esgoto"
+        }
+    ]
+}

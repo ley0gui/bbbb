@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "22",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202300504481",
+            "codModalidade": 8,
+            "datVigencia": "04/05/2028 00:00:00",
+            "datAssinaturaContrato": "04/05/2023 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 14152,
+            "valLiquidado": 6088012.34,
+            "codOrgao": "16",
+            "valPago": 6088012.34,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 7055928.09,
+            "valTotalEmpenhado": 7158135.44,
+            "anoContrato": 2023,
+            "numOriginalContrato": "442023-RPP",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 102207.35,
+            "datPublicacaoContrato": "05/05/2023 00:00:00",
+            "valPrincipal": 13161423.0,
+            "txtTipoContratacao": "Termo de Colaboração - Lei Federal 13.019/2014",
+            "txtObjetoContrato": "CEI URSINHOS CARINHOSOS, com atendimento para 159 crianças de 0 a 3 anos, sendo 66 de berçário."
+        }
+    ]
+}

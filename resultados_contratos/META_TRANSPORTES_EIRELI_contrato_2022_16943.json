@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 18049.32,
+            "codProcesso": "6016202200727624",
+            "codModalidade": 12,
+            "datVigencia": "06/07/2025 00:00:00",
+            "datAssinaturaContrato": "07/07/2022 00:00:00",
+            "valAditamentos": 327817.32,
+            "codContrato": 16943,
+            "valLiquidado": 441721.23,
+            "codOrgao": "16",
+            "valPago": 428092.87,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 475183.74,
+            "valTotalEmpenhado": 491305.98,
+            "anoContrato": 2022,
+            "numOriginalContrato": "TC 02/DRE-CS/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 16122.24,
+            "datPublicacaoContrato": "07/07/2022 00:00:00",
+            "valPrincipal": 154884.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM LOCAÇÃO DE VEICULOS COM COMBUSTÍVEL E COM MOTORISTAS"
+        }
+    ]
+}

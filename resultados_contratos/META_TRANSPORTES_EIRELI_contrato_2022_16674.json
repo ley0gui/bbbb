@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202200727209",
+            "codModalidade": 12,
+            "datVigencia": "10/07/2025 00:00:00",
+            "valAditamentos": 170260.7,
+            "codContrato": 16674,
+            "valLiquidado": 213525.76,
+            "codOrgao": "16",
+            "valPago": 213525.76,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 237151.98,
+            "valTotalEmpenhado": 247887.23,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 10735.25,
+            "valPrincipal": 77442.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "contratação da empresa META TRANSPORTES EIRE,LCI NPJ nº 64.059.041/0001-\n36, para a prestação de serviços de transporte mediante locação de 01 (um) veículo seminovo (até 3\nanos de uso), com condutor e combustível em caráter não eventual, destinado ao transporte de pessoas,\npara apoio às suas atividades técnico-administravas da Diretoria Regional de Educação de Santo Amaro\n– DRE-SA."
+        }
+    ]
+}

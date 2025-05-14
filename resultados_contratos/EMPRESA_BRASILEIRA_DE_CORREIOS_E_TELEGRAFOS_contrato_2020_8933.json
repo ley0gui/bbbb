@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000409378",
+            "codModalidade": 7,
+            "datVigencia": "24/05/2024 00:00:00",
+            "datAssinaturaContrato": "18/05/2020 00:00:00",
+            "valAditamentos": 44842.59,
+            "codContrato": 8933,
+            "valLiquidado": 4061.48,
+            "codOrgao": "16",
+            "valPago": 4061.48,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 8653.2,
+            "valTotalEmpenhado": 54407.46,
+            "anoContrato": 2020,
+            "numOriginalContrato": "Ofício nº89/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 45754.26,
+            "datPublicacaoContrato": "23/11/2022 00:00:00",
+            "valPrincipal": 15350.52,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contrato de prestação de serviço dos correios - Postagem"
+        }
+    ]
+}

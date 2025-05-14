@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "41",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202300432405",
+            "codModalidade": 6,
+            "datVigencia": "23/04/2025 00:00:00",
+            "valAditamentos": 17500.0,
+            "codContrato": 12114,
+            "valLiquidado": 6042.7,
+            "codOrgao": "16",
+            "valPago": 5733.91,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 7288.03,
+            "valTotalEmpenhado": 10523.83,
+            "anoContrato": 2023,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 3235.8,
+            "valPrincipal": 1536.0,
+            "txtTipoContratacao": "Nota de Empenho de Serviços com fornecimento de materiais / peças",
+            "txtObjetoContrato": "Contratação de serviço de locação, instalação e manutenção de aparelhos purificadores de água, conforme especificações, requisitos e condições constantes da ATA de RP nº 001/SEGES-COBES/2023."
+        }
+    ]
+}

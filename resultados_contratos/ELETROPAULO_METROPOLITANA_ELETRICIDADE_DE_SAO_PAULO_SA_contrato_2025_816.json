@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202500031226",
+            "codModalidade": 7,
+            "datVigencia": "20/01/2026 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 816,
+            "valLiquidado": 963281.28,
+            "codOrgao": "16",
+            "valPago": 963281.28,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 2880210.92,
+            "valTotalEmpenhado": 2978594.95,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 98384.03,
+            "valPrincipal": 4496215.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "FORNECIMENTO DE ENERGIA ELETRICA"
+        }
+    ]
+}

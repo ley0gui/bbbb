@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 5246.21,
+            "codProcesso": "6016202200788518",
+            "codModalidade": 12,
+            "datVigencia": "24/07/2025 00:00:00",
+            "datAssinaturaContrato": "17/07/2023 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 16783,
+            "valLiquidado": 155040.0,
+            "codOrgao": "16",
+            "valPago": 155040.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 200807.77,
+            "valTotalEmpenhado": 224300.29,
+            "anoContrato": 2023,
+            "numOriginalContrato": "244/SME/2023",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 23492.52,
+            "datPublicacaoContrato": "18/07/2023 00:00:00",
+            "valPrincipal": 206400.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada para prestação de serviço de enlace de comunicação de dados (link) para tráfego de internet na Secretaria Municipal de Educação, a qual fornece acesso para todas as suas unidades: Centros Educacionais Unificados – CEUs, Diretorias Regionais de Educação – DRE, órgãos centrais e unidades escolares."
+        }
+    ]
+}

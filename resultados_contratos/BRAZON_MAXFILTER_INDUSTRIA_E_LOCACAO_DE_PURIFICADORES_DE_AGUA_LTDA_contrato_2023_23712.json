@@ -1,0 +1,33 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202300854334",
+            "codModalidade": 12,
+            "datVigencia": "30/08/2025 00:00:00",
+            "valAditamentos": 4769.6,
+            "codContrato": 23712,
+            "valLiquidado": 7022.33,
+            "codOrgao": "16",
+            "valPago": 6626.21,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 8993.6,
+            "valTotalEmpenhado": 8993.6,
+            "anoContrato": 2023,
+            "numOriginalContrato": "56/DRESA/2023",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 4224.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "ATA de Registro de preços para prestação de serviços de locação, instalação e manutenção de aparelhos purificadores de água, para os  CEU's e a DRESA"
+        }
+    ]
+}

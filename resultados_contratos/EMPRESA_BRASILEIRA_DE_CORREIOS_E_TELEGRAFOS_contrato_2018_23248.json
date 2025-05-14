@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "41",
+            "valReajustes": 0.0,
+            "codProcesso": "6016201800230790",
+            "codModalidade": 6,
+            "datVigencia": "29/09/2023 00:00:00",
+            "valAditamentos": 173035.68,
+            "codContrato": 23248,
+            "valLiquidado": 29660.16,
+            "codOrgao": "16",
+            "valPago": 29660.16,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 53534.47,
+            "valTotalEmpenhado": 210785.11,
+            "anoContrato": 2018,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 157250.64,
+            "valPrincipal": 32880.0,
+            "txtTipoContratacao": "Nota de Empenho de Serviços com fornecimento de materiais / peças",
+            "txtObjetoContrato": "AUTORIZO contratação por inexigibilidade de licitação da EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS - ECT CORREIOS, CNPJ nº 34.028.316/0031-29, visando a prestação de Serviços Telemáticos e Carta Comercial com Aviso de Recebimento A.R., conforme quantitativo indicado em DOC SEI nº 011297865 ,  no valor mensal estimativo de R$ 2.740,00 (dois mil, setecentos e quarenta reais) e valor total estimado de R$ 32.880,00 (trinta e dois mil, oitocentos e oitenta reais), para atendimento das demandas desta Diretoria Regional de Educação. "
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "23",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202201276049",
+            "codModalidade": 8,
+            "datVigencia": "22/12/2027 00:00:00",
+            "datAssinaturaContrato": "23/12/2022 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 38075,
+            "valLiquidado": 7243313.79,
+            "codOrgao": "16",
+            "valPago": 7088453.79,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 8053569.71,
+            "valTotalEmpenhado": 9252872.42,
+            "anoContrato": 2022,
+            "numOriginalContrato": "nº054/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 1199302.71,
+            "datPublicacaoContrato": "07/01/2023 00:00:00",
+            "valPrincipal": 14274676.5,
+            "txtTipoContratacao": "Termo de Fomento - Lei Federal 13.019/2014",
+            "txtObjetoContrato": "Celebração do Termo de Colaboração com a Organização da Sociedade Civil ASSOCIAÇÃO NANY APPLE EM BENEFICIO DO OBESO E DO CARENTE, registrada sob CNPJ: 06.094.961/0001-99, visando o atendimento no CEI NANY APPLE KIDS, de 185 crianças de 0 (zero) a 03 (três) anos, sendo 87 de berçário, a partir de 23/12/2022."
+        }
+    ]
+}

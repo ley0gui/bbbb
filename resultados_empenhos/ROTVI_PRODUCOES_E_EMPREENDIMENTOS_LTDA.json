@@ -1,0 +1,68 @@
+{
+    "razao_social": "ROTVI PRODUCOES E EMPREENDIMENTOS LTDA",
+    "resultado": {
+        "razao_social": "ROTVI PRODUCOES E EMPREENDIMENTOS LTDA",
+        "total_empenhado": 55000.0,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 91,
+                "codEmpenho": 301,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "17/01/2025 00:00:00",
+                "codProcesso": "6016202401585460",
+                "numCpfCnpj": "18914123000101",
+                "txtRazaoSocial": "ROTVI PRODUCOES E EMPREENDIMENTOS LTDA",
+                "numContrato": 129,
+                "anoContrato": 2025,
+                "codOrgao": "16",
+                "txDescricaoOrgao": "Secretaria Municipal de Educação",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Gabinete do Secretário",
+                "codFuncao": "12",
+                "txDescricaoFuncao": "Educação",
+                "codSubFuncao": "368",
+                "txDescricaoSubFuncao": "Educação Básica",
+                "codPrograma": "3010",
+                "txDescricaoPrograma": "Manutenção, Desenvolvimento e Promoção da Qualidade da Educação",
+                "codProjetoAtividade": "4303",
+                "txDescricaoProjetoAtividade": "Ações de Educação Integral ",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "39",
+                "txDescricaoElemento": "Exposições, Congressos, Conferências e Outros Eventos",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "0",
+                "txDescricaoItemDespesa": "Eventos Esportivos Culturais e Artísticos",
+                "codSubElemento": "2",
+                "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
+                "valTotalEmpenhado": 55000.0,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 55000.0,
+                "valLiquidado": 55000.0,
+                "valPagoExercicio": 55000.0,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "UN",
+                        "descricaoAnexo": "CONTRATAÇÃO ARTISTICA-TC41/25-COCEU",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 55000.0
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

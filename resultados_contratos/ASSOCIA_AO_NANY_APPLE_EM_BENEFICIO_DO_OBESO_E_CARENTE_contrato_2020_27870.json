@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "22",
+            "valReajustes": 0.0,
+            "codProcesso": "6016201700558823",
+            "codModalidade": 8,
+            "datVigencia": "31/12/2027 00:00:00",
+            "datAssinaturaContrato": "21/12/2022 00:00:00",
+            "valAditamentos": 7228899.22,
+            "codContrato": 27870,
+            "valLiquidado": 7154683.02,
+            "codOrgao": "16",
+            "valPago": 7044613.02,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 7587769.74,
+            "valTotalEmpenhado": 8010946.52,
+            "anoContrato": 2020,
+            "numOriginalContrato": "857/DRE-FB/2017-RPP",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 423176.78,
+            "datPublicacaoContrato": "05/01/2023 00:00:00",
+            "valPrincipal": 4033633.72,
+            "txtTipoContratacao": "Termo de Colaboração - Lei Federal 13.019/2014",
+            "txtObjetoContrato": "CEI NANY APPLE - TERMO DE COLABORAÇÃO PARA ATENDIMENTO A CRIANÇAS NA FAIXA ETÁRIA DE 0 A 3 ANOS POR MEIO DE CRECHE/CENTRO DE EDUCAÇÃO INFANTIL"
+        }
+    ]
+}

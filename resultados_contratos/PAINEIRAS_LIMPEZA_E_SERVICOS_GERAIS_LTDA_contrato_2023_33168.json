@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 16736.16,
+            "codProcesso": "6016.2023/0134106-3",
+            "codModalidade": 12,
+            "datVigencia": "30/11/2028 00:00:00",
+            "datAssinaturaContrato": "16/11/2023 00:00:00",
+            "valAditamentos": 260601.25,
+            "codContrato": 33168,
+            "valLiquidado": 519168.61,
+            "codOrgao": "16",
+            "valPago": 519168.61,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 555715.75,
+            "valTotalEmpenhado": 630049.62,
+            "anoContrato": 2023,
+            "numOriginalContrato": "176/DRE-CL/2023",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 74333.87,
+            "datPublicacaoContrato": "23/11/2023 00:00:00",
+            "valPrincipal": 1797672.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de Empresa Especializada na prestação dos serviços de conservação e limpeza de instalações prediais, mobiliários, materiais educacionais, áreas internas e externas da Sede da Diretoria Regional de Educação Campo Limpo e Almoxarifado, com disponibilização de mão-de-obra, saneantes domissanitários, materiais de higiene pessoal e limpeza e equipamentos."
+        }
+    ]
+}

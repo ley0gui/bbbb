@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000729240",
+            "codModalidade": 6,
+            "datVigencia": "13/10/2024 00:00:00",
+            "valAditamentos": 143386.74,
+            "codContrato": 19900,
+            "valLiquidado": 164818.71,
+            "codOrgao": "16",
+            "valPago": 164818.71,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 172487.17,
+            "valTotalEmpenhado": 178780.05,
+            "anoContrato": 2020,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 6292.88,
+            "valPrincipal": 35760.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "AUTORIZO a emissão do empenho ao Termo de Contrato Nº 006/DRE-G/2020, celebrado com a empresa MARCELO DAS NEVES PIRES TRANSPORTES-ME – CNPJ 19.869.025/0001-54 por seu representante legal, Sr. MARCELO DAS NEVES PIRES, RG 64.789.367-8 e inscrito  no CPF sob o n.º 600.974.692-20,   cujo objeto do contrato é a \"PRESTAÇÃO DE SERVIÇOS DE MOTOFRETE PARA AS UNIDADES DA PMSP, COM ENTREGA E COLETA DE PEQUENAS CARGAS, POR MEIO DE MOTOCICLETAS\" por 12 (doze) meses, compreendendo o período 03/11/2020 a 02/11/2021, no valor total de R$ 35.760,00 (Trinta e cinco mil e setecentos e sessenta reais), onerando a  dotação orçamentária nº 16.21.12.122.3024.2100.3.3.90.39.00.00, sendo o fiscal do contrato a Servidora Agnes dos Santos RF 660.335.1 e fiscal suplente a servidora Eliane Moreira da Silva RF 675.304.3."
+        }
+    ]
+}

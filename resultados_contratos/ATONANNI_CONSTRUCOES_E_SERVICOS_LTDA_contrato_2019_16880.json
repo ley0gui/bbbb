@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 2887517.25,
+            "codProcesso": "6031201900019758",
+            "codModalidade": 12,
+            "datVigencia": "18/09/2025 00:00:00",
+            "datAssinaturaContrato": "11/07/2019 00:00:00",
+            "valAditamentos": 11848841.56,
+            "codContrato": 16880,
+            "valLiquidado": 14481608.38,
+            "codOrgao": "50",
+            "valPago": 14481608.38,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 15834417.18,
+            "valTotalEmpenhado": 17756382.05,
+            "anoContrato": 2019,
+            "numOriginalContrato": "30/SUB-BT/SF/2019",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 1921964.87,
+            "datPublicacaoContrato": "12/07/2019 00:00:00",
+            "valPrincipal": 2072371.44,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação dos Serviços de Limpeza de Galerias, Córregos e Canais através de equipes, pelo período de 12 (doze) meses a partir de 22/07/2019"
+        }
+    ]
+}

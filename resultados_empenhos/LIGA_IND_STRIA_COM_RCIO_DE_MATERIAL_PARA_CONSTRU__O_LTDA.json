@@ -1,0 +1,68 @@
+{
+    "razao_social": "LIGA INDÚSTRIA COMÉRCIO DE MATERIAL PARA CONSTRUÇÃO LTDA",
+    "resultado": {
+        "razao_social": "LIGA INDÚSTRIA COMÉRCIO DE MATERIAL PARA CONSTRUÇÃO LTDA",
+        "total_empenhado": 177840.0,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 1780,
+                "codEmpenho": 852,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "20/01/2025 00:00:00",
+                "codProcesso": "6031202400015565",
+                "numCpfCnpj": "12260690000105",
+                "txtRazaoSocial": "LIGA INDÚSTRIA COMÉRCIO DE MATERIAL PARA CONSTRUÇÃO LTDA ",
+                "numContrato": 24797,
+                "anoContrato": 2024,
+                "codOrgao": "50",
+                "txDescricaoOrgao": "Subprefeitura Butantã",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Administração da Subprefeitura",
+                "codFuncao": "15",
+                "txDescricaoFuncao": "Urbanismo",
+                "codSubFuncao": "452",
+                "txDescricaoSubFuncao": "Serviços Urbanos",
+                "codPrograma": "3022",
+                "txDescricaoPrograma": "Requalificação e Promoção da Ocupação dos Espaços Públicos",
+                "codProjetoAtividade": "2341",
+                "txDescricaoProjetoAtividade": "Manutenção de Vias e Áreas Públicas",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "30",
+                "txDescricaoElemento": "Material para Manutenção de Bens Imóveis",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "0",
+                "txDescricaoItemDespesa": "Cal, Cimento e Argamassa",
+                "codSubElemento": "2",
+                "txDescricaoSubElementoDespesa": "Material de Consumo",
+                "valTotalEmpenhado": 177840.0,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 177840.0,
+                "valLiquidado": 39520.0,
+                "valPagoExercicio": 39520.0,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "UN",
+                        "descricaoAnexo": "Contrato 09/SUB-BT/2024 - aquisição de cimento portland composto",
+                        "qtdeAnexo": 5850,
+                        "valorUnitarioAnexo": 30.4
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

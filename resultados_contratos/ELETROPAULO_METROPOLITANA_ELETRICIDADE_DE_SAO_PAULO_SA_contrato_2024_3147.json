@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "64",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202400053996",
+            "codModalidade": 7,
+            "datVigencia": "31/12/2024 00:00:00",
+            "valAditamentos": 5330271.96,
+            "codContrato": 3147,
+            "valLiquidado": 5487949.34,
+            "codOrgao": "16",
+            "valPago": 5126268.25,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 5780559.93,
+            "valTotalEmpenhado": 5788794.23,
+            "anoContrato": 2024,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 8234.3,
+            "valPrincipal": 4700000.0,
+            "txtTipoContratacao": "Nota de Empenho-Fornecitº Serviços de Concessionárias de Abast.Público",
+            "txtObjetoContrato": "PRESTAÇÃO DE SERVIÇOS DE FORNECIMENTO DE ENERGIA ELÉTRICA - 2024"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 3571.75,
+            "codProcesso": "6016202200726105",
+            "codModalidade": 12,
+            "datVigencia": "10/07/2025 00:00:00",
+            "datAssinaturaContrato": "07/06/2022 00:00:00",
+            "valAditamentos": 160341.47,
+            "codContrato": 16772,
+            "valLiquidado": 213474.07,
+            "codOrgao": "16",
+            "valPago": 206780.19,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 236944.85,
+            "valTotalEmpenhado": 243552.09,
+            "anoContrato": 2022,
+            "numOriginalContrato": "05/DRE IP/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 6607.24,
+            "datPublicacaoContrato": "12/07/2022 00:00:00",
+            "valPrincipal": 77442.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Prestação de serviços de transporte mediante locação de 01 (um) veículo seminovo (até 3 anos de uso), com condutor e combustível em caráter não eventual, destinado ao transporte de pessoas, para apoio às suas atividades técnico - administrativas, conforme parâmetros estabelecidos no CadTerc."
+        }
+    ]
+}

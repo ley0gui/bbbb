@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "22",
+            "valReajustes": 0.0,
+            "codProcesso": "6016201900883116",
+            "codModalidade": 8,
+            "datVigencia": "02/12/2029 00:00:00",
+            "datAssinaturaContrato": "28/09/2020 00:00:00",
+            "valAditamentos": 21921402.8,
+            "codContrato": 29465,
+            "valLiquidado": 10570398.67,
+            "codOrgao": "16",
+            "valPago": 10570398.67,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 10901860.06,
+            "valTotalEmpenhado": 11222669.17,
+            "anoContrato": 2019,
+            "numOriginalContrato": "25542020/DRE-SM/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 320809.11,
+            "datPublicacaoContrato": "06/10/2020 00:00:00",
+            "valPrincipal": 3976027.2,
+            "txtTipoContratacao": "Termo de Colaboração - Lei Federal 13.019/2014",
+            "txtObjetoContrato": "ATENDIMENTO PARA 84 CRIANÇAS DE 2 A 3 ANOS, NÃO HAVENDO ATENDIMENTO DE BERÇÁRIO - CEI PRINCESA LORENA"
+        }
+    ]
+}

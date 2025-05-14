@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 1383.25,
+            "codProcesso": "6031202000007999",
+            "codModalidade": 7,
+            "datVigencia": "22/04/2025 00:00:00",
+            "valAditamentos": 30137.41,
+            "codContrato": 4420,
+            "valLiquidado": 7364.16,
+            "codOrgao": "50",
+            "valPago": 7043.87,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 13274.62,
+            "valTotalEmpenhado": 34778.85,
+            "anoContrato": 2020,
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 21504.23,
+            "valPrincipal": 6858.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Despesas com telefone das Unidades–SEDE/PISCINÃO/ECOPONTOS"
+        }
+    ]
+}

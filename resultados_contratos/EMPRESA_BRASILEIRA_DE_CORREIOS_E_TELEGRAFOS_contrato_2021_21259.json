@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6031202100028882",
+            "codModalidade": 6,
+            "datVigencia": "29/11/2024 00:00:00",
+            "datAssinaturaContrato": "29/11/2021 00:00:00",
+            "valAditamentos": 50000.0,
+            "codContrato": 21259,
+            "valLiquidado": 53947.97,
+            "codOrgao": "50",
+            "valPago": 53947.97,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 72896.82,
+            "valTotalEmpenhado": 97445.5,
+            "anoContrato": 2021,
+            "numOriginalContrato": "9912287644",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 24548.68,
+            "datPublicacaoContrato": "12/10/2022 00:00:00",
+            "valPrincipal": 25000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de Empresa para prestação de serviços e venda de produtos postais."
+        }
+    ]
+}

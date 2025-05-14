@@ -1,0 +1,58 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202401585460",
+            "codModalidade": 7,
+            "datVigencia": "02/03/2025 00:00:00",
+            "datAssinaturaContrato": "07/01/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 129,
+            "valLiquidado": 55000.0,
+            "codOrgao": "16",
+            "valPago": 55000.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 55000.0,
+            "valTotalEmpenhado": 55000.0,
+            "anoContrato": 2025,
+            "numOriginalContrato": "41/SME2025",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "datPublicacaoContrato": "17/01/2025 00:00:00",
+            "valPrincipal": 55000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação por inexigibilidade de licitação, com fundamento no artigo 74, inciso II, da Lei n.º 14.133/21, do Evento Sonzando na natureza, um passeio pela primeira infância,, para a Programação Artística e Cultural do Programa Recreio nas Férias - Edição Janeiro/2025."
+        },
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "04",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6210202400121856",
+            "codModalidade": 12,
+            "datVigencia": "02/03/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 129,
+            "valLiquidado": 15456.0,
+            "codOrgao": "02",
+            "valPago": 15456.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 15456.0,
+            "valTotalEmpenhado": 15456.0,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Hospital do Servidor Público Municipal",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 15456.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Dispositivo para coleta múltipla, 21G com trava de segurança"
+        }
+    ]
+}

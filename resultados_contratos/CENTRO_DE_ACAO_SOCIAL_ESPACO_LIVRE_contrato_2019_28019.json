@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "22",
+            "valReajustes": 0.0,
+            "codProcesso": "6016201900783260",
+            "codModalidade": 8,
+            "datVigencia": "11/11/2029 00:00:00",
+            "datAssinaturaContrato": "16/06/2021 00:00:00",
+            "valAditamentos": 9998675.47,
+            "codContrato": 28019,
+            "valLiquidado": 6218392.33,
+            "codOrgao": "16",
+            "valPago": 6218392.33,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 6800257.33,
+            "valTotalEmpenhado": 7012589.18,
+            "anoContrato": 2019,
+            "numOriginalContrato": "14912021/DRE-SM/2021",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 212331.85,
+            "datPublicacaoContrato": "28/08/2021 00:00:00",
+            "valPrincipal": 3980050.1,
+            "txtTipoContratacao": "Termo de Colaboração - Lei Federal 13.019/2014",
+            "txtObjetoContrato": "ATENDIMENTO PARA 70 CRIANÇAS DE 0 A 3 ANOS, SENDO 24 DE BERÇÁRIO - CEI PRINCESA LÍVIA "
+        }
+    ]
+}

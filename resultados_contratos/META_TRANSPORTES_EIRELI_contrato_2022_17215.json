@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 29838.73,
+            "codProcesso": "6016202200738065",
+            "codModalidade": 12,
+            "datVigencia": "10/07/2025 00:00:00",
+            "datAssinaturaContrato": "12/07/2022 00:00:00",
+            "valAditamentos": 313722.0,
+            "codContrato": 17215,
+            "valLiquidado": 342882.03,
+            "codOrgao": "16",
+            "valPago": 342882.03,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 360543.71,
+            "valTotalEmpenhado": 423551.43,
+            "anoContrato": 2022,
+            "numOriginalContrato": "65/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 63007.72,
+            "datPublicacaoContrato": "14/07/2022 00:00:00",
+            "valPrincipal": 154884.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Serviços de transporte mediante locação de 2 (dois) veículos seminovos Hatch – VW/GOL ou SIMILAR, com condutor e combustível, destinados ao transporte de pessoas, para apoio as atividades técnico-administrativas da SME/CODAE"
+        }
+    ]
+}

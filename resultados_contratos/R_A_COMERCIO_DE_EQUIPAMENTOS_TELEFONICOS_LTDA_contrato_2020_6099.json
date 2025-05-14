@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000065520",
+            "codModalidade": 6,
+            "datVigencia": "29/04/2026 00:00:00",
+            "valAditamentos": 15406.53,
+            "codContrato": 6099,
+            "valLiquidado": 67578.07,
+            "codOrgao": "16",
+            "valPago": 67578.07,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 68861.95,
+            "valTotalEmpenhado": 73484.02,
+            "anoContrato": 2020,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 4622.07,
+            "valPrincipal": 70035.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada na locação de sistema de PABX com DDR e serviço de manutenção e gerenciamento para os CEUs Butantã e Uirapuru"
+        }
+    ]
+}

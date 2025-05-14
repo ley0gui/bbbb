@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000817689",
+            "codModalidade": 12,
+            "datVigencia": "26/10/2026 00:00:00",
+            "datAssinaturaContrato": "27/10/2022 00:00:00",
+            "valAditamentos": 278634.72,
+            "codContrato": 21377,
+            "valLiquidado": 167581.17,
+            "codOrgao": "16",
+            "valPago": 167581.17,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 167581.17,
+            "valTotalEmpenhado": 201375.05,
+            "anoContrato": 2020,
+            "numOriginalContrato": "ATA/SG-COBES/2019",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 33793.88,
+            "datPublicacaoContrato": "02/11/2022 00:00:00",
+            "valPrincipal": 8498.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "contratação tem por objeto a prestação de serviços de motofrete para entrega e coleta de pequenas cargas por meio de motocicletas, no âmbito da Diretoria Regional de Educação Freguesia/Brasilândia."
+        }
+    ]
+}

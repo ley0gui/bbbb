@@ -1,0 +1,68 @@
+{
+    "razao_social": "55009778 MARCOS DIAS DA SILVA",
+    "resultado": {
+        "razao_social": "55009778 MARCOS DIAS DA SILVA",
+        "total_empenhado": 5670.0,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "16",
+                "nomEmpresa": "FUNDAÇÃO PAULISTANA DE EDUCAÇÃO E TECNOLOGIA",
+                "numReserva": 15,
+                "codEmpenho": 25,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "27/01/2025 00:00:00",
+                "codProcesso": "8110202400004436",
+                "numCpfCnpj": "55009778000153",
+                "txtRazaoSocial": "55009778 MARCOS DIAS DA SILVA",
+                "numContrato": 20,
+                "anoContrato": 2024,
+                "codOrgao": "80",
+                "txDescricaoOrgao": "Fundação Paulistana de Educação Tecnologia e Cultura",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Fundação Paulistana de Educação Tecnologia e Cultura",
+                "codFuncao": "12",
+                "txDescricaoFuncao": "Educação",
+                "codSubFuncao": "122",
+                "txDescricaoSubFuncao": "Administração Geral",
+                "codPrograma": "3024",
+                "txDescricaoPrograma": "Suporte Administrativo",
+                "codProjetoAtividade": "2100",
+                "txDescricaoProjetoAtividade": "Administração da Unidade",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "30",
+                "txDescricaoElemento": "Gêneros de Alimentação",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "9",
+                "txDescricaoItemDespesa": "Diversos Gêneros Alimentícios",
+                "codSubElemento": "0",
+                "txDescricaoSubElementoDespesa": "Material de Consumo",
+                "valTotalEmpenhado": 5670.0,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 5670.0,
+                "valLiquidado": 2520.0,
+                "valPagoExercicio": 1890.0,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "UN",
+                        "descricaoAnexo": "Aquisição de café em pó, água mineral e açúcar em sachê para a sede da FPETC",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 5670.0
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

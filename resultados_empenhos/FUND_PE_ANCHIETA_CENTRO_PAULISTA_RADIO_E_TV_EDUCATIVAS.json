@@ -1,0 +1,68 @@
+{
+    "razao_social": "FUND PE ANCHIETA CENTRO PAULISTA RADIO E TV EDUCATIVAS",
+    "resultado": {
+        "razao_social": "FUND PE ANCHIETA CENTRO PAULISTA RADIO E TV EDUCATIVAS",
+        "total_empenhado": 7998600.0,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 3,
+                "codEmpenho": 201,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "17/01/2025 00:00:00",
+                "codProcesso": "6016202401541048",
+                "numCpfCnpj": "61914891000186",
+                "txtRazaoSocial": "FUND PE ANCHIETA CENTRO PAULISTA RADIO E TV EDUCATIVAS",
+                "numContrato": 178,
+                "anoContrato": 2025,
+                "codOrgao": "16",
+                "txDescricaoOrgao": "Secretaria Municipal de Educação",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Gabinete do Secretário",
+                "codFuncao": "12",
+                "txDescricaoFuncao": "Educação",
+                "codSubFuncao": "122",
+                "txDescricaoSubFuncao": "Administração Geral",
+                "codPrograma": "3024",
+                "txDescricaoPrograma": "Suporte Administrativo",
+                "codProjetoAtividade": "2100",
+                "txDescricaoProjetoAtividade": "Administração da Unidade",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "39",
+                "txDescricaoElemento": "Serviços de Áudio, Vídeo e Foto",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "9",
+                "txDescricaoItemDespesa": "Outros Serviços de Áudio, Vídeo, Foto, Som, Luz e Imagens",
+                "codSubElemento": "5",
+                "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
+                "valTotalEmpenhado": 7998600.0,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 7998600.0,
+                "valLiquidado": 1288200.0,
+                "valPagoExercicio": 1288200.0,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "UN",
+                        "descricaoAnexo": "FUNDAÇÃO PADRE ANCHIETA-50/25-ASCOM\n",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 7998600.0
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

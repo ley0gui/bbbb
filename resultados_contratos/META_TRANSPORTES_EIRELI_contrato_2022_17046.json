@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202200735171",
+            "codModalidade": 6,
+            "datVigencia": "12/07/2025 00:00:00",
+            "valAditamentos": 120000.0,
+            "codContrato": 17046,
+            "valLiquidado": 212822.93,
+            "codOrgao": "16",
+            "valPago": 212822.93,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 274356.75,
+            "valTotalEmpenhado": 281710.3,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 7353.55,
+            "valPrincipal": 160531.93,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Contratação de empresa especializada para prestação de serviços de locação de veículos com condutor e combustível, em caráter não\neventual, destinados ao transporte de pessoas, para apoio às suas atividades técnico-administrativas - DRE PE"
+        }
+    ]
+}

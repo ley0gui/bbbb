@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 182637.64,
+            "codProcesso": "6016201800510350",
+            "codModalidade": 12,
+            "datVigencia": "23/11/2025 00:00:00",
+            "datAssinaturaContrato": "29/10/2019 00:00:00",
+            "valAditamentos": 2865513.09,
+            "codContrato": 26880,
+            "valLiquidado": 3453929.89,
+            "codOrgao": "16",
+            "valPago": 3377971.75,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 3453929.89,
+            "valTotalEmpenhado": 3865335.99,
+            "anoContrato": 2020,
+            "numOriginalContrato": "08/DRE-CL/2019",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 411406.1,
+            "datPublicacaoContrato": "09/11/2019 00:00:00",
+            "valPrincipal": 963311.53,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada para prestação de serviços de transporte de passageiros e misto\n(cargas leves e de passageiros), mediante locação de veículos seminovos em caráter não eventual, com\ncondutor, com fornecimento de combustível"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202500105556",
+            "codModalidade": 7,
+            "datVigencia": "05/02/2026 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 3013,
+            "valLiquidado": 36057.32,
+            "codOrgao": "16",
+            "valPago": 33986.74,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 116189.23,
+            "valTotalEmpenhado": 116189.23,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 116450.02,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "DESPESAS ANUAL COM SABESP - DRE 2025"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 923764.7,
+            "codProcesso": "6016202200090367",
+            "codModalidade": 12,
+            "datVigencia": "01/03/2026 00:00:00",
+            "datAssinaturaContrato": "18/02/2022 00:00:00",
+            "valAditamentos": 33435141.9,
+            "codContrato": 3601,
+            "valLiquidado": 31257004.36,
+            "codOrgao": "16",
+            "valPago": 30335657.89,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 35863736.76,
+            "valTotalEmpenhado": 39626272.23,
+            "anoContrato": 2022,
+            "numOriginalContrato": "43/SME/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 3762535.47,
+            "datPublicacaoContrato": "26/02/2022 00:00:00",
+            "valPrincipal": 7718092.68,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de serviços de segurança e vigilância em unidades escolares da SME - Lotes 02,10"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 9704.93,
+            "codProcesso": "6031202100020377",
+            "codModalidade": 6,
+            "datVigencia": "01/03/2026 00:00:00",
+            "datAssinaturaContrato": "25/02/2022 00:00:00",
+            "valAditamentos": 57000.0,
+            "codContrato": 758,
+            "valLiquidado": 61141.71,
+            "codOrgao": "50",
+            "valPago": 61141.71,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 76899.14,
+            "valTotalEmpenhado": 87400.5,
+            "anoContrato": 2022,
+            "numOriginalContrato": "01/SUB-BT/2022",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 10501.36,
+            "datPublicacaoContrato": "12/05/2022 00:00:00",
+            "valPrincipal": 18000.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada na prestação de serviços de controle de acesso, para a sede da Subprefeitura Butantã, pelo período de 12 (doze) meses, prorrogáveis por iguais ou menores períodos, podendo perfazer um total de até 60 (sessenta) meses."
+        },
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "04",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6210202200031217",
+            "codModalidade": 12,
+            "datVigencia": "11/05/2023 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 758,
+            "valLiquidado": 1022.4,
+            "codOrgao": "02",
+            "valPago": 1022.4,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1022.4,
+            "valTotalEmpenhado": 1022.4,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Hospital do Servidor Público Municipal",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 1022.4,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": " SULFATO DE MORFINA EM COMPRIMIDO COM 10 MG"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 21405.49,
+            "codProcesso": "6031202100019646",
+            "codModalidade": 12,
+            "datVigencia": "16/01/2026 00:00:00",
+            "datAssinaturaContrato": "30/12/2022 00:00:00",
+            "valAditamentos": 237600.0,
+            "codContrato": 36951,
+            "valLiquidado": 268446.79,
+            "codOrgao": "50",
+            "valPago": 257735.25,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 364712.35,
+            "valTotalEmpenhado": 372304.78,
+            "anoContrato": 2022,
+            "numOriginalContrato": "34/SUB-BT/2022",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 7592.43,
+            "datPublicacaoContrato": "18/02/2023 00:00:00",
+            "valPrincipal": 118800.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de serviços de recepção para controle de entrada/saídas de pessoas no prédio sede da Subprefeitura Butantã"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202500071341",
+            "codModalidade": 6,
+            "valAditamentos": 0.0,
+            "codContrato": 1031,
+            "valLiquidado": 0.0,
+            "codOrgao": "16",
+            "valPago": 0.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 34238.4,
+            "valTotalEmpenhado": 34238.4,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 34238.4,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de Serviços ENEL - rede de distribuição de energia elétrica - CEI Rua Min. Lins de Barros"
+        }
+    ]
+}

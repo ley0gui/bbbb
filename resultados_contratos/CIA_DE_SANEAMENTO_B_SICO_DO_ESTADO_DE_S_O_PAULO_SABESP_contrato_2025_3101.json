@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202401651099",
+            "codModalidade": 7,
+            "datVigencia": "31/12/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 3101,
+            "valLiquidado": 1761037.1,
+            "codOrgao": "16",
+            "valPago": 1589413.51,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 10525000.0,
+            "valTotalEmpenhado": 10525000.0,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 17472000.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "SP/SR CONTRATAÇÃO DOS SERVIÇOS DE FORNECIMENTO DE AGUA A ESGOTO PARA AS UNIDADES ADM DA DRE/MP, EMEFS, CMCT I E II, EMEFM, CEIS, EMEIS E CEUS DA SABESP - CIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO  PAULO DO MES DE JANEIRO A DEZEMBRO DE 2025"
+        }
+    ]
+}

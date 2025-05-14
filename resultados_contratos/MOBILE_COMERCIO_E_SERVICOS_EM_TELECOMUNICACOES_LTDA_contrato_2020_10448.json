@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 4918.0,
+            "codProcesso": "6016202000412182",
+            "codModalidade": 12,
+            "datVigencia": "29/06/2025 00:00:00",
+            "datAssinaturaContrato": "24/06/2020 00:00:00",
+            "valAditamentos": 57022.5,
+            "codContrato": 10448,
+            "valLiquidado": 40180.82,
+            "codOrgao": "16",
+            "valPago": 39333.59,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 46958.67,
+            "valTotalEmpenhado": 55272.27,
+            "anoContrato": 2020,
+            "numOriginalContrato": "002/DRE-PE/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 8313.6,
+            "datPublicacaoContrato": "26/06/2020 00:00:00",
+            "valPrincipal": 7166.8,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DA CEBTRAK DE COMUNICAÇÃO DE VOZ HIBRIDA, COM DDR, COM SERVIÇOS DE INSTALAÇÃO COM GERENCIAMENTO E MANUTENÇÃO ( ITEM III - EQ. TIPO 2 (51 A 100 RAMAIS) - DRE"
+        }
+    ]
+}

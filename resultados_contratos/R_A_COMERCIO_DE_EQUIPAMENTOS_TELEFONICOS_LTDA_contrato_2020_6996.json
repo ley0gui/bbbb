@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000186000",
+            "codModalidade": 8,
+            "datVigencia": "20/05/2024 00:00:00",
+            "datAssinaturaContrato": "29/04/2020 00:00:00",
+            "valAditamentos": 269387.71,
+            "codContrato": 6996,
+            "valLiquidado": 266444.4,
+            "codOrgao": "16",
+            "valPago": 266444.4,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 316499.36,
+            "valTotalEmpenhado": 323898.21,
+            "anoContrato": 2020,
+            "numOriginalContrato": "01/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 7398.85,
+            "datPublicacaoContrato": "06/06/2020 00:00:00",
+            "valPrincipal": 51353.12,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "CONTRATAÇÃO DE EMPRESA PARA SERVIÇO DE LOCAÇÃO DE PABX -  CEUS "
+        }
+    ]
+}

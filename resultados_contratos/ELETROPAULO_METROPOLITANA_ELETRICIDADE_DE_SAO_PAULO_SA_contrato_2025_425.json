@@ -1,0 +1,54 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202500028829",
+            "codModalidade": 7,
+            "datVigencia": "20/05/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 425,
+            "valLiquidado": 0.0,
+            "codOrgao": "16",
+            "valPago": 0.0,
+            "valAnulacao": 41086.92,
+            "valEmpenhadoLiquido": 0.0,
+            "valTotalEmpenhado": 41086.92,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 41086.92,
+            "valPrincipal": 41086.92,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "SP/MP ENEL NOTA TÉCNICA Nº 381706046 CONTRATAÇÃO DE SERVIÇOS DE LIGAÇÃO NOVA DE ENERGIA ELÉTRICA DE BAIXA TENSÃO NA U.E EMEF MUNIZ FALCÃO COM ENDEREÇO RUA MUNIZ FALCÃO SNº - PARQUE PAULISTANO – SÃO PAULO/SP CEP 08080-240"
+        },
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "04",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6210202500015691",
+            "codModalidade": 6,
+            "valAditamentos": 0.0,
+            "codContrato": 425,
+            "valLiquidado": 0.0,
+            "codOrgao": "02",
+            "valPago": 0.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 162.0,
+            "valTotalEmpenhado": 162.0,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Hospital do Servidor Público Municipal",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 162.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Lavatório PCD, torneira PCD e Bacia Sanitária com caixa acoplada PCD,"
+        }
+    ]
+}

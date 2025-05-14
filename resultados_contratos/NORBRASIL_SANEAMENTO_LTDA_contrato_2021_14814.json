@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 858042.84,
+            "codProcesso": "6031202100016434",
+            "codModalidade": 12,
+            "datVigencia": "12/08/2025 00:00:00",
+            "datAssinaturaContrato": "11/08/2021 00:00:00",
+            "valAditamentos": 4434055.54,
+            "codContrato": 14814,
+            "valLiquidado": 5863071.87,
+            "codOrgao": "50",
+            "valPago": 5730728.55,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 6463008.27,
+            "valTotalEmpenhado": 6662934.86,
+            "anoContrato": 2021,
+            "numOriginalContrato": "07/SUB-BT/SF/2021",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 199926.59,
+            "datPublicacaoContrato": "12/08/2021 00:00:00",
+            "valPrincipal": 1345314.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de serviços de manutenção do sistema de drenagem, através de limpeza mecânica em galerias, ramais, poços de visita, tubos e conexões, com fornecimento de equipamento combinado hidrojato/sugador/reciclador..."
+        }
+    ]
+}

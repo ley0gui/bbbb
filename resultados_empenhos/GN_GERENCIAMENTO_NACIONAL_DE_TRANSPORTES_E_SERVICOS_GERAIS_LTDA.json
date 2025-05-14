@@ -2,7 +2,7 @@
     "razao_social": "GN GERENCIAMENTO NACIONAL DE TRANSPORTES E SERVICOS GERAIS LTDA",
     "resultado": {
         "razao_social": "GN GERENCIAMENTO NACIONAL DE TRANSPORTES E SERVICOS GERAIS LTDA",
-        "total_empenhado": 2183010.25,
+        "total_empenhado": 2100790.34,
         "quantidade_empenhos": 2,
         "empenhos": [
             {
@@ -45,10 +45,10 @@
                 "codSubElemento": "1",
                 "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
                 "valTotalEmpenhado": 2565000.0,
-                "valAnuladoEmpenho": 674421.01,
-                "valEmpenhadoLiquido": 1890578.99,
+                "valAnuladoEmpenho": 754000.0,
+                "valEmpenhadoLiquido": 1811000.0,
                 "valLiquidado": 855000.0,
-                "valPagoExercicio": 570000.0,
+                "valPagoExercicio": 855000.0,
                 "valPagoRestos": 0.0,
                 "anexos": [
                     {
@@ -103,10 +103,10 @@
                 "codSubElemento": "1",
                 "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
                 "valTotalEmpenhado": 399561.42,
-                "valAnuladoEmpenho": 107130.16,
-                "valEmpenhadoLiquido": 292431.26,
+                "valAnuladoEmpenho": 109771.08,
+                "valEmpenhadoLiquido": 289790.34,
                 "valLiquidado": 127932.06,
-                "valPagoExercicio": 82660.5,
+                "valPagoExercicio": 127932.06,
                 "valPagoRestos": 0.0,
                 "anexos": [
                     {

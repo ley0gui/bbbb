@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "41",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000115978",
+            "codModalidade": 6,
+            "datVigencia": "29/03/2026 00:00:00",
+            "valAditamentos": 48760.57,
+            "codContrato": 5035,
+            "valLiquidado": 49536.79,
+            "codOrgao": "16",
+            "valPago": 49536.79,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 52877.21,
+            "valTotalEmpenhado": 59516.46,
+            "anoContrato": 2020,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 6639.25,
+            "valPrincipal": 8695.84,
+            "txtTipoContratacao": "Nota de Empenho de Serviços com fornecimento de materiais / peças",
+            "txtObjetoContrato": "AUTORIZO a emissão do empenho ao Termo de Contrato Nº 001/DRE-G/2020, celebrado com a empresa R&A COMÉRCIO E EQUIPAMENTOS TELEFÔNICOS LTDA – CNPJ 54.561.071/0001-92 por seu representante legal, Sra. VANESSA PEREIRA DE FREITAS, RG 29.678.960-4 e inscrito  no CPF sob o n.º 338.580.138-97,   cujo objeto do contrato é a Prestação de serviços de locação da Central de Comunicação de Voz Híbrida, com DDR, com serviço de instalação, com gerenciamento e manutenção (Item II [Equipamento 1]) por 12 (doze) meses, compreendendo o período 30/03/2020 (inclusive) a 29/03/2021 e alteração no índice de reajuste contratual, conforme Portaria SF 389/2017, no valor total de R$ 8.695,84 (Oito mil, seiscentos e noventa e cinco mil e oitenta e quatro centavos), para o exercício de 2020, onerando a  dotação orçamentária nº 16.21.12.368.3010.4.364.3.3.90.39.00.00"
+        }
+    ]
+}

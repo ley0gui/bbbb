@@ -1,0 +1,57 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202500047432",
+            "codModalidade": 7,
+            "datVigencia": "31/12/2025 00:00:00",
+            "datAssinaturaContrato": "14/01/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 212,
+            "valLiquidado": 4155229.46,
+            "codOrgao": "16",
+            "valPago": 3079401.63,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 11841337.28,
+            "valTotalEmpenhado": 14857947.48,
+            "anoContrato": 2025,
+            "numOriginalContrato": "NÃO CONSTA",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 3016610.2,
+            "datPublicacaoContrato": "15/01/2025 00:00:00",
+            "valPrincipal": 15936000.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "SP/SR - CONTRATAÇÃO E PAGAMENTO DE FORNECIMENTO DE ÁGUA - SABESP PARA AS UNIDADES DA DRE SÃO MATEUS\n"
+        },
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "04",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6210202500011548",
+            "codModalidade": 12,
+            "valAditamentos": 0.0,
+            "codContrato": 212,
+            "valLiquidado": 0.0,
+            "codOrgao": "02",
+            "valPago": 0.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 87.24,
+            "valTotalEmpenhado": 87.24,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Hospital do Servidor Público Municipal",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 87.24,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Revelador, para raio X, odontologico, frasco com 475 ml"
+        }
+    ]
+}

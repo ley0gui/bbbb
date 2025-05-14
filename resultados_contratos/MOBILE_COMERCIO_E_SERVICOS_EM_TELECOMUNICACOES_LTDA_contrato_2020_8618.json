@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Concurso",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 6916.92,
+            "codProcesso": "6016202000215166",
+            "codModalidade": 1,
+            "datVigencia": "05/06/2025 00:00:00",
+            "datAssinaturaContrato": "26/05/2020 00:00:00",
+            "valAditamentos": 48698.32,
+            "codContrato": 8618,
+            "valLiquidado": 53267.53,
+            "codOrgao": "16",
+            "valPago": 53267.53,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 55495.32,
+            "valTotalEmpenhado": 56714.06,
+            "anoContrato": 2020,
+            "numOriginalContrato": "002/DRE-CS/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 1218.74,
+            "datPublicacaoContrato": "27/05/2020 00:00:00",
+            "valPrincipal": 10308.4,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação da empresa Empresa Método Mobile Comércio e Serviços em Telecomunicações Ltda, CNPJ nº 07.343.712/0001-52, objetivando a Prestação de serviços de locação da Central de Comunicação de Voz Híbrida, com DDR, com serviço de instalação, com gerenciamento e manutenção."
+        }
+    ]
+}

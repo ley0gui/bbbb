@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "41",
+            "valReajustes": 7126.08,
+            "codProcesso": "6016202000726128",
+            "codModalidade": 6,
+            "datVigencia": "06/10/2024 00:00:00",
+            "valAditamentos": 97964.16,
+            "codContrato": 19520,
+            "valLiquidado": 71301.76,
+            "codOrgao": "16",
+            "valPago": 71301.76,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 79628.04,
+            "valTotalEmpenhado": 82801.93,
+            "anoContrato": 2020,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 3173.89,
+            "valPrincipal": 6708.0,
+            "txtTipoContratacao": "Nota de Empenho de Serviços com fornecimento de materiais / peças",
+            "txtObjetoContrato": "AUTORIZO a emissão do empenho ao Termo de Contrato Nº 001/DRE-G/2020, celebrado com a empresa TMS Comércio e Locação de Purificadores EIRELI-EPP – CNPJ 09.114.027/0001-80 por seu representante legal, Sr. Thiago Teixeira dos Santos, RG 11.895.328 e inscrito  no CPF sob o n.º 70.305.396-23,   cujo objeto do contrato é a PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO, INSTALAÇÃO E MANUTENÇÃO DE APARELHOS PURIFICADORES DE ÁGUA por 12 (doze) meses, compreendendo o período 03/11/2020 (inclusive) a 02/11/2021, no valor total de e R$ 6.708,00 (Seis mil e setecentos e oito reais), sendo R$ 1.062,10 (um mil, seiscentos e dois reais e dez centavos) para o exercício de 2020, oonerando as dotações orçamentárias 16.21.12.122.3024.2100.3.3.90.39.00 e 16.21.12.368.3010.4.364.3.3.90.39.00, sendo o fiscal do contrato Sr. Lenito Cerqueira da Gama R.F. 808.414.9  e suplente o Sr. Gerson Santana Pereira R.F. 752,810,8."
+        }
+    ]
+}

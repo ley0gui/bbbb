@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 39027.12,
+            "codProcesso": "6016202200728124",
+            "codModalidade": 12,
+            "datVigencia": "10/07/2025 00:00:00",
+            "valAditamentos": 309768.0,
+            "codContrato": 16907,
+            "valLiquidado": 423847.22,
+            "codOrgao": "16",
+            "valPago": 423847.22,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 470622.64,
+            "valTotalEmpenhado": 492588.53,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 21965.89,
+            "valPrincipal": 154884.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "SP/MP CONTRATAÇÃO DE SERVIÇOS DE TRANSP MEDIANTE LOC DE 2 VEICULOS LEVES SEMINOVOS COM ATÉ ANOS DE USO COM CONDUTOR E COMBUSTIVEL EM CARATER NÃO EVENTUAL PARA TRANSP DE PESSOAS PARA APOIO AS SUAS ATIVIDADES TECNICA ADMINISTRATIVA"
+        }
+    ]
+}

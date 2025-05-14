@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202200898356",
+            "codModalidade": 12,
+            "datVigencia": "20/12/2025 00:00:00",
+            "datAssinaturaContrato": "12/12/2022 00:00:00",
+            "valAditamentos": 996693.37,
+            "codContrato": 35431,
+            "valLiquidado": 1015032.1,
+            "codOrgao": "16",
+            "valPago": 1015032.1,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1451123.93,
+            "valTotalEmpenhado": 1549163.05,
+            "anoContrato": 2022,
+            "numOriginalContrato": "005/DRE-SM/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 98039.12,
+            "datPublicacaoContrato": "20/12/2022 00:00:00",
+            "valPrincipal": 454930.56,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "SP/SM - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE DE PESSOAS E PEQUENAS CARGAS - VANS PARA A DRE SÃO MATEUS"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 22758.24,
+            "codProcesso": "6016202000190520",
+            "codModalidade": 12,
+            "datVigencia": "05/06/2025 00:00:00",
+            "datAssinaturaContrato": "06/04/2020 00:00:00",
+            "valAditamentos": 156790.72,
+            "codContrato": 5498,
+            "valLiquidado": 188192.29,
+            "codOrgao": "16",
+            "valPago": 188192.29,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 197196.17,
+            "valTotalEmpenhado": 215785.48,
+            "anoContrato": 2020,
+            "numOriginalContrato": "01/DRE-MP/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 18589.31,
+            "datPublicacaoContrato": "18/04/2022 00:00:00",
+            "valPrincipal": 37603.2,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "SP/MP CONTRATAÇÃO DE SERVIÇOS DE MOTO FRETE COM ENTREGA E COLETA DE PEQUENAS CARGAS "
+        }
+    ]
+}

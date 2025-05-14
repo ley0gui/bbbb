@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 1631.44,
+            "codProcesso": "6016202000412174",
+            "codModalidade": 12,
+            "datVigencia": "29/06/2024 00:00:00",
+            "datAssinaturaContrato": "22/07/2020 00:00:00",
+            "valAditamentos": 56694.6,
+            "codContrato": 10445,
+            "valLiquidado": 43701.73,
+            "codOrgao": "16",
+            "valPago": 42843.27,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 50569.29,
+            "valTotalEmpenhado": 65180.45,
+            "anoContrato": 2020,
+            "numOriginalContrato": "003/DRE-PE/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 14611.16,
+            "datPublicacaoContrato": "22/07/2020 00:00:00",
+            "valPrincipal": 8110.28,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DA CENTRAL DE COMUNIAÇÃO DE VOZ  HÍBRIDA, COM DDR, COM SERVIÇOS DE INSTALAÇÃO, COM GERENCIAMENTO E MANUTENÇÃO - ITEM II - EQ. DO TIPO 1 (ATÉ 50 RAMAIS) - CEUs"
+        }
+    ]
+}

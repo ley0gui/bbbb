@@ -1,0 +1,33 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202001008768",
+            "codModalidade": 6,
+            "datVigencia": "11/05/2026 00:00:00",
+            "datAssinaturaContrato": "12/05/2021 00:00:00",
+            "valAditamentos": 572120.0,
+            "codContrato": 9688,
+            "valLiquidado": 7882.67,
+            "codOrgao": "16",
+            "valPago": 7640.34,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 29831.94,
+            "valTotalEmpenhado": 542873.03,
+            "anoContrato": 2021,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 513041.09,
+            "valPrincipal": 143030.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "SP/MP CONTRATAÇÃO DE SERVIÇOS PARA ENVIO DE 2.000 TELEGRAMAS. 3.500 ENVIO DE CORRESPONDENCIAS COM AVISO DE RECEBIMENTO, 7.000 ENVIO DE CARTAS DOM REGISTRO E 1.000 ENVIO DE CARTAS SIMPLES PERÍODO DE 12/05/2021 A 11/05/2022 CREDOR EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
+        }
+    ]
+}

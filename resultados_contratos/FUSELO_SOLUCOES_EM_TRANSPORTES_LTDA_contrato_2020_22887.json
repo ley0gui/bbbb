@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000786341",
+            "codModalidade": 12,
+            "datVigencia": "01/12/2025 00:00:00",
+            "datAssinaturaContrato": "13/11/2020 00:00:00",
+            "valAditamentos": 1332210.24,
+            "codContrato": 22887,
+            "valLiquidado": 1279520.03,
+            "codOrgao": "16",
+            "valPago": 1251490.91,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1523854.87,
+            "valTotalEmpenhado": 1635522.24,
+            "anoContrato": 2020,
+            "numOriginalContrato": "006/DRE-SM/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 111667.37,
+            "datPublicacaoContrato": "19/12/2020 00:00:00",
+            "valPrincipal": 303312.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada para prestação de serviços de transporte de cargas com quilometragem livre, incluindo motorista, ajudante, combustível, seguro, manutenção e rastreamento, sendo um caminhão baú e um VUC para a DRE-SM"
+        }
+    ]
+}

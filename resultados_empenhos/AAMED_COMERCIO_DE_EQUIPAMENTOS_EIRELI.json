@@ -1,0 +1,68 @@
+{
+    "razao_social": "AAMED COMERCIO DE EQUIPAMENTOS EIRELI",
+    "resultado": {
+        "razao_social": "AAMED COMERCIO DE EQUIPAMENTOS EIRELI",
+        "total_empenhado": 19054.17,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "04",
+                "nomEmpresa": "HOSPITAL DO SERVIDOR PÚBLICO MUNICIPAL",
+                "numReserva": 16,
+                "codEmpenho": 17,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "21/01/2025 00:00:00",
+                "codProcesso": "6210202400077440",
+                "numCpfCnpj": "10238563000176",
+                "txtRazaoSocial": "AAMED COMERCIO DE EQUIPAMENTOS EIRELI",
+                "numContrato": 1564,
+                "anoContrato": 2024,
+                "codOrgao": "02",
+                "txDescricaoOrgao": "Hospital do Servidor Público Municipal",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Hospital do Servidor Público Municipal",
+                "codFuncao": "10",
+                "txDescricaoFuncao": "Saúde",
+                "codSubFuncao": "302",
+                "txDescricaoSubFuncao": "Assistência Hospitalar e Ambulatorial",
+                "codPrograma": "3026",
+                "txDescricaoPrograma": "Ações e Serviços da Saúde em Atenção Hospitalar e de Urgência e Emergê",
+                "codProjetoAtividade": "2507",
+                "txDescricaoProjetoAtividade": "Manutenção e Operação em Atenção Hospitalar e de Urgência e Emergência",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "39",
+                "txDescricaoElemento": "Manut. e Conserv. de Máquinas e Equipamentos",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "9",
+                "txDescricaoItemDespesa": "Outras Máquinas e Equipamentos",
+                "codSubElemento": "1",
+                "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
+                "valTotalEmpenhado": 19054.17,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 19054.17,
+                "valLiquidado": 6724.98,
+                "valPagoExercicio": 6724.98,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "SER",
+                        "descricaoAnexo": "MANUTENÇÃO NO CIRCUITO PNEUMATICO",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 19054.17
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

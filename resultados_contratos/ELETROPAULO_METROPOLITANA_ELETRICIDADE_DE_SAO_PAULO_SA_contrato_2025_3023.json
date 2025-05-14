@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202500105513",
+            "codModalidade": 6,
+            "datVigencia": "31/12/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 3023,
+            "valLiquidado": 22102.75,
+            "codOrgao": "16",
+            "valPago": 22102.75,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 95756.7,
+            "valTotalEmpenhado": 95756.7,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 95756.7,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "DESPESAS ANUAL COM A ENEL - 2025"
+        }
+    ]
+}

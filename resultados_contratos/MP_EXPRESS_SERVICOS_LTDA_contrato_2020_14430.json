@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000337504",
+            "codModalidade": 6,
+            "datVigencia": "11/08/2025 00:00:00",
+            "valAditamentos": 311201.28,
+            "codContrato": 14430,
+            "valLiquidado": 347466.01,
+            "codOrgao": "16",
+            "valPago": 340616.21,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 377102.8,
+            "valTotalEmpenhado": 391649.35,
+            "anoContrato": 2020,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 14546.55,
+            "valPrincipal": 71750.4,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": " Prestação do serviço de moto frete, de entrega e coleta de pequenas cargas, por meio de motocicletas, de acordo com a solicitação da Unidade Requisitante, na quantidade de 02 (duas), na Diretoria Regional de Educação Pirituba/Jaraguá."
+        }
+    ]
+}

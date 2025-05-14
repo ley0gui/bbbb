@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000076131",
+            "codModalidade": 12,
+            "datVigencia": "31/05/2025 00:00:00",
+            "valAditamentos": 37826.2,
+            "codContrato": 6478,
+            "valLiquidado": 42128.31,
+            "codOrgao": "16",
+            "valPago": 42128.31,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 44021.51,
+            "valTotalEmpenhado": 46052.0,
+            "anoContrato": 2020,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 2030.49,
+            "valPrincipal": 8234.8,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Contratação de empresa para prestação de serviços de locação da Central de Comunicação de Voz Híbrida, com DDR, com serviço de instalação, com gerenciamento e manutenção para a DRE-JT.  Utilização da Ata de Registro de Preços n° 010/SG-COBES/2019"
+        }
+    ]
+}

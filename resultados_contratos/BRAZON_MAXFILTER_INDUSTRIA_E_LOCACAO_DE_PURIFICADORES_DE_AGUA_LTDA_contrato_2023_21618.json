@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "12",
+            "valReajustes": 979.7,
+            "codProcesso": "6016202300641780",
+            "codModalidade": 12,
+            "datVigencia": "26/07/2025 00:00:00",
+            "datAssinaturaContrato": "27/07/2023 00:00:00",
+            "valAditamentos": 4753.44,
+            "codContrato": 21618,
+            "valLiquidado": 7776.96,
+            "codOrgao": "16",
+            "valPago": 7776.96,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 9361.44,
+            "valTotalEmpenhado": 9446.28,
+            "anoContrato": 2023,
+            "numOriginalContrato": "TC 08/DRE-CS/2023",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 84.84,
+            "datPublicacaoContrato": "27/07/2023 00:00:00",
+            "valPrincipal": 5299.2,
+            "txtTipoContratacao": "Contrato de Gestão - Lei Federal 9.637/1998",
+            "txtObjetoContrato": "Serviços de locação, instalação e manutenção de aparelhos purificadores de água para DRE-CS e os CEU's jurisdiconados a partir de 01/08/2023 - TC 08/DRE-CS/2023"
+        }
+    ]
+}

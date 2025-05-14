@@ -48,7 +48,7 @@
                 "valAnuladoEmpenho": 0.0,
                 "valEmpenhadoLiquido": 72714.0,
                 "valLiquidado": 72714.0,
-                "valPagoExercicio": 49488.0,
+                "valPagoExercicio": 72714.0,
                 "valPagoRestos": 0.0,
                 "anexos": [
                     {
@@ -163,8 +163,8 @@
                 "valTotalEmpenhado": 227250.0,
                 "valAnuladoEmpenho": 0.0,
                 "valEmpenhadoLiquido": 227250.0,
-                "valLiquidado": 2024.0,
-                "valPagoExercicio": 0.0,
+                "valLiquidado": 27274.0,
+                "valPagoExercicio": 2024.0,
                 "valPagoRestos": 0.0,
                 "anexos": [
                     {
@@ -221,8 +221,8 @@
                 "valTotalEmpenhado": 10646.03,
                 "valAnuladoEmpenho": 0.0,
                 "valEmpenhadoLiquido": 10646.03,
-                "valLiquidado": 2365.76,
-                "valPagoExercicio": 1182.88,
+                "valLiquidado": 3548.64,
+                "valPagoExercicio": 2365.76,
                 "valPagoRestos": 0.0,
                 "anexos": [
                     {

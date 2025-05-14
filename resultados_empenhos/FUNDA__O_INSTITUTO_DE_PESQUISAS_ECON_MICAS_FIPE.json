@@ -2,7 +2,7 @@
     "razao_social": "FUNDAÇÃO INSTITUTO DE PESQUISAS ECONÔMICAS FIPE",
     "resultado": {
         "razao_social": "FUNDAÇÃO INSTITUTO DE PESQUISAS ECONÔMICAS FIPE",
-        "total_empenhado": 2592151.83,
+        "total_empenhado": 995301.72,
         "quantidade_empenhos": 1,
         "empenhos": [
             {
@@ -45,10 +45,10 @@
                 "codSubElemento": "0",
                 "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
                 "valTotalEmpenhado": 2592151.83,
-                "valAnuladoEmpenho": 0.0,
-                "valEmpenhadoLiquido": 2592151.83,
+                "valAnuladoEmpenho": 1596850.11,
+                "valEmpenhadoLiquido": 995301.72,
                 "valLiquidado": 179733.5,
-                "valPagoExercicio": 0.0,
+                "valPagoExercicio": 179733.5,
                 "valPagoRestos": 0.0,
                 "anexos": [
                     {

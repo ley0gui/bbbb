@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202101146534",
+            "codModalidade": 7,
+            "datVigencia": "02/03/2026 00:00:00",
+            "valAditamentos": 978746.2,
+            "codContrato": 4317,
+            "valLiquidado": 931908.52,
+            "codOrgao": "16",
+            "valPago": 931908.52,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1019227.79,
+            "valTotalEmpenhado": 1092726.97,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 73499.18,
+            "valPrincipal": 293994.84,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada na prestação de serviços de portaria com acompanhamento e controle de acesso de visitantes."
+        }
+    ]
+}

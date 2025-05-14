@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016201900554252",
+            "codModalidade": 12,
+            "datVigencia": "22/04/2025 00:00:00",
+            "datAssinaturaContrato": "14/11/2019 00:00:00",
+            "valAditamentos": 171069.43,
+            "codContrato": 27455,
+            "valLiquidado": 202601.25,
+            "codOrgao": "16",
+            "valPago": 202601.25,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 206107.4,
+            "valTotalEmpenhado": 207903.93,
+            "anoContrato": 2019,
+            "numOriginalContrato": "007/DRE-SM/2019",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 1796.53,
+            "datPublicacaoContrato": "12/12/2019 00:00:00",
+            "valPrincipal": 35760.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de serviço de MOTOFRETE - ARP 002/SG-COBES/2019 "
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202200744928",
+            "codModalidade": 12,
+            "datVigencia": "12/07/2025 00:00:00",
+            "valAditamentos": 326989.86,
+            "codContrato": 17159,
+            "valLiquidado": 424818.61,
+            "codOrgao": "16",
+            "valPago": 424818.61,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 482025.99,
+            "valTotalEmpenhado": 491788.04,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 9762.05,
+            "valPrincipal": 155744.47,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Prestação de serviços de transporte mediante locação de 02 (dois) veículos seminovos (até 3 anos de uso), com condutor e combustível em caráter não eventual, destinado ao transporte de pessoas, para apoio às suas atividades técnico-administrativas,"
+        }
+    ]
+}

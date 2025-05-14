@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202400908827",
+            "codModalidade": 12,
+            "datVigencia": "13/08/2025 00:00:00",
+            "datAssinaturaContrato": "09/08/2024 00:00:00",
+            "valAditamentos": 50000.0,
+            "codContrato": 26661,
+            "valLiquidado": 37570.0,
+            "codOrgao": "16",
+            "valPago": 32638.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 52489.2,
+            "valTotalEmpenhado": 52489.2,
+            "anoContrato": 2024,
+            "numOriginalContrato": "009/DRE-SM/2024",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "datPublicacaoContrato": "13/08/2024 00:00:00",
+            "valPrincipal": 11343.6,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de Empresa especializada em SERVIÇOS DE MANUTENÇÃO PREVENTIVA E CORRETIVA NOS APARELHOS CONDICIONADORES E CLIMATIZADORES DE AR DA SEDE DA DRE SÃO MATEUS, com fornecimento de todo o material, inclusive peças, e mão de obra necessárias à sua realização, nos meses de julho e dezembro ou conforme solicitação da contratante, cujas características, especificações técnicas e condições de entrega encontram-se descritas no ANEXO I - Termo de Referência - Especificações Técnicas e Condições de execução do Objeto"
+        }
+    ]
+}

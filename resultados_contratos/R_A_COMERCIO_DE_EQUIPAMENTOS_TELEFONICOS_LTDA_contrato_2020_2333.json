@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 3435.55,
+            "codProcesso": "6016202000057960",
+            "codModalidade": 12,
+            "datVigencia": "11/02/2026 00:00:00",
+            "datAssinaturaContrato": "10/02/2020 00:00:00",
+            "valAditamentos": 51557.56,
+            "codContrato": 2333,
+            "valLiquidado": 51962.89,
+            "codOrgao": "16",
+            "valPago": 51962.89,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 61154.79,
+            "valTotalEmpenhado": 62729.67,
+            "anoContrato": 2020,
+            "numOriginalContrato": "33/SME/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 1574.88,
+            "datPublicacaoContrato": "03/03/2020 00:00:00",
+            "valPrincipal": 9142.28,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada na prestação de serviços de locação da Central de Comunicação de Voz Híbrida, com DDR, com serviço de instalação, com gerenciamento e com manutenção, para os equipamentos administrativos da (SME) - Casa Sérgio Buarque e CME."
+        }
+    ]
+}

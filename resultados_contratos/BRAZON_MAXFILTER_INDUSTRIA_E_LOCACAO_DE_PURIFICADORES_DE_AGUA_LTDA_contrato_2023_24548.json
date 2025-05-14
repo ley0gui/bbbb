@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 96.17,
+            "codProcesso": "6016202300910013",
+            "codModalidade": 12,
+            "datVigencia": "17/08/2025 00:00:00",
+            "datAssinaturaContrato": "15/08/2023 00:00:00",
+            "valAditamentos": 3221.57,
+            "codContrato": 24548,
+            "valLiquidado": 5056.0,
+            "codOrgao": "16",
+            "valPago": 5056.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 6333.18,
+            "valTotalEmpenhado": 6389.74,
+            "anoContrato": 2023,
+            "numOriginalContrato": "109/2023",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 56.56,
+            "datPublicacaoContrato": "16/08/2023 00:00:00",
+            "valPrincipal": 3072.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação dos Serviços de Locação, Instalação e Manutenção de 08 Aparelhos de Purificadores de Água para as necessidades dos Prédios do Centro de Formação - Almoxarifado e da DRE JT."
+        }
+    ]
+}

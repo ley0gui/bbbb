@@ -1,0 +1,58 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 3589539.91,
+            "codProcesso": "6016202200094320",
+            "codModalidade": 12,
+            "datVigencia": "14/08/2025 00:00:00",
+            "datAssinaturaContrato": "14/02/2022 00:00:00",
+            "valAditamentos": 83106279.36,
+            "codContrato": 2047,
+            "valLiquidado": 98746172.33,
+            "codOrgao": "16",
+            "valPago": 95777090.33,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 112319083.97,
+            "valTotalEmpenhado": 132023745.59,
+            "anoContrato": 2022,
+            "numOriginalContrato": "31/SME/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 19704661.62,
+            "datPublicacaoContrato": "19/02/2022 00:00:00",
+            "valPrincipal": 31292645.58,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de serviços técnicos continuados de conservação e manutenção preventiva e corretiva de primeiro escalão dos bens imóveis sob a administração da Secretaria Municipal de Educação - SME."
+        },
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "04",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6210202200099202",
+            "codModalidade": 12,
+            "datVigencia": "30/11/2023 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 2047,
+            "valLiquidado": 1245.96,
+            "codOrgao": "02",
+            "valPago": 1245.96,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1245.96,
+            "valTotalEmpenhado": 1245.96,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Hospital do Servidor Público Municipal",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 1245.96,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Pasta para eletroenefalograma (EEG), pote 01 quilo"
+        }
+    ]
+}

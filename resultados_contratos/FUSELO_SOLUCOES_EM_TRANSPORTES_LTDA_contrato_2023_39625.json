@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "73",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202300655242",
+            "codModalidade": 12,
+            "datVigencia": "02/07/2026 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 39625,
+            "valLiquidado": 332567.32,
+            "codOrgao": "16",
+            "valPago": 332567.32,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 481189.32,
+            "valTotalEmpenhado": 693969.25,
+            "anoContrato": 2023,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 212779.93,
+            "valPrincipal": 735000.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços Continuados",
+            "txtObjetoContrato": "Pregão n° 03/DRE-BT/2023 – Contratação de empresa especializada para prestação de serviços de transporte de cargas, de 01 (um) veículo urbano de carga (CAMINHÃO VUC - com baú fechado), incluindo 01 (um) motorista categoria “D”, 02 (dois) ajudantes, combustível e quilometragem livres, para atender as necessidades da Diretoria Regional de Educação do Butantã (DRE-BT)."
+        }
+    ]
+}

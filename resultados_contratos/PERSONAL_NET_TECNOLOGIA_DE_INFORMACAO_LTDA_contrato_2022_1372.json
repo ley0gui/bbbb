@@ -1,0 +1,58 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 451108.08,
+            "codProcesso": "6016202100925432",
+            "codModalidade": 12,
+            "datVigencia": "28/01/2026 00:00:00",
+            "datAssinaturaContrato": "28/01/2022 00:00:00",
+            "valAditamentos": 8438183.41,
+            "codContrato": 1372,
+            "valLiquidado": 12554602.54,
+            "codOrgao": "16",
+            "valPago": 12554602.54,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 15805994.37,
+            "valTotalEmpenhado": 16122071.89,
+            "anoContrato": 2022,
+            "numOriginalContrato": "29/SME/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 316077.52,
+            "datPublicacaoContrato": "02/02/2022 00:00:00",
+            "valPrincipal": 7416000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Recursos para contratação do meio de pagamento para gerir o recurso dos Programas Auxílios Uniforme e Material para que os responsáveis pelos estudantes consigam adquirir os uniformes e os materiais"
+        },
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "04",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6210202200068455",
+            "codModalidade": 12,
+            "datVigencia": "09/08/2023 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 1372,
+            "valLiquidado": 1869.6,
+            "codOrgao": "02",
+            "valPago": 1869.6,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1869.6,
+            "valTotalEmpenhado": 1869.6,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Hospital do Servidor Público Municipal",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 1869.6,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Absorvente higiênico, hospitalar"
+        }
+    ]
+}

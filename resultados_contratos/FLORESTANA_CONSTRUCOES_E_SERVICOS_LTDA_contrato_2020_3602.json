@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 6384330.56,
+            "codProcesso": "6031202000007565",
+            "codModalidade": 12,
+            "datVigencia": "01/06/2025 00:00:00",
+            "datAssinaturaContrato": "02/03/2020 00:00:00",
+            "valAditamentos": 25415145.34,
+            "codContrato": 3602,
+            "valLiquidado": 28450152.39,
+            "codOrgao": "50",
+            "valPago": 28158348.59,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 29783628.2,
+            "valTotalEmpenhado": 33619818.53,
+            "anoContrato": 2020,
+            "numOriginalContrato": "02/SUB-BT/2020",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 3836190.33,
+            "datPublicacaoContrato": "28/04/2020 00:00:00",
+            "valPrincipal": 2811743.97,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "PRESTAÇÃO DE SERVIÇOS DE CONSERVAÇÃO DE ÁREAS VERDES ATRAVES DE EQUIPES COM A ATA DE RP 04/SMPR/COGEL/2018"
+        }
+    ]
+}

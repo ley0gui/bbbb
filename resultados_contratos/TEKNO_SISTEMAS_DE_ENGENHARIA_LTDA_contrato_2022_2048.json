@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 2141389.29,
+            "codProcesso": "6016202200094389",
+            "codModalidade": 12,
+            "datVigencia": "14/08/2025 00:00:00",
+            "datAssinaturaContrato": "14/02/2022 00:00:00",
+            "valAditamentos": 49521315.21,
+            "codContrato": 2048,
+            "valLiquidado": 52078054.13,
+            "codOrgao": "16",
+            "valPago": 50595801.11,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 61133352.34,
+            "valTotalEmpenhado": 71125651.35,
+            "anoContrato": 2022,
+            "numOriginalContrato": "32/SME/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 9992299.01,
+            "datPublicacaoContrato": "26/02/2022 00:00:00",
+            "valPrincipal": 18646641.15,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de serviços técnicos continuados de conservação e manutenção preventiva e corretiva de primeiro escalão dos bens imóveis sob a administração da Secretaria Municipal de Educação - SME."
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202100653661",
+            "codModalidade": 7,
+            "datVigencia": "26/09/2025 00:00:00",
+            "datAssinaturaContrato": "27/09/2021 00:00:00",
+            "valAditamentos": 116038.26,
+            "codContrato": 18570,
+            "valLiquidado": 7063.05,
+            "codOrgao": "16",
+            "valPago": 7063.05,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 28974.5,
+            "valTotalEmpenhado": 124058.32,
+            "anoContrato": 2021,
+            "numOriginalContrato": "9912553080/2021",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 95083.82,
+            "datPublicacaoContrato": "28/10/2021 00:00:00",
+            "valPrincipal": 7936.14,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de Serviços Telemáticos e Carta Comercial com Aviso de Recebimento (A.R.) para atendimento das demandas da DRE Ipiranga, firmado com a Empresa Brasileira De Correios E Telégrafos"
+        }
+    ]
+}

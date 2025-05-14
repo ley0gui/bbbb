@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 713.76,
+            "codProcesso": "6016202300484332",
+            "codModalidade": 12,
+            "datVigencia": "31/05/2025 00:00:00",
+            "datAssinaturaContrato": "29/05/2023 00:00:00",
+            "valAditamentos": 22656.0,
+            "codContrato": 14252,
+            "valLiquidado": 36861.31,
+            "codOrgao": "16",
+            "valPago": 35177.91,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 42175.65,
+            "valTotalEmpenhado": 46025.76,
+            "anoContrato": 2023,
+            "numOriginalContrato": "205/SME/2023",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 3850.11,
+            "datPublicacaoContrato": "01/06/2023 00:00:00",
+            "valPrincipal": 22656.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de serviços de locação, instalação e manutenção de aparelhos purificadores de água nas Unidades Administrativas da SME"
+        }
+    ]
+}

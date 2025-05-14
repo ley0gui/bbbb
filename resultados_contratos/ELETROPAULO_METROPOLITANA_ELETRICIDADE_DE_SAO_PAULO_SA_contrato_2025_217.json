@@ -1,0 +1,61 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202500047424",
+            "codModalidade": 7,
+            "datVigencia": "31/12/2025 00:00:00",
+            "datAssinaturaContrato": "14/01/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 217,
+            "valLiquidado": 1629401.61,
+            "codOrgao": "16",
+            "valPago": 1444704.89,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 4693989.2,
+            "valTotalEmpenhado": 4711141.48,
+            "anoContrato": 2025,
+            "numOriginalContrato": "NÃO CONSTA",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 17152.28,
+            "datPublicacaoContrato": "15/01/2025 00:00:00",
+            "valPrincipal": 7764000.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "SP/SR - CONTRATAÇÃO E PAGAMENTO DE FORNECIMENTO DE ENERGIA ELÉTRICA - ENEL PARA AS UNIDADES DA DRE SÃO MATEUS"
+        },
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "04",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6210202500009160",
+            "codModalidade": 12,
+            "datVigencia": "08/03/2025 00:00:00",
+            "datAssinaturaContrato": "24/02/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 217,
+            "valLiquidado": 3957.6,
+            "codOrgao": "02",
+            "valPago": 3957.6,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 3957.6,
+            "valTotalEmpenhado": 3957.6,
+            "anoContrato": 2025,
+            "numOriginalContrato": "00",
+            "txtDescricaoOrgao": "Hospital do Servidor Público Municipal",
+            "valAnuladoEmpenho": 0.0,
+            "datPublicacaoContrato": "25/02/2025 00:00:00",
+            "valPrincipal": 3957.6,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Coffee break tipo 1"
+        }
+    ]
+}

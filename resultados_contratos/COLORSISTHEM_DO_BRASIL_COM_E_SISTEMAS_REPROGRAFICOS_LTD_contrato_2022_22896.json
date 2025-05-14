@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 3822.76,
+            "codProcesso": "6031202200021030",
+            "codModalidade": 6,
+            "datVigencia": "26/09/2025 00:00:00",
+            "datAssinaturaContrato": "12/09/2022 00:00:00",
+            "valAditamentos": 249720.0,
+            "codContrato": 22896,
+            "valLiquidado": 209925.33,
+            "codOrgao": "50",
+            "valPago": 202582.9,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 259052.03,
+            "valTotalEmpenhado": 364604.2,
+            "anoContrato": 2022,
+            "numOriginalContrato": "08/SUB-BT/SF/2022",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 105552.17,
+            "datPublicacaoContrato": "14/09/2022 00:00:00",
+            "valPrincipal": 89880.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de Outsourcing de Impressão a partir de impressoras e multifuncionais a serem contratados por lote único, incluindo instalação, suporte técnico e manutenção onsite (incluindo peças) além do fornecimento de insumos (toner, cartucho, cilindros, fusores, exceto papel) em conformidade com as especificações técnicas e quantitativos constantes do Anexo II."
+        }
+    ]
+}

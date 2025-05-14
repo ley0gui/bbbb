@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "22",
+            "valReajustes": 0.0,
+            "codProcesso": "6016201700516438",
+            "codModalidade": 8,
+            "datVigencia": "31/12/2027 00:00:00",
+            "datAssinaturaContrato": "09/01/2018 00:00:00",
+            "valAditamentos": 6518266.04,
+            "codContrato": 2974,
+            "valLiquidado": 3175270.71,
+            "codOrgao": "16",
+            "valPago": 3175270.71,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 3449578.73,
+            "valTotalEmpenhado": 4683688.0,
+            "anoContrato": 2018,
+            "numOriginalContrato": "003/EE/2018",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 1234109.27,
+            "datPublicacaoContrato": "16/03/2018 00:00:00",
+            "valPrincipal": 408854.56,
+            "txtTipoContratacao": "Termo de Colaboração - Lei Federal 13.019/2014",
+            "txtObjetoContrato": "Educação Especial. Celebração de Termo de Colaboração\npara adequação a Lei Federal 13.019/14 – ACDEM – Associação\nCasa dos Deficientes de Ermelino Matarazzo.\n6016.2017/0051643-8\nI - À vista dos elementos que instruem o presente, em especial\nas manifestações da COGED/DIPAR, COPED/DIEE, AUTORIZO,\ncom fulcro nas disposições da Lei Federal nº 13.019/14, Decreto\nnº 57.575/16 e Portaria SME nº. 5.550/11, a CELEBRAÇÃO\nde Termo de Colaboração com a Organização ACDEM – Associação\nCasa dos Deficientes de Ermelino Matarazzo – CNPJ nº\n61.058.475/0001-23, considerando a necessidade de adequar a\nparceria ao Marco Regulatório das Organizações da Sociedade\nCivil, para a continuidade do atendimento de 130 pessoas encaminhadas,\nnas modalidades de Centro de Atendimento Educacional\nEspecializado e Iniciação ao Mundo do Trabalho, pelo\nvalor mensal de R$ 49.666,56 (quarenta e nove mil, seiscentos\ne sessenta e seis reais e cinquenta e seis centavos), a partir\nde 01/01/2018. II "
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "razao_social": "SAO JOSE DOS CAMPOS CAMARA MUNICIPAL",
+    "resultado": {
+        "razao_social": "SAO JOSE DOS CAMPOS CAMARA MUNICIPAL",
+        "total_empenhado": 146513.28,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 37,
+                "codEmpenho": 255,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "17/01/2025 00:00:00",
+                "codProcesso": "6016202400091529",
+                "numCpfCnpj": "50448935000103",
+                "txtRazaoSocial": "SAO JOSE DOS CAMPOS CAMARA MUNICIPAL",
+                "numContrato": -1,
+                "anoContrato": -1,
+                "codOrgao": "16",
+                "txDescricaoOrgao": "Secretaria Municipal de Educação",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Gabinete do Secretário",
+                "codFuncao": "12",
+                "txDescricaoFuncao": "Educação",
+                "codSubFuncao": "122",
+                "txDescricaoSubFuncao": "Administração Geral",
+                "codPrograma": "3024",
+                "txDescricaoPrograma": "Suporte Administrativo",
+                "codProjetoAtividade": "2100",
+                "txDescricaoProjetoAtividade": "Administração da Unidade",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "1",
+                "txDescricaoGrupoDespesa": "Pessoal e Encargos Sociais",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "96",
+                "txDescricaoElemento": "Pessoal Requisitado de Outros Entes",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "0",
+                "txDescricaoItemDespesa": "Pessoal Requisitado de Outros Entes - Inter Estados",
+                "codSubElemento": "0",
+                "txDescricaoSubElementoDespesa": "Ressarcimento de Despesas de Pessoal Requisitado",
+                "valTotalEmpenhado": 146513.28,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 146513.28,
+                "valLiquidado": 35561.74,
+                "valPagoExercicio": 35561.74,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "UN",
+                        "descricaoAnexo": "CESSAO POR REEMBOLSO-XXXX-COGEP",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 146513.28
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

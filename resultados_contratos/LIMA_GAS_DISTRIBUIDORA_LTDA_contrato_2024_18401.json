@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202400655953",
+            "codModalidade": 6,
+            "datVigencia": "16/07/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 18401,
+            "valLiquidado": 15285.0,
+            "codOrgao": "16",
+            "valPago": 15285.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 19721.5,
+            "valTotalEmpenhado": 30217.5,
+            "anoContrato": 2024,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 10496.0,
+            "valPrincipal": 37890.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "AQUISIÇÃO DE GÁS P13 E 45 kG"
+        }
+    ]
+}

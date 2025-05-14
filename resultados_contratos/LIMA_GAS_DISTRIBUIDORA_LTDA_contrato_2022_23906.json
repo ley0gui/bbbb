@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202200885394",
+            "codModalidade": 6,
+            "datVigencia": "16/09/2025 00:00:00",
+            "valAditamentos": 24971.04,
+            "codContrato": 23906,
+            "valLiquidado": 21364.36,
+            "codOrgao": "16",
+            "valPago": 21364.36,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 22187.21,
+            "valTotalEmpenhado": 39700.75,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 17513.54,
+            "valPrincipal": 11880.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "SP/SM - AQUISIÇÃO DE 72 BOTIJÕES DE GÁS PARA A DRE SÃO MATEUS, COM ENTREGA E PAGAMENTOS CONFORME ORDENS DE FORNECIMENTO."
+        }
+    ]
+}

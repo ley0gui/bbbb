@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000350845",
+            "codModalidade": 12,
+            "datVigencia": "31/05/2025 00:00:00",
+            "valAditamentos": 510437.4,
+            "codContrato": 8555,
+            "valLiquidado": 1823101.24,
+            "codOrgao": "16",
+            "valPago": 1780564.79,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1823101.24,
+            "valTotalEmpenhado": 2021338.73,
+            "anoContrato": 2020,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 198237.49,
+            "valPrincipal": 1514955.6,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada na prestação de serviços de vigilância e segurança patrimonial desarmada."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202400198820",
+            "codModalidade": 6,
+            "datVigencia": "26/03/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 8585,
+            "valLiquidado": 12238.0,
+            "codOrgao": "16",
+            "valPago": 12238.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 12238.0,
+            "valTotalEmpenhado": 15192.0,
+            "anoContrato": 2024,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 2954.0,
+            "valPrincipal": 15192.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "fornecimento de GÁS LIQUEFEITO DE PETRÓLEO –GLP ENVASADO – 36 CILINDROS – 45 kg , para o período de 12 (doze) meses.\n"
+        }
+    ]
+}

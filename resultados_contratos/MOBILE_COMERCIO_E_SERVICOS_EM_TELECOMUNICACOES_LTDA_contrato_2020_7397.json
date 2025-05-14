@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Tomada de Preços",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000112286",
+            "codModalidade": 3,
+            "datVigencia": "16/06/2025 00:00:00",
+            "datAssinaturaContrato": "30/04/2020 00:00:00",
+            "valAditamentos": 53505.97,
+            "codContrato": 7397,
+            "valLiquidado": 61732.9,
+            "codOrgao": "16",
+            "valPago": 61732.9,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 64773.17,
+            "valTotalEmpenhado": 71149.15,
+            "anoContrato": 2020,
+            "numOriginalContrato": "04/DRE IP/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 6375.98,
+            "datPublicacaoContrato": "17/06/2020 00:00:00",
+            "valPrincipal": 11920.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de serviços de locação da Central de Comunicação de Voz Híbrida, com DDR, com serviço de instalação, com gerenciamento e manutenção - Item IV [Equipamento 3] para a DRE Ipiranga."
+        }
+    ]
+}

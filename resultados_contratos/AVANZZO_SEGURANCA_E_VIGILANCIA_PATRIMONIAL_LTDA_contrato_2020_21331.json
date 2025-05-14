@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000542973",
+            "codModalidade": 12,
+            "datVigencia": "27/10/2025 00:00:00",
+            "datAssinaturaContrato": "30/11/2020 00:00:00",
+            "valAditamentos": 2191332.36,
+            "codContrato": 21331,
+            "valLiquidado": 2227388.74,
+            "codOrgao": "16",
+            "valPago": 2186259.04,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 2518038.62,
+            "valTotalEmpenhado": 2577263.04,
+            "anoContrato": 2020,
+            "numOriginalContrato": "005/DRE-SM/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 59224.42,
+            "datPublicacaoContrato": "10/12/2020 00:00:00",
+            "valPrincipal": 381402.96,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa para prestação de serviços de segurança e vigilância para a sede da DRE-SM"
+        }
+    ]
+}

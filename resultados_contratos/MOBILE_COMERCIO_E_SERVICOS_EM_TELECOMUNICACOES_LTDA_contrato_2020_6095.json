@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000066136",
+            "codModalidade": 6,
+            "datVigencia": "29/04/2026 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 6095,
+            "valLiquidado": 46371.94,
+            "codOrgao": "16",
+            "valPago": 46371.94,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 47264.29,
+            "valTotalEmpenhado": 50242.73,
+            "anoContrato": 2020,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 2978.44,
+            "valPrincipal": 60000.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada na locação de sistema de PABX com DDR e serviço de manutenção e gerenciamento para a Diretoria Regional de Educação Butantã,"
+        }
+    ]
+}

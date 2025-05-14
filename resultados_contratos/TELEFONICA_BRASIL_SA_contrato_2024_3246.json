@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202400047058",
+            "codModalidade": 8,
+            "datVigencia": "16/01/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 3246,
+            "valLiquidado": 325624.22,
+            "codOrgao": "16",
+            "valPago": 325552.88,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 325624.22,
+            "valTotalEmpenhado": 387107.52,
+            "anoContrato": 2024,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 61483.3,
+            "valPrincipal": 513000.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Atender as despesas de telefonia com fundamento na Lei Municipal 18.063 de 28 de Dezembro de 2023 e alterações do Decreto de Execução Orçamentária nº 63.124/2024 de 10 de Janeiro de 2024"
+        }
+    ]
+}

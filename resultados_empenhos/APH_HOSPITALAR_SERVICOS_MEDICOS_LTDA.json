@@ -1,0 +1,68 @@
+{
+    "razao_social": "APH HOSPITALAR SERVICOS MEDICOS LTDA",
+    "resultado": {
+        "razao_social": "APH HOSPITALAR SERVICOS MEDICOS LTDA",
+        "total_empenhado": 641446.35,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "04",
+                "nomEmpresa": "HOSPITAL DO SERVIDOR PÚBLICO MUNICIPAL",
+                "numReserva": 23,
+                "codEmpenho": 26,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "21/01/2025 00:00:00",
+                "codProcesso": "6210202300072837",
+                "numCpfCnpj": "07711793000104",
+                "txtRazaoSocial": "APH HOSPITALAR SERVICOS MEDICOS LTDA",
+                "numContrato": 2098,
+                "anoContrato": 2023,
+                "codOrgao": "02",
+                "txDescricaoOrgao": "Hospital do Servidor Público Municipal",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Hospital do Servidor Público Municipal",
+                "codFuncao": "10",
+                "txDescricaoFuncao": "Saúde",
+                "codSubFuncao": "302",
+                "txDescricaoSubFuncao": "Assistência Hospitalar e Ambulatorial",
+                "codPrograma": "3026",
+                "txDescricaoPrograma": "Ações e Serviços da Saúde em Atenção Hospitalar e de Urgência e Emergê",
+                "codProjetoAtividade": "2507",
+                "txDescricaoProjetoAtividade": "Manutenção e Operação em Atenção Hospitalar e de Urgência e Emergência",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "39",
+                "txDescricaoElemento": "Serviço de Apoio Administrativo, Técnico e Operacional",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "9",
+                "txDescricaoItemDespesa": "Outros Serviços de Apoio Administrativo, Técnico e Operacional",
+                "codSubElemento": "7",
+                "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
+                "valTotalEmpenhado": 641446.35,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 641446.35,
+                "valLiquidado": 48478.71,
+                "valPagoExercicio": 29767.5,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "SER",
+                        "descricaoAnexo": "ITEM 01 PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE/REMOÇÃO PACIENTE ADULTOS, PEDIÁTRICOS, LACTENTE E NEONATAL EM AMBULÂNCIA TIPO D (UTI MÓVEL) COM COBERTURA 24 HORAS",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 641446.35
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

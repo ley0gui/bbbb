@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "22",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000652302",
+            "codModalidade": 8,
+            "datVigencia": "05/08/2025 00:00:00",
+            "datAssinaturaContrato": "24/08/2020 00:00:00",
+            "valAditamentos": 6059712.8,
+            "codContrato": 17028,
+            "valLiquidado": 12997538.45,
+            "codOrgao": "16",
+            "valPago": 12862205.45,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 13202406.88,
+            "valTotalEmpenhado": 15430932.33,
+            "anoContrato": 2020,
+            "numOriginalContrato": "210/DRE-G/2020-RPP",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 2228525.45,
+            "datPublicacaoContrato": "27/08/2020 00:00:00",
+            "valPrincipal": 8261001.0,
+            "txtTipoContratacao": "Termo de Colaboração - Lei Federal 13.019/2014",
+            "txtObjetoContrato": "CELEBRAÇÃO DO TERMO DE COLABORAÇÃO - CEI MUNDO NOVO"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 3731860.39,
+            "codProcesso": "6031202000035500",
+            "codModalidade": 12,
+            "datVigencia": "05/03/2026 00:00:00",
+            "datAssinaturaContrato": "17/12/2020 00:00:00",
+            "valAditamentos": 8953213.75,
+            "codContrato": 521,
+            "valLiquidado": 11301840.16,
+            "codOrgao": "50",
+            "valPago": 11301840.16,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 13082007.64,
+            "valTotalEmpenhado": 14681877.41,
+            "anoContrato": 2021,
+            "numOriginalContrato": "040/SUB-BT/SF/2020",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 1599869.77,
+            "datPublicacaoContrato": "19/12/2020 00:00:00",
+            "valPrincipal": 2764327.68,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de 02 (duas) equipes/mês, totalizando 24 (vinte e quatro) equipes/ano. Decorrente  da Ata de Registro de Preços nº 004/SMSUB/COGEL/2019, - Serviços de Manutenção e Conservação de Galerias."
+        },
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "04",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6210202100014680",
+            "codModalidade": 6,
+            "datVigencia": "08/04/2022 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 521,
+            "valLiquidado": 0.0,
+            "codOrgao": "02",
+            "valPago": 0.0,
+            "valAnulacao": 3240.0,
+            "valEmpenhadoLiquido": 0.0,
+            "valTotalEmpenhado": 3240.0,
+            "anoContrato": 2021,
+            "txtDescricaoOrgao": "Hospital do Servidor Público Municipal",
+            "valAnuladoEmpenho": 3240.0,
+            "valPrincipal": 3240.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "DISPOSITIVO PARA INFUSÃO E TRANSFUSÃO VENOSA Nº 23"
+        }
+    ]
+}

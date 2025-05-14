@@ -2,7 +2,7 @@
     "razao_social": "PHERTAS SEGURANCA EIRELI",
     "resultado": {
         "razao_social": "PHERTAS SEGURANCA EIRELI",
-        "total_empenhado": 2577090.12,
+        "total_empenhado": 1549410.32,
         "quantidade_empenhos": 2,
         "empenhos": [
             {
@@ -45,8 +45,8 @@
                 "codSubElemento": "7",
                 "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
                 "valTotalEmpenhado": 2223930.06,
-                "valAnuladoEmpenho": 0.0,
-                "valEmpenhadoLiquido": 2223930.06,
+                "valAnuladoEmpenho": 886848.32,
+                "valEmpenhadoLiquido": 1337081.74,
                 "valLiquidado": 606526.38,
                 "valPagoExercicio": 404350.92,
                 "valPagoRestos": 0.0,
@@ -103,8 +103,8 @@
                 "codSubElemento": "7",
                 "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
                 "valTotalEmpenhado": 353160.06,
-                "valAnuladoEmpenho": 0.0,
-                "valEmpenhadoLiquido": 353160.06,
+                "valAnuladoEmpenho": 140831.48,
+                "valEmpenhadoLiquido": 212328.58,
                 "valLiquidado": 96316.38,
                 "valPagoExercicio": 64210.92,
                 "valPagoRestos": 0.0,

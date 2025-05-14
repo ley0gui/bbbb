@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Concurso",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 29525.69,
+            "codProcesso": "6016202000215166",
+            "codModalidade": 1,
+            "datVigencia": "05/06/2025 00:00:00",
+            "datAssinaturaContrato": "26/05/2020 00:00:00",
+            "valAditamentos": 155084.04,
+            "codContrato": 8613,
+            "valLiquidado": 170787.76,
+            "codOrgao": "16",
+            "valPago": 170787.76,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 178014.1,
+            "valTotalEmpenhado": 225344.68,
+            "anoContrato": 2020,
+            "numOriginalContrato": "001/DRE-CS/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 47330.58,
+            "datPublicacaoContrato": "27/05/2020 00:00:00",
+            "valPrincipal": 32796.24,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação da empresa Empresa R&A Comércio e Equipamentos Telefônicos Ltda, CNPJ nº 54.561.071/0001-92, objetivando a Prestação de serviços de locação da Central de Comunicação de Voz Híbrida, com DDR, com serviço de instalação, com gerenciamento e manutenção (Item II [Equipamento 1]) "
+        }
+    ]
+}

@@ -3,9 +3,23 @@ import requests
 import os
 import json
 import re
+import pandas as pd
+from sqlalchemy import create_engine, text
 
 app = Flask(__name__)
 
+usuario = 'postgres'
+senha = '7Cjo7Eh5017a'
+host = 'db-sof-api.cvuu6gwgo0qu.sa-east-1.rds.amazonaws.com'         # ou IP do servidor
+porta = '5432'             # porta padrão do PostgreSQL
+banco = 'siurb-sof'
+
+engine = create_engine(f'postgresql+psycopg2://{usuario}:{senha}@{host}:{porta}/{banco}')
+
+# Testar conexão
+with engine.connect() as conn:
+    result = conn.execute(text("SELECT version()"))
+    print(result.fetchone())
 
 headers = {
     "accept": "application/json",
@@ -15,9 +29,44 @@ headers = {
 empenho_url = "https://gateway.apilib.prefeitura.sp.gov.br/sf/sof/v4/empenhos"
 contrato_url = "https://gateway.apilib.prefeitura.sp.gov.br/sf/sof/v4/contratos"
 
+
 @app.route("/")
 def index():
     return render_template("index.html")
+
+def obter_razoes_sociais(anoEmpenho, mesEmpenho, codorgao):
+    """
+    Função para obter a lista de razões sociais disponíveis
+    """
+    
+    params = {
+        "anoEmpenho": anoEmpenho,
+        "mesEmpenho": mesEmpenho,
+        "codorgao": codorgao
+    }
+    
+    try:
+        response = requests.get(empenho_url, headers=headers, params=params, timeout=30)
+        response.raise_for_status()
+        data = response.json()
+        empenhos = data.get("lstEmpenhos", [])
+        
+        # Extrair razões sociais únicas dos empenhos
+        razoes_sociais_unicas = set()
+        for emp in empenhos:
+            razao_social = emp.get("txtRazaoSocial", "").strip()
+            if razao_social:  # Ignorar razões sociais vazias
+                razoes_sociais_unicas.add(razao_social)
+
+        # Converter o conjunto para uma lista
+        lista_razoes_sociais = list(razoes_sociais_unicas)
+        print(f"Encontradas {len(lista_razoes_sociais)} razões sociais únicas")
+        
+        return lista_razoes_sociais
+        
+    except Exception as e:
+        print(f"Erro ao obter razões sociais: {str(e)}")
+        return []
 
 def buscar_empenhos_por_razao_social(anoEmpenho, mesEmpenho, razao_social, codorgao):
     """
@@ -55,40 +104,6 @@ def buscar_empenhos_por_razao_social(anoEmpenho, mesEmpenho, razao_social, codor
             "quantidade_empenhos": 0,
             "empenhos": []
         }
-
-def obter_razoes_sociais(anoEmpenho, mesEmpenho, codorgao):
-    """
-    Função para obter a lista de razões sociais disponíveis
-    """
-    
-    params = {
-        "anoEmpenho": anoEmpenho,
-        "mesEmpenho": mesEmpenho,
-        "codorgao": codorgao
-    }
-    
-    try:
-        response = requests.get(empenho_url, headers=headers, params=params, timeout=30)
-        response.raise_for_status()
-        data = response.json()
-        empenhos = data.get("lstEmpenhos", [])
-        
-        # Extrair razões sociais únicas dos empenhos
-        razoes_sociais_unicas = set()
-        for emp in empenhos:
-            razao_social = emp.get("txtRazaoSocial", "").strip()
-            if razao_social:  # Ignorar razões sociais vazias
-                razoes_sociais_unicas.add(razao_social)
-
-        # Converter o conjunto para uma lista
-        lista_razoes_sociais = list(razoes_sociais_unicas)
-        print(f"Encontradas {len(lista_razoes_sociais)} razões sociais únicas")
-        
-        return lista_razoes_sociais
-        
-    except Exception as e:
-        print(f"Erro ao obter razões sociais: {str(e)}")
-        return []
 
 def buscar_empenhos_todas_razoes_sociais(anoEmpenho, mesEmpenho, razao_social, codorgao):
     """
@@ -137,27 +152,6 @@ def calcular_valor_contrato(contrato):
         val_contrato = contrato.get("valPrincipal", 0)
     return val_contrato
 
-def salvar_contrato_json(razao_social, anoContrato, numContrato, contrato_data):
-    """
-    Função para salvar os dados do contrato em um arquivo JSON
-    dentro da pasta 'resultados_contratos'.
-    """
-    # Criar pasta para os resultados dos contratos se não existir
-    pasta_resultados = "resultados_contratos"
-    os.makedirs(pasta_resultados, exist_ok=True)
-    
-    # Limpar o nome do arquivo para evitar caracteres proibidos
-    nome_base = re.sub(r'[^a-zA-Z0-9_-]', '_', razao_social)
-    # Incluir ano e número do contrato no nome do arquivo para diferenciar múltiplos contratos
-    nome_arquivo = f"{nome_base}_contrato_{anoContrato}_{numContrato}.json"
-    caminho_arquivo = os.path.join(pasta_resultados, nome_arquivo)
-    
-    # Salvar os dados do contrato em um arquivo JSON
-    with open(caminho_arquivo, "w", encoding="utf-8") as f:
-        json.dump(contrato_data, f, ensure_ascii=False, indent=4)
-    
-    return caminho_arquivo
-        
 def buscar_todos_contratos_por_razao_social(razao_social, empenhos):
     """
     Função para buscar todos os contratos únicos relacionados a uma razão social.
@@ -218,6 +212,27 @@ def buscar_todos_contratos_por_razao_social(razao_social, empenhos):
     
     return dados_contratos
 
+def salvar_contrato_json(razao_social, anoContrato, numContrato, contrato_data):
+    """
+    Função para salvar os dados do contrato em um arquivo JSON
+    dentro da pasta 'resultados_contratos'.
+    """
+    # Criar pasta para os resultados dos contratos se não existir
+    pasta_resultados = "resultados_contratos"
+    os.makedirs(pasta_resultados, exist_ok=True)
+    
+    # Limpar o nome do arquivo para evitar caracteres proibidos
+    nome_base = re.sub(r'[^a-zA-Z0-9_-]', '_', razao_social)
+    # Incluir ano e número do contrato no nome do arquivo para diferenciar múltiplos contratos
+    nome_arquivo = f"{nome_base}_contrato_{anoContrato}_{numContrato}.json"
+    caminho_arquivo = os.path.join(pasta_resultados, nome_arquivo)
+    
+    # Salvar os dados do contrato em um arquivo JSON
+    with open(caminho_arquivo, "w", encoding="utf-8") as f:
+        json.dump(contrato_data, f, ensure_ascii=False, indent=4)
+    
+    return caminho_arquivo
+        
 @app.route("/buscar_dados", methods=["POST"])
 def buscar_dados_razao_social():
     try:

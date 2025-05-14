@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "29",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202400192830",
+            "codModalidade": 6,
+            "datVigencia": "18/07/2025 00:00:00",
+            "datAssinaturaContrato": "18/07/2024 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 21305,
+            "valLiquidado": 8289.6,
+            "codOrgao": "16",
+            "valPago": 8289.6,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 18086.4,
+            "valTotalEmpenhado": 18086.4,
+            "anoContrato": 2024,
+            "numOriginalContrato": "253/SME/2024",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "datPublicacaoContrato": "22/07/2024 00:00:00",
+            "valPrincipal": 18086.4,
+            "txtTipoContratacao": "Termo de Contrato para Aquisição de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Aquisição de Gás Liquefeito de Petróleo (GLP), envasado em cilindro de 45kg (P45), mediante troca do recipiente vazio por outro cheio, para suprir os Setores da SME (Borges e Diogo) e SME/COGEP - COSERV"
+        }
+    ]
+}

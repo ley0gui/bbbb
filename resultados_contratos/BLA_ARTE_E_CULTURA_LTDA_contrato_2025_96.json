@@ -1,0 +1,58 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202401578413",
+            "codModalidade": 7,
+            "datVigencia": "07/02/2025 00:00:00",
+            "datAssinaturaContrato": "03/01/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 96,
+            "valLiquidado": 8000.0,
+            "codOrgao": "16",
+            "valPago": 8000.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 8000.0,
+            "valTotalEmpenhado": 8000.0,
+            "anoContrato": 2025,
+            "numOriginalContrato": "01/SME/2025",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "datPublicacaoContrato": "15/01/2025 00:00:00",
+            "valPrincipal": 8000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação por inexigibilidade de licitação, com fundamento no artigo 74, inciso II, da Lei n.º 14.133/21, do Evento \"Circo de Variedades\", para a Programação Artística e Cultural do Programa Recreio nas Férias - Edição Janeiro/2025."
+        },
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "04",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6210202500010924",
+            "codModalidade": 6,
+            "datVigencia": "07/02/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 96,
+            "valLiquidado": 1500.0,
+            "codOrgao": "02",
+            "valPago": 1500.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 12900.0,
+            "valTotalEmpenhado": 12900.0,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Hospital do Servidor Público Municipal",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 12900.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Fio guia hidrofílico para cruzamento de lesões estenosadas com núcleo em aço inoxidável, 0.018’’ 300cm ponta tipo moldável - V18, Fio guia hidrofílico para cruzamento de lesões estenosadas com núcleo em aço inoxidável ponta tipo moldável V14 - 0.014’’ 300cm, Cateter suporte de recanalização compatível com guia 0.014-0,018- 0.035 comprimento funcional de 65 a 150 cm, marcadores radiopacos de 1 cm distando 1cm . marcadores duplos e/ou triplos de 10cm e 20 cm e banda marcadora distal"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 1619216.6,
+            "codProcesso": "6031201900009868",
+            "codModalidade": 12,
+            "datVigencia": "22/07/2025 00:00:00",
+            "datAssinaturaContrato": "24/04/2019 00:00:00",
+            "valAditamentos": 6960764.14,
+            "codContrato": 10910,
+            "valLiquidado": 9044479.27,
+            "codOrgao": "50",
+            "valPago": 8906164.31,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 9560855.12,
+            "valTotalEmpenhado": 9620847.72,
+            "anoContrato": 2019,
+            "numOriginalContrato": "09/SUB-BT/SF/2019",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 59992.6,
+            "datPublicacaoContrato": "07/11/2019 00:00:00",
+            "valPrincipal": 1198800.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de serviços de manutenção de vias, logradouros, áreas públicas e desfazimento, com a compoisção de 12 (doze) equipes, pelo período de 12 (doze) meses a partir de 24/04/2019."
+        }
+    ]
+}

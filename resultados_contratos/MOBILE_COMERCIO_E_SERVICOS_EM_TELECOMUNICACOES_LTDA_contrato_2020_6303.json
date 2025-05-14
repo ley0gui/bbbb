@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Tomada de Preços",
+            "codEmpresa": "01",
+            "codTipoContratacao": "41",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000154825",
+            "codModalidade": 3,
+            "datVigencia": "11/10/2025 00:00:00",
+            "valAditamentos": 39284.35,
+            "codContrato": 6303,
+            "valLiquidado": 41450.26,
+            "codOrgao": "16",
+            "valPago": 41450.26,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 45862.53,
+            "valTotalEmpenhado": 47717.24,
+            "anoContrato": 2020,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 1854.71,
+            "valPrincipal": 7756.0,
+            "txtTipoContratacao": "Nota de Empenho de Serviços com fornecimento de materiais / peças",
+            "txtObjetoContrato": "Contratação da  MÉTODO MOBILE COMÉRCIO E SERVIÇOS EM TELECOMUNICAÇÕES LTDA, inscrita no CNPJ sob o nº 07.343.712/0001-52, no valor de R$ 7.756,00 (sete mil setecentos e cinquenta e seis reais)  , objetivando a contratação do serviço de locação e manutenção de PABX, através da Ata de RP nº 10/SG-COBES/2019 para a DRE PJ"
+        }
+    ]
+}

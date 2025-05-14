@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6031202300019984",
+            "codModalidade": 12,
+            "datVigencia": "02/08/2025 00:00:00",
+            "datAssinaturaContrato": "03/07/2023 00:00:00",
+            "valAditamentos": 57978.21,
+            "codContrato": 18291,
+            "valLiquidado": 46287.23,
+            "codOrgao": "50",
+            "valPago": 46287.23,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 56421.95,
+            "valTotalEmpenhado": 60750.45,
+            "anoContrato": 2023,
+            "numOriginalContrato": "06/SUB-BT/SF/2023",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 4328.5,
+            "datPublicacaoContrato": "06/07/2023 00:00:00",
+            "valPrincipal": 28409.4,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Utilização do sistema de telefonia móvel, com disponibilização de aparelhos celulares"
+        }
+    ]
+}

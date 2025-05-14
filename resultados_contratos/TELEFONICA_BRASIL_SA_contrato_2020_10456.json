@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 1658.72,
+            "codProcesso": "6016202000412204",
+            "codModalidade": 12,
+            "datVigencia": "30/06/2023 00:00:00",
+            "datAssinaturaContrato": "25/06/2022 00:00:00",
+            "valAditamentos": 62343.2,
+            "codContrato": 10456,
+            "valLiquidado": 38887.18,
+            "codOrgao": "16",
+            "valPago": 37989.83,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 59262.41,
+            "valTotalEmpenhado": 119234.26,
+            "anoContrato": 2020,
+            "numOriginalContrato": "004/DRE-PE/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 59971.85,
+            "datPublicacaoContrato": "22/07/2022 00:00:00",
+            "valPrincipal": 12343.2,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "PREST. SERVIÇO TELEFONICO FIXO COMUTADO (STFC) POR MEIO DE ENTRONCAMENTOS DIGITAIS E SERVIÇOS DE DISCAGEM DIRETA A RAMAL (DDR) -ARP 008/SG-COBES/2019."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000391673",
+            "codModalidade": 7,
+            "datVigencia": "12/05/2025 00:00:00",
+            "valAditamentos": 28402.92,
+            "codContrato": 12263,
+            "valLiquidado": 38902.72,
+            "codOrgao": "16",
+            "valPago": 38902.72,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 40586.55,
+            "valTotalEmpenhado": 47325.85,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 6739.3,
+            "valPrincipal": 12919.88,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Serviços de locação de central de comunicação de voz hibrida com DDR"
+        }
+    ]
+}

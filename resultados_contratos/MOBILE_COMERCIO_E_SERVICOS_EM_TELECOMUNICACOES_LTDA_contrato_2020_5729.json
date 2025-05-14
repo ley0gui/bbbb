@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 13985.78,
+            "codProcesso": "6016202000165380",
+            "codModalidade": 12,
+            "datVigencia": "15/06/2025 00:00:00",
+            "datAssinaturaContrato": "17/04/2020 00:00:00",
+            "valAditamentos": 104830.0,
+            "codContrato": 5729,
+            "valLiquidado": 127991.62,
+            "codOrgao": "16",
+            "valPago": 127991.62,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 134268.19,
+            "valTotalEmpenhado": 161943.43,
+            "anoContrato": 2020,
+            "numOriginalContrato": "03/DRE-MP/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 27675.24,
+            "datPublicacaoContrato": "11/07/2020 00:00:00",
+            "valPrincipal": 25376.4,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "SP/SR LOCAÇÃO DE PABXs COM DESINSTALAÇÃO/INTALAÇÃO PARA A UNIDADE ADM DRE/MP, CEU PQ SÃO CARLOS E CEU PQ VEREDAS"
+        }
+    ]
+}

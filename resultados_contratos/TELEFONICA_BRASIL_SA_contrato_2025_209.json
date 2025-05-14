@@ -1,0 +1,58 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202500047467",
+            "codModalidade": 7,
+            "datVigencia": "31/12/2025 00:00:00",
+            "datAssinaturaContrato": "14/01/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 209,
+            "valLiquidado": 85911.82,
+            "codOrgao": "16",
+            "valPago": 85911.82,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 379800.0,
+            "valTotalEmpenhado": 379800.0,
+            "anoContrato": 2025,
+            "numOriginalContrato": "NÃO CONSTA",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "datPublicacaoContrato": "15/01/2025 00:00:00",
+            "valPrincipal": 384360.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "SP/SR - CONTRATAÇÃO E PAGAMENTO DE FORNECIMENTO DE TELEFONIA - TELEFÔNICA PARA AS UNIDADES DA DRE SÃO MATEUS\n"
+        },
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "04",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6210202400122690",
+            "codModalidade": 12,
+            "datVigencia": "17/03/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 209,
+            "valLiquidado": 320.0,
+            "codOrgao": "02",
+            "valPago": 320.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 320.0,
+            "valTotalEmpenhado": 320.0,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Hospital do Servidor Público Municipal",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 320.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Capa protetora para corpo estranho"
+        }
+    ]
+}

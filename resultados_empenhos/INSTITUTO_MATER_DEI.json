@@ -1,0 +1,68 @@
+{
+    "razao_social": "INSTITUTO MATER DEI",
+    "resultado": {
+        "razao_social": "INSTITUTO MATER DEI",
+        "total_empenhado": 265028.4,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 247,
+                "codEmpenho": 36,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "17/01/2025 00:00:00",
+                "codProcesso": "6016201700515369",
+                "numCpfCnpj": "62527551000165",
+                "txtRazaoSocial": "INSTITUTO MATER DEI",
+                "numContrato": 22454,
+                "anoContrato": 2018,
+                "codOrgao": "16",
+                "txDescricaoOrgao": "Secretaria Municipal de Educação",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Gabinete do Secretário",
+                "codFuncao": "12",
+                "txDescricaoFuncao": "Educação",
+                "codSubFuncao": "367",
+                "txDescricaoSubFuncao": "Educação Especial",
+                "codPrograma": "3010",
+                "txDescricaoPrograma": "Manutenção, Desenvolvimento e Promoção da Qualidade da Educação",
+                "codProjetoAtividade": "2821",
+                "txDescricaoProjetoAtividade": "Manutenção e Operação da Rede Parceira - Educação Especial",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "50",
+                "txDescricaoModalidade": "Transferências a Instituições Privadas sem Fins Lucrativos",
+                "codElemento": "39",
+                "txDescricaoElemento": "Serviços de Apoio ao Ensino",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "0",
+                "txDescricaoItemDespesa": "Outras Despesas",
+                "codSubElemento": "6",
+                "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
+                "valTotalEmpenhado": 265028.4,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 265028.4,
+                "valLiquidado": 176119.3,
+                "valPagoExercicio": 176119.3,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "UN",
+                        "descricaoAnexo": "EMPENHO PARCERIA EDUCAÇÃO ESPECIAL - MATER DEI - JAN A JUN/2025",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 265028.4
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

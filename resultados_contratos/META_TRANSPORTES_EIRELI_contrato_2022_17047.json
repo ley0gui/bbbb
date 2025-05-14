@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202200729465",
+            "codModalidade": 12,
+            "datVigencia": "10/07/2025 00:00:00",
+            "datAssinaturaContrato": "11/07/2022 00:00:00",
+            "valAditamentos": 327336.48,
+            "codContrato": 17047,
+            "valLiquidado": 427095.97,
+            "codOrgao": "16",
+            "valPago": 427095.97,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 474124.79,
+            "valTotalEmpenhado": 484558.86,
+            "anoContrato": 2022,
+            "numOriginalContrato": "003/DRE-SM/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 10434.07,
+            "datPublicacaoContrato": "23/09/2022 00:00:00",
+            "valPrincipal": 154884.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "SP/SM - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE MEDIANTE LOCAÇÃO DE 02 (DOIS) VEÍCULOS SEMINOVOS (ATÉ 3 ANOS DE USO), COM CONDUTOR E COMBUSTÍVEL EM CARÁTER NÃO EVENTUAL, DESTINADOS AO TRANSPORTE DE PESSOAS, PARA APOIO ÀS SUAS ATIVIDADES TÉCNICO- ADMINISTRATIVAS, CONFORME PARÂMETROS ESTABELECIDOS NO CADTERC – DRE SÃO MATEUS"
+        }
+    ]
+}

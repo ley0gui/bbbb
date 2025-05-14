@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 1472584.32,
+            "codProcesso": "6016202000572759",
+            "codModalidade": 12,
+            "datVigencia": "03/08/2025 00:00:00",
+            "datAssinaturaContrato": "03/08/2020 00:00:00",
+            "valAditamentos": 18978022.04,
+            "codContrato": 11569,
+            "valLiquidado": 26070473.73,
+            "codOrgao": "16",
+            "valPago": 26070473.73,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 29674652.5,
+            "valTotalEmpenhado": 34786078.53,
+            "anoContrato": 2020,
+            "numOriginalContrato": "240/SME/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 5111426.03,
+            "datPublicacaoContrato": "29/08/2020 00:00:00",
+            "valPrincipal": 13715867.84,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de serviço de acesso à Internet banda larga dedicada, abrangendo toda a rede de unidades educacionais administradas pela Secretaria Municipal de Educação de São Paulo (SME/SP)."
+        }
+    ]
+}

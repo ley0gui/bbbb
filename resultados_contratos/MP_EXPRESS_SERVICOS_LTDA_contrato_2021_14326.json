@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202100667395",
+            "codModalidade": 12,
+            "datVigencia": "01/08/2025 00:00:00",
+            "valAditamentos": 123286.9,
+            "codContrato": 14326,
+            "valLiquidado": 140558.32,
+            "codOrgao": "16",
+            "valPago": 140558.32,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 144503.33,
+            "valTotalEmpenhado": 144503.33,
+            "anoContrato": 2021,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 35760.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Contratação de empresa para prestação de serviço mensal de motofrete com entrega de coleta de pequenas cargas, por meio de motocicletas para a Diretoria Regional de Educação Jaçanã/Tremembé. Ata de RP nº 002/SG-COBES/2019"
+        }
+    ]
+}

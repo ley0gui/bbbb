@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 76828.56,
+            "codProcesso": "6031202200005299",
+            "codModalidade": 6,
+            "datVigencia": "31/05/2025 00:00:00",
+            "datAssinaturaContrato": "31/05/2022 00:00:00",
+            "valAditamentos": 915360.0,
+            "codContrato": 12022,
+            "valLiquidado": 1287909.67,
+            "codOrgao": "50",
+            "valPago": 1287909.67,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1412886.55,
+            "valTotalEmpenhado": 1448493.2,
+            "anoContrato": 2022,
+            "numOriginalContrato": "05/SUB-BT/SF/2022",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 35606.65,
+            "datPublicacaoContrato": "01/06/2022 00:00:00",
+            "valPrincipal": 465600.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de Serviços de Transporte de passageiros, mediante locação de veículos dos tipos B e C, incluindo motoristas, combustível, manutenção preventiva e corretiva, quilometragem livre, à Subprefeitura do Butantã, pelo prazo de 12 (doze) meses, podendo ser prorrogado por igual ou inferior período, conforme especificações constantes do Anexo I do Edital."
+        }
+    ]
+}

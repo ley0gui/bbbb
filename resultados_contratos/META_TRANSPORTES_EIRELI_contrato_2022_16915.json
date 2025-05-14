@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202200726059",
+            "codModalidade": 12,
+            "datVigencia": "08/07/2025 00:00:00",
+            "datAssinaturaContrato": "11/07/2022 00:00:00",
+            "valAditamentos": 163827.84,
+            "codContrato": 16915,
+            "valLiquidado": 213119.35,
+            "codOrgao": "16",
+            "valPago": 213119.35,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 236833.8,
+            "valTotalEmpenhado": 242110.54,
+            "anoContrato": 2022,
+            "numOriginalContrato": "05/DRE-FB/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 5276.74,
+            "datPublicacaoContrato": "02/08/2022 00:00:00",
+            "valPrincipal": 77442.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de serviços de transporte mediante locação de 01 (um) veículo seminovo (até 3 anos de uso), nos termos do processo SEI nº 6016.2022/0072605-9 pelo valor mensal de R$ 6.453,50 (seis mil e quatrocentos e cinquenta e três reais e cinquenta centavos) e no valor anual de R$77.442,00 (setenta e sete mil e quatrocentos e quarenta e dois reais)."
+        }
+    ]
+}

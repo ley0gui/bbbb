@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202100799186",
+            "codModalidade": 7,
+            "datVigencia": "30/12/2025 00:00:00",
+            "valAditamentos": 62000.0,
+            "codContrato": 15130,
+            "valLiquidado": 100204.95,
+            "codOrgao": "16",
+            "valPago": 100204.95,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 125229.51,
+            "valTotalEmpenhado": 231888.07,
+            "anoContrato": 2021,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 106658.56,
+            "valPrincipal": 200000.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "CONTRATAÇÃO DA EMPRESA BRASILEIRA DE CORREIOS E TELEGRÁFOS, PARA O SERVIÇO DE POSTAGEM EM ATENDIMENTO AS UNIDADES ESCOLARES E A DRE-BT."
+        }
+    ]
+}

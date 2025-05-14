@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 229183.2,
+            "codProcesso": "6016202101099480",
+            "codModalidade": 12,
+            "datVigencia": "12/05/2026 00:00:00",
+            "valAditamentos": 1513440.0,
+            "codContrato": 11128,
+            "valLiquidado": 1341193.03,
+            "codOrgao": "16",
+            "valPago": 1305733.03,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1587561.76,
+            "valTotalEmpenhado": 2133066.81,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 545505.05,
+            "valPrincipal": 504480.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "SP/MP -Contratação de empresa especializada na prestação de serviço de transporte de cargas, com fornecimento de 01 (um) veículo urbano de carga com plataforma (caminhão VUC 3/4), com baú, com capacidade de até 03 toneladas, e 01 (um) veículo urbano de carga com plataforma (caminhão VUC), com baú, com capacidade mínima de 04 toneladas e máxima de 06 toneladas, ambos incluindo 01 (um) motorista e 01 (um) ajudante por veículo, com fornecimento de combustível, quilometragem livre, mapa de localização/rastreamento (GPS) e seguro total para o Almoxarifado da Diretoria Regional de Educação – São Miguel (DRE-MP).PERIODO 10/05/2022 A 09/05/2023"
+        }
+    ]
+}

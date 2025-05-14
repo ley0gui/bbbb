@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202500074510",
+            "codModalidade": 7,
+            "datVigencia": "27/01/2026 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 1807,
+            "valLiquidado": 67829.1,
+            "codOrgao": "16",
+            "valPago": 58186.73,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 286847.58,
+            "valTotalEmpenhado": 289000.0,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 2152.42,
+            "valPrincipal": 289000.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Aquisição de Prestação de Serviços Especializados - Telefônica: Despesas com fornecimento de telefonia"
+        }
+    ]
+}

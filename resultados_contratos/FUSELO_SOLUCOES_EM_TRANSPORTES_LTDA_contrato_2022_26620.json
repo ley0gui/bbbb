@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 37928.1,
+            "codProcesso": "6031202100045566",
+            "codModalidade": 12,
+            "datVigencia": "08/11/2025 00:00:00",
+            "datAssinaturaContrato": "21/09/2022 00:00:00",
+            "valAditamentos": 672103.6,
+            "codContrato": 26620,
+            "valLiquidado": 798176.17,
+            "codOrgao": "50",
+            "valPago": 798176.17,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1045180.24,
+            "valTotalEmpenhado": 1078455.17,
+            "anoContrato": 2022,
+            "numOriginalContrato": "13/SUB-BT/SF/2022",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 33274.93,
+            "datPublicacaoContrato": "08/11/2022 00:00:00",
+            "valPrincipal": 335808.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Locação de caminhão basculante trucado, incluindo motorista e combustível"
+        }
+    ]
+}

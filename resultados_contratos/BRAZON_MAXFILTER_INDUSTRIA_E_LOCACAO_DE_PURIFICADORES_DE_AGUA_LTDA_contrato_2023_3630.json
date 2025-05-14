@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Tomada de Preços",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 72.22,
+            "codProcesso": "6016202300080550",
+            "codModalidade": 3,
+            "datVigencia": "28/02/2026 00:00:00",
+            "datAssinaturaContrato": "27/02/2023 00:00:00",
+            "valAditamentos": 3972.82,
+            "codContrato": 3630,
+            "valLiquidado": 4077.27,
+            "codOrgao": "16",
+            "valPago": 4077.27,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 5562.72,
+            "valTotalEmpenhado": 5562.72,
+            "anoContrato": 2023,
+            "numOriginalContrato": "04/DRE IP/2023",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "datPublicacaoContrato": "01/03/2023 00:00:00",
+            "valPrincipal": 1920.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de serviços de locação, instalação e manutenção de aparelhos purificadores de água."
+        }
+    ]
+}

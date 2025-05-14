@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202301306730",
+            "codModalidade": 12,
+            "datVigencia": "01/02/2026 00:00:00",
+            "datAssinaturaContrato": "01/02/2024 00:00:00",
+            "valAditamentos": 717034.92,
+            "codContrato": 2379,
+            "valLiquidado": 742124.51,
+            "codOrgao": "16",
+            "valPago": 742124.51,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1339653.61,
+            "valTotalEmpenhado": 1339653.61,
+            "anoContrato": 2024,
+            "numOriginalContrato": "001/DRE-SM/2024",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "datPublicacaoContrato": "14/02/2024 00:00:00",
+            "valPrincipal": 682371.6,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "SP/SM - CONTRATAÇÃO VIA PREGÃO ELETRÔNICO DE EMPRESA ESPECIALIZADA EM LIMPEZA PREDIAL E COPEIRAGEM PARA A SEDE DA DRE SÃO MATEUS"
+        }
+    ]
+}

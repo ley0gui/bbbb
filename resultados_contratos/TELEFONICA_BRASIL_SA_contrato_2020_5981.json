@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000064982",
+            "codModalidade": 6,
+            "datVigencia": "13/04/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 5981,
+            "valLiquidado": 83586.58,
+            "codOrgao": "16",
+            "valPago": 83586.58,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 96805.3,
+            "valTotalEmpenhado": 155561.16,
+            "anoContrato": 2020,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 58755.86,
+            "valPrincipal": 121380.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Contratação por Adesão de Ata de Registro de Preços nº 008/ SG-COBES/2019, para atendimento das necessidades DRE-BT, CEU BUTANTÃ e CEU UIRAPURU."
+        }
+    ]
+}

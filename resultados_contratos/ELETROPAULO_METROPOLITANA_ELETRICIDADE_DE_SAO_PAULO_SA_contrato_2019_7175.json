@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016201800802033",
+            "codModalidade": 6,
+            "datVigencia": "27/02/2026 00:00:00",
+            "valAditamentos": 24617603.49,
+            "codContrato": 7175,
+            "valLiquidado": 24690140.27,
+            "codOrgao": "16",
+            "valPago": 23924923.73,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 28220373.53,
+            "valTotalEmpenhado": 33263091.2,
+            "anoContrato": 2019,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 5042717.67,
+            "valPrincipal": 4393200.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Serviços de fornecimento de energia elétrica. ENEL - Esta contratação substitui a contratação nº 892, devido a erro em campo não passível de alteração no SOF."
+        }
+    ]
+}

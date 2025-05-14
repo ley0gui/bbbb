@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Tomada de Preços",
+            "codEmpresa": "01",
+            "codTipoContratacao": "41",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000160450",
+            "codModalidade": 3,
+            "datVigencia": "11/10/2025 00:00:00",
+            "valAditamentos": 187841.78,
+            "codContrato": 6206,
+            "valLiquidado": 195050.99,
+            "codOrgao": "16",
+            "valPago": 195050.99,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 216565.93,
+            "valTotalEmpenhado": 231403.05,
+            "anoContrato": 2020,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 14837.12,
+            "valPrincipal": 36306.84,
+            "txtTipoContratacao": "Nota de Empenho de Serviços com fornecimento de materiais / peças",
+            "txtObjetoContrato": "Contratação direta da R&A Comércio e Equipamentos Telefônicos Ltda, inscrita no CNPJ sob nº 54.561.071/0001-92, no valor de R$ 36.306,84 (trinta e seis mil trezentos e seis reais e oitenta e quatro centavos), objetivando a prestação de serviço de locação e manutenção preventiva e corretiva de central de PABX para o Centro de Formação – DIPED e para os 05 (cinco) CEU’S pertencentes à Diretoria Regional de Educação Pirituba/Jaraguá, conforme doc. SEI! 026372670, através da ATA DE RP nº 09/SG-COBES/2019"
+        }
+    ]
+}

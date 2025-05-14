@@ -1,0 +1,68 @@
+{
+    "razao_social": "COLORSISTHEM DO BRASIL COM E SISTEMAS REPROGRAFICOS LTD",
+    "resultado": {
+        "razao_social": "COLORSISTHEM DO BRASIL COM E SISTEMAS REPROGRAFICOS LTD",
+        "total_empenhado": 70708.1,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 1252,
+                "codEmpenho": 607,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "20/01/2025 00:00:00",
+                "codProcesso": "6031202200021030",
+                "numCpfCnpj": "68282995000164",
+                "txtRazaoSocial": "COLORSISTHEM DO BRASIL COM E SISTEMAS REPROGRAFICOS LTD",
+                "numContrato": 22896,
+                "anoContrato": 2022,
+                "codOrgao": "50",
+                "txDescricaoOrgao": "Subprefeitura Butantã",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Administração da Subprefeitura",
+                "codFuncao": "04",
+                "txDescricaoFuncao": "Administração",
+                "codSubFuncao": "126",
+                "txDescricaoSubFuncao": "Tecnologia da Informação",
+                "codPrograma": "3011",
+                "txDescricaoPrograma": "Modernização Tecnológica, Desburocratização e Inovação do Serviço Públ",
+                "codProjetoAtividade": "2818",
+                "txDescricaoProjetoAtividade": "Aquisição de Materiais, Equipamentos e Serviços de Informação e Comuni",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "40",
+                "txDescricaoElemento": "Locação de Equipamentos de TIC - Impressoras",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "0",
+                "txDescricaoItemDespesa": "Locação de Equipamentos - Impressoras",
+                "codSubElemento": "0",
+                "txDescricaoSubElementoDespesa": "Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica",
+                "valTotalEmpenhado": 70708.1,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 70708.1,
+                "valLiquidado": 21581.4,
+                "valPagoExercicio": 14238.97,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "UN",
+                        "descricaoAnexo": "Contrato 08/SUB-BT/2022 - locação de impressoras",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 70708.1
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

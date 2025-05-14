@@ -1,0 +1,58 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202401549502",
+            "codModalidade": 7,
+            "datVigencia": "23/02/2025 00:00:00",
+            "datAssinaturaContrato": "06/01/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 133,
+            "valLiquidado": 32000.0,
+            "codOrgao": "16",
+            "valPago": 32000.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 32000.0,
+            "valTotalEmpenhado": 32000.0,
+            "anoContrato": 2025,
+            "numOriginalContrato": "35/SME/2025",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "datPublicacaoContrato": "17/01/2025 00:00:00",
+            "valPrincipal": 32000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação por inexigibilidade de licitação, com fundamento no artigo 74, inciso II, da Lei n.º 14.133/21, do Evento \"Sarau do Capão\", para a Programação Artística e Cultural do Programa Recreio nas Férias - Edição Janeiro/2025."
+        },
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "04",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6210202400108248",
+            "codModalidade": 12,
+            "datVigencia": "03/03/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 133,
+            "valLiquidado": 47616.0,
+            "codOrgao": "02",
+            "valPago": 47616.0,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 47616.0,
+            "valTotalEmpenhado": 95232.0,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Hospital do Servidor Público Municipal",
+            "valAnuladoEmpenho": 47616.0,
+            "valPrincipal": 47616.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Cateter intravenoso "
+        }
+    ]
+}

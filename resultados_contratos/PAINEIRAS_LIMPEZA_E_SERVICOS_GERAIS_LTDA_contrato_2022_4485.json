@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202200028220",
+            "codModalidade": 7,
+            "datVigencia": "02/03/2026 00:00:00",
+            "valAditamentos": 994896.02,
+            "codContrato": 4485,
+            "valLiquidado": 904039.98,
+            "codOrgao": "16",
+            "valPago": 904039.98,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1127109.46,
+            "valTotalEmpenhado": 1150438.15,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 23328.69,
+            "valPrincipal": 263999.28,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Serviço de limpeza DRESA 2022"
+        }
+    ]
+}

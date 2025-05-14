@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202300852617",
+            "codModalidade": 6,
+            "datVigencia": "31/07/2025 00:00:00",
+            "valAditamentos": 2480.48,
+            "codContrato": 21592,
+            "valLiquidado": 2592.32,
+            "codOrgao": "16",
+            "valPago": 2592.32,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 3120.48,
+            "valTotalEmpenhado": 3120.48,
+            "anoContrato": 2023,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 640.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Locação e manutenção de quatro purificadores de água para um período de 01 ano "
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "razao_social": "ESPACO MUNDI  REABILITACAO NEUROFUNCIONAL LTDA",
+    "resultado": {
+        "razao_social": "ESPACO MUNDI  REABILITACAO NEUROFUNCIONAL LTDA",
+        "total_empenhado": 150000.0,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "04",
+                "nomEmpresa": "HOSPITAL DO SERVIDOR PÚBLICO MUNICIPAL",
+                "numReserva": 87,
+                "codEmpenho": 28,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "21/01/2025 00:00:00",
+                "codProcesso": "6210202200053105",
+                "numCpfCnpj": "35775737000160",
+                "txtRazaoSocial": "ESPACO MUNDI  REABILITACAO NEUROFUNCIONAL LTDA",
+                "numContrato": -1,
+                "anoContrato": -1,
+                "codOrgao": "02",
+                "txDescricaoOrgao": "Hospital do Servidor Público Municipal",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Hospital do Servidor Público Municipal",
+                "codFuncao": "10",
+                "txDescricaoFuncao": "Saúde",
+                "codSubFuncao": "122",
+                "txDescricaoSubFuncao": "Administração Geral",
+                "codPrograma": "3024",
+                "txDescricaoPrograma": "Suporte Administrativo",
+                "codProjetoAtividade": "2100",
+                "txDescricaoProjetoAtividade": "Administração da Unidade",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "1",
+                "txDescricaoGrupoDespesa": "Pessoal e Encargos Sociais",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "91",
+                "txDescricaoElemento": "Outras Sentenças Judiciais",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "1",
+                "txDescricaoItemDespesa": "Autarquias - RGPS",
+                "codSubElemento": "9",
+                "txDescricaoSubElementoDespesa": "Sentenças Judiciais",
+                "valTotalEmpenhado": 150000.0,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 150000.0,
+                "valLiquidado": 39765.0,
+                "valPagoExercicio": 39765.0,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": ".",
+                        "descricaoAnexo": "ITEM 01 - PAGAMENTO DE TRATAMENTO TERAPEUTICO DE HEITOR RODRIGUES LEITE",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 150000.0
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

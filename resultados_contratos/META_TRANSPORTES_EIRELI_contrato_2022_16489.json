@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 17207.19,
+            "codProcesso": "6016202200720310",
+            "codModalidade": 12,
+            "datVigencia": "08/07/2025 00:00:00",
+            "datAssinaturaContrato": "06/07/2022 00:00:00",
+            "valAditamentos": 814447.66,
+            "codContrato": 16489,
+            "valLiquidado": 1059952.95,
+            "codOrgao": "16",
+            "valPago": 1059952.95,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1173267.12,
+            "valTotalEmpenhado": 1227785.93,
+            "anoContrato": 2022,
+            "numOriginalContrato": "227/SME/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 54518.81,
+            "datPublicacaoContrato": "08/07/2022 00:00:00",
+            "valPrincipal": 392862.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada na prestação de serviços de transporte mediante locação de 5 (cinco) veículos seminovos (até 3 anos de uso), com condutor e combustível em caráter não eventual, destinados ao transporte de pessoas, para apoio às suas atividades técnico- administrativas da Secretaria Municipal de Educação (SME), conforme parâmetros estabelecidos no CadTerc"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000084711",
+            "codModalidade": 12,
+            "datVigencia": "22/03/2026 00:00:00",
+            "datAssinaturaContrato": "19/03/2020 00:00:00",
+            "valAditamentos": 237302.4,
+            "codContrato": 3830,
+            "valLiquidado": 40301.68,
+            "codOrgao": "16",
+            "valPago": 40301.68,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 108385.14,
+            "valTotalEmpenhado": 255907.36,
+            "anoContrato": 2020,
+            "numOriginalContrato": "003/DRE-SM/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 147522.22,
+            "datPublicacaoContrato": "20/03/2020 00:00:00",
+            "valPrincipal": 38587.2,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa para prestação de serviço de telefonia - ARP 008/SG-COBES/2019"
+        }
+    ]
+}

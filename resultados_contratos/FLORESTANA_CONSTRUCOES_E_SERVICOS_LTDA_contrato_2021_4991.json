@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 1832229.77,
+            "codProcesso": "6031202000014235",
+            "codModalidade": 12,
+            "datVigencia": "15/11/2025 00:00:00",
+            "datAssinaturaContrato": "01/07/2020 00:00:00",
+            "valAditamentos": 5432676.78,
+            "codContrato": 4991,
+            "valLiquidado": 5663913.62,
+            "codOrgao": "50",
+            "valPago": 5663913.62,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 6703820.85,
+            "valTotalEmpenhado": 7052695.45,
+            "anoContrato": 2021,
+            "numOriginalContrato": "013/SUB-BT/SF/2020",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 348874.6,
+            "datPublicacaoContrato": "02/07/2020 00:00:00",
+            "valPrincipal": 1198800.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": " Contratação de serviços de Manutenção de Vias, Logradouros, Áreas Públicas e Desfazimento – Ata de Registro de Preços nº 33/SMSUB/COGEL/2018."
+        }
+    ]
+}

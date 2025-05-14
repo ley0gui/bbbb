@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202100925432",
+            "codModalidade": 12,
+            "datVigencia": "27/01/2026 00:00:00",
+            "valAditamentos": 1283695815.68,
+            "codContrato": 32504,
+            "valLiquidado": 1742724376.3,
+            "codOrgao": "16",
+            "valPago": 1742724376.3,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1760818713.15,
+            "valTotalEmpenhado": 1815755222.54,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 54936509.39,
+            "valPrincipal": 477122897.47,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Contratação de empresa fornecedora de meio de pagamento eletrônico, objetivando gerir os recursos públicos da SME de São Paulo, destinados ao pagamento de fornecedores por ela previamente credenciados, em razão de transações relacionadas aos benefícios dos auxílios referentes aos Programas Uniforme e Material Escolar, descritas ao longo deste instrumento."
+        }
+    ]
+}

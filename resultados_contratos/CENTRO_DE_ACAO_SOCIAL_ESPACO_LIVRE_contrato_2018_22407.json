@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "22",
+            "valReajustes": 0.0,
+            "codProcesso": "6016201700515016",
+            "codModalidade": 8,
+            "datVigencia": "31/12/2027 00:00:00",
+            "datAssinaturaContrato": "09/01/2018 00:00:00",
+            "valAditamentos": 1533317.76,
+            "codContrato": 22407,
+            "valLiquidado": 1319526.84,
+            "codOrgao": "16",
+            "valPago": 1319526.84,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 1385131.03,
+            "valTotalEmpenhado": 1639232.6,
+            "anoContrato": 2018,
+            "numOriginalContrato": "10/EE/2018",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 254101.57,
+            "datPublicacaoContrato": "22/03/2018 00:00:00",
+            "valPrincipal": 822072.0,
+            "txtTipoContratacao": "Termo de Colaboração - Lei Federal 13.019/2014",
+            "txtObjetoContrato": "Educação Especial - Termo De Colaboração - Centro de Ação Social Espaço Livre.\r\n Esta contratação substitui a de Nº. 2986/2018 para corrigir divergências."
+        }
+    ]
+}

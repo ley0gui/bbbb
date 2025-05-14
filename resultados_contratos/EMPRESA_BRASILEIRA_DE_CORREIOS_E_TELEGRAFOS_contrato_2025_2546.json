@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202200477156",
+            "codModalidade": 12,
+            "datVigencia": "22/07/2027 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 2546,
+            "valLiquidado": 727.12,
+            "codOrgao": "16",
+            "valPago": 727.12,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 30384.32,
+            "valTotalEmpenhado": 40614.84,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 10230.52,
+            "valPrincipal": 121845.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": " EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS - ECT, CNPJ 34.028.316/0031-29"
+        }
+    ]
+}

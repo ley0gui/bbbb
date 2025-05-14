@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202500031200",
+            "codModalidade": 7,
+            "datVigencia": "20/01/2026 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 824,
+            "valLiquidado": 113688.16,
+            "codOrgao": "16",
+            "valPago": 110814.4,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 433481.5,
+            "valTotalEmpenhado": 433481.5,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 490016.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "FORNECIMENTO DE TELEFONIA FIXA PARA AS UNIDADES ESCOLARES DA DRE BT"
+        }
+    ]
+}

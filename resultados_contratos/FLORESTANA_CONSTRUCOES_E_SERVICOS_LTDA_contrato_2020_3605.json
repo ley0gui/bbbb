@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 7741679.19,
+            "codProcesso": "6031202000007557",
+            "codModalidade": 12,
+            "datVigencia": "28/08/2025 00:00:00",
+            "datAssinaturaContrato": "02/03/2020 00:00:00",
+            "valAditamentos": 27593056.44,
+            "codContrato": 3605,
+            "valLiquidado": 32497278.59,
+            "codOrgao": "50",
+            "valPago": 31899455.77,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 34491961.38,
+            "valTotalEmpenhado": 38933365.96,
+            "anoContrato": 2020,
+            "numOriginalContrato": "03/SUB-BT/SF/2020",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 4441404.58,
+            "datPublicacaoContrato": "19/10/2022 00:00:00",
+            "valPrincipal": 2537829.43,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "PRESTAÇÃO DE SERVIÇOS DECONSERVAÇÃO DE ÁREAS VERDES E MANEJO ARBÓREO ATRAVÉS DE EQUIPES COM A ATA DE RP 05/SMPR/COGEL/2018"
+        }
+    ]
+}

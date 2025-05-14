@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000053514",
+            "codModalidade": 6,
+            "datVigencia": "13/03/2026 00:00:00",
+            "datAssinaturaContrato": "14/02/2020 00:00:00",
+            "valAditamentos": 57518.18,
+            "codContrato": 2924,
+            "valLiquidado": 57129.69,
+            "codOrgao": "16",
+            "valPago": 57129.69,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 65958.75,
+            "valTotalEmpenhado": 66069.42,
+            "anoContrato": 2020,
+            "numOriginalContrato": "006/SME/DRE-FB/2019",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 110.67,
+            "datPublicacaoContrato": "15/02/2020 00:00:00",
+            "valPrincipal": 10636.8,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação para a prestação de serviços de locação de Central de Comunicação de Voz Híbrida, com DDR, com serviço de instalação, com gerenciamento e com manutenção, visando atender às unidades da PMSP; os serviços devem estar em concordância com os normativos publicados pela ANATEL/UIT-T."
+        }
+    ]
+}

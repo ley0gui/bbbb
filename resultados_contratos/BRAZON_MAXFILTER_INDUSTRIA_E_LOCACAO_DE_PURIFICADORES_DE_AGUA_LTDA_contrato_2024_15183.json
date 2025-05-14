@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "41",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202400377775",
+            "codModalidade": 12,
+            "datVigencia": "06/12/2025 00:00:00",
+            "valAditamentos": 2277.14,
+            "codContrato": 15183,
+            "valLiquidado": 3157.97,
+            "codOrgao": "16",
+            "valPago": 3157.97,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 6320.88,
+            "valTotalEmpenhado": 6634.46,
+            "anoContrato": 2024,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 313.58,
+            "valPrincipal": 4357.32,
+            "txtTipoContratacao": "Nota de Empenho de Serviços com fornecimento de materiais / peças",
+            "txtObjetoContrato": "a locação de purificadores de água, incluindo manutenções preventiva e corretiva, com fornecimento e substituição de peças,\ncomponentes e materiais utilizados na manutenção e limpeza, além de material necessário ao seu regular funcionamento"
+        }
+    ]
+}

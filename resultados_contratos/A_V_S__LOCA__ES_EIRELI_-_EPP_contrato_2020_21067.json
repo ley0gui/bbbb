@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 866257.92,
+            "codProcesso": "6031201900011730",
+            "codModalidade": 12,
+            "datVigencia": "03/12/2025 00:00:00",
+            "datAssinaturaContrato": "29/10/2020 00:00:00",
+            "valAditamentos": 4520720.33,
+            "codContrato": 21067,
+            "valLiquidado": 4900555.54,
+            "codOrgao": "50",
+            "valPago": 4853705.17,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 5322511.94,
+            "valTotalEmpenhado": 6501221.26,
+            "anoContrato": 2020,
+            "numOriginalContrato": "19/SUB-BT/SF/2020",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 1178709.32,
+            "datPublicacaoContrato": "30/12/2020 00:00:00",
+            "valPrincipal": 1080000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "PE.N°. 02/SUB-BT/2020 - Locação de Máquinas Pesadas (Motoniveladora, Pá Carregadeira de Pneus e Retroescavadeira), incluindo operador, combustível e transporte para os locais de trabalho, de acordo com as especificações técnicas constantes no Anexo II do Edital – Termo de Referência."
+        }
+    ]
+}

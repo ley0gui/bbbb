@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "41",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202200724552",
+            "codModalidade": 6,
+            "datVigencia": "05/07/2024 00:00:00",
+            "valAditamentos": 469652.0,
+            "codContrato": 16650,
+            "valLiquidado": 418084.17,
+            "codOrgao": "16",
+            "valPago": 418084.17,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 446776.87,
+            "valTotalEmpenhado": 509398.32,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 62621.45,
+            "valPrincipal": 72023.33,
+            "txtTipoContratacao": "Nota de Empenho de Serviços com fornecimento de materiais / peças",
+            "txtObjetoContrato": "À vista dos elementos que instruem o presente, notadamente o Parecer da Assessoria Jurídica (SEI 065736480), a homologação do Pregão 37/SME/2022 (SEI 066162419) e o contido no Decreto nº 61.004 de 14/01/2022 e no uso da competência delegada pela Portaria SME Nº 5.318 de 24 de agosto de 2020 inciso XVIII, AUTORIZO, mediante apresentação de documentação pertinente em vigor, a contratação da empresa META TRANSPORTES EIRELI EPP - CNPJ: 64.059.041/0001-36, para prestação de serviços de transporte mediante locação de 2 (dois) veículos seminovos (até 3 anos de uso), com condutor e combustível em caráter não eventual, destinados ao transporte de pessoas, para apoio às suas atividades técnico- administrativas da Diretoria Regional de Educação Guaianases, conforme parâmetros estabelecidos no CadTerc por 12 (doze) meses, pelo valor mensal de R$ 12.710,00 (doze mil, setecentos e dez reais), totalizando R$ 152.520,00 (Cento e ciquenta e dois mil, quinhentos e vinte reais)."
+        }
+    ]
+}

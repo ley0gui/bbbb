@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202301128556",
+            "codModalidade": 6,
+            "datVigencia": "26/10/2025 00:00:00",
+            "valAditamentos": 780000.0,
+            "codContrato": 33856,
+            "valLiquidado": 352322.8,
+            "codOrgao": "16",
+            "valPago": 285846.8,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 551750.8,
+            "valTotalEmpenhado": 562650.22,
+            "anoContrato": 2024,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 10899.42,
+            "valPrincipal": 155123.99,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "PRESTAÇÃO DE SERVIÇOS DE COPEIRAGEM E DE LIMPEZA PREDIAL"
+        }
+    ]
+}

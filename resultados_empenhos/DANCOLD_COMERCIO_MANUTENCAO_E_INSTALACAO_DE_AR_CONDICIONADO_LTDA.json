@@ -1,0 +1,68 @@
+{
+    "razao_social": "DANCOLD COMERCIO MANUTENCAO E INSTALACAO DE AR CONDICIONADO LTDA",
+    "resultado": {
+        "razao_social": "DANCOLD COMERCIO MANUTENCAO E INSTALACAO DE AR CONDICIONADO LTDA",
+        "total_empenhado": 231038.55,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "04",
+                "nomEmpresa": "HOSPITAL DO SERVIDOR PÚBLICO MUNICIPAL",
+                "numReserva": 42,
+                "codEmpenho": 42,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "21/01/2025 00:00:00",
+                "codProcesso": "6210202300030174",
+                "numCpfCnpj": "05477326000128",
+                "txtRazaoSocial": "DANCOLD COMERCIO MANUTENCAO E INSTALACAO DE AR CONDICIONADO LTDA",
+                "numContrato": 1850,
+                "anoContrato": 2023,
+                "codOrgao": "02",
+                "txDescricaoOrgao": "Hospital do Servidor Público Municipal",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Hospital do Servidor Público Municipal",
+                "codFuncao": "10",
+                "txDescricaoFuncao": "Saúde",
+                "codSubFuncao": "302",
+                "txDescricaoSubFuncao": "Assistência Hospitalar e Ambulatorial",
+                "codPrograma": "3026",
+                "txDescricaoPrograma": "Ações e Serviços da Saúde em Atenção Hospitalar e de Urgência e Emergê",
+                "codProjetoAtividade": "2507",
+                "txDescricaoProjetoAtividade": "Manutenção e Operação em Atenção Hospitalar e de Urgência e Emergência",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "39",
+                "txDescricaoElemento": "Manut. e Conserv. de Máquinas e Equipamentos",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "9",
+                "txDescricaoItemDespesa": "Outras Máquinas e Equipamentos",
+                "codSubElemento": "1",
+                "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
+                "valTotalEmpenhado": 231038.55,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 231038.55,
+                "valLiquidado": 46367.6,
+                "valPagoExercicio": 46367.6,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "SER",
+                        "descricaoAnexo": "ITEM 01 Contratação de Empresa Especializada para Execução de Serviços de Manutenção Preventiva e Corretiva, das Instalações, dos Equipamentos e Redes de Ar Condicionado do HSPM\n\n",
+                        "qtdeAnexo": 1,
+                        "valorUnitarioAnexo": 231038.55
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

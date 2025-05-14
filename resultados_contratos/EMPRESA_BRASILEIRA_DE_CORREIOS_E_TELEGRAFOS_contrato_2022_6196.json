@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202200082348",
+            "codModalidade": 7,
+            "datVigencia": "21/03/2027 00:00:00",
+            "datAssinaturaContrato": "24/03/2022 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 6196,
+            "valLiquidado": 6252.5,
+            "codOrgao": "16",
+            "valPago": 6252.5,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 10956.09,
+            "valTotalEmpenhado": 20366.0,
+            "anoContrato": 2022,
+            "numOriginalContrato": "30037334",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 9409.91,
+            "datPublicacaoContrato": "25/03/2022 00:00:00",
+            "valPrincipal": 26196.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de Serviços Postais - CORREIOS"
+        }
+    ]
+}

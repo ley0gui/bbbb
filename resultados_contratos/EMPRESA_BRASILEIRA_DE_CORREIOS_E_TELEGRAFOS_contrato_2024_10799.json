@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202400271403",
+            "codModalidade": 6,
+            "datVigencia": "17/04/2026 00:00:00",
+            "valAditamentos": 10624000.0,
+            "codContrato": 10799,
+            "valLiquidado": 25280725.99,
+            "codOrgao": "16",
+            "valPago": 25280725.99,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 39691976.11,
+            "valTotalEmpenhado": 41408000.0,
+            "anoContrato": 2024,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 1716023.89,
+            "valPrincipal": 31872000.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "E.C.T. - ENTREGA DOMICILIAR - PROGRAMA LEVE-LEITE"
+        }
+    ]
+}

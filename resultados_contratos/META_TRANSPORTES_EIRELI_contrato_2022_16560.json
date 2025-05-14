@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202200727535",
+            "codModalidade": 12,
+            "datVigencia": "11/07/2023 00:00:00",
+            "valAditamentos": 340000.0,
+            "codContrato": 16560,
+            "valLiquidado": 208468.16,
+            "codOrgao": "16",
+            "valPago": 201868.34,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 208468.16,
+            "valTotalEmpenhado": 229693.22,
+            "anoContrato": 2022,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 21225.06,
+            "valPrincipal": 76140.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada na prestação de serviços de transporte mediante locação de 2 (dois) veículos seminovos (até 3 anos de uso), com condutor e combustível em caráter não eventual, destinados ao transporte de pessoas, para apoio às suas atividades técnico- administrativas da DRE-BT."
+        }
+    ]
+}

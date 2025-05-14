@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "22",
+            "valReajustes": 0.0,
+            "codProcesso": "6016201700584506",
+            "codModalidade": 8,
+            "datVigencia": "31/12/2027 00:00:00",
+            "datAssinaturaContrato": "27/12/2022 00:00:00",
+            "valAditamentos": 26659250.69,
+            "codContrato": 27868,
+            "valLiquidado": 17433871.66,
+            "codOrgao": "16",
+            "valPago": 17215711.66,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 17799003.16,
+            "valTotalEmpenhado": 18681909.18,
+            "anoContrato": 2020,
+            "numOriginalContrato": "70/DRE FB/2018-RPP",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 882906.02,
+            "datPublicacaoContrato": "05/01/2023 00:00:00",
+            "valPrincipal": 5550769.25,
+            "txtTipoContratacao": "Termo de Colaboração - Lei Federal 13.019/2014",
+            "txtObjetoContrato": "CEI JARDIM CENTENARIO - TERMO DE COLABORAÇÃO PARA ATENDIMENTO A CRIANÇAS NA FAIXA ETÁRIA DE 0 A 3 ANOS POR MEIO DE CRECHE/CENTRO DE EDUCAÇÃO INFANTIL."
+        }
+    ]
+}

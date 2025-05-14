@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202401651250",
+            "codModalidade": 7,
+            "datVigencia": "31/12/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 3100,
+            "valLiquidado": 1561141.39,
+            "codOrgao": "16",
+            "valPago": 1561141.39,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 4742000.0,
+            "valTotalEmpenhado": 4742000.0,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 7950000.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "SP/SR CONTRATAÇÃO DOS SERVIÇOS DE FORNECIMENTO DE ENERGIA ELÉTRICA PARA AS UNIDADES ADM DA DRE/MP, EMEFS, CMCT I E II, EMEFM, CEIS, EMEIS E CEUS DO MES DE JANEIRO A DEZEMBRO DE 2025"
+        }
+    ]
+}

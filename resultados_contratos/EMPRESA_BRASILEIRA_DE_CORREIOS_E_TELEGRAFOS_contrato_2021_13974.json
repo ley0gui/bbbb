@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202100659317",
+            "codModalidade": 7,
+            "datVigencia": "10/08/2025 00:00:00",
+            "datAssinaturaContrato": "06/08/2021 00:00:00",
+            "valAditamentos": 509554.2,
+            "codContrato": 13974,
+            "valLiquidado": 185773.05,
+            "codOrgao": "16",
+            "valPago": 185773.05,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 326179.45,
+            "valTotalEmpenhado": 658240.47,
+            "anoContrato": 2021,
+            "numOriginalContrato": "9912546976",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 332061.02,
+            "datPublicacaoContrato": "11/08/2021 00:00:00",
+            "valPrincipal": 148274.4,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Prestação de serviços e venda de produtos – Correios e telégrafos, para atender a demanda da Secretaria Municipal de Educação."
+        }
+    ]
+}

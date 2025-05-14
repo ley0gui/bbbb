@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Tomada de Preços",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000123571",
+            "codModalidade": 3,
+            "datVigencia": "15/06/2025 00:00:00",
+            "datAssinaturaContrato": "11/05/2020 00:00:00",
+            "valAditamentos": 104286.71,
+            "codContrato": 7871,
+            "valLiquidado": 99527.9,
+            "codOrgao": "16",
+            "valPago": 99527.9,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 105416.63,
+            "valTotalEmpenhado": 114323.16,
+            "anoContrato": 2020,
+            "numOriginalContrato": "06/DRE IP/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 8906.53,
+            "datPublicacaoContrato": "17/06/2020 00:00:00",
+            "valPrincipal": 22364.56,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "contratação de serviços de locação de Central de Comunicação de Voz Híbrida, com DDR, com serviço de instalação, com gerenciamento e manutenção (Item II [Equipamento 1]) para o CEU Parque Bristol, CEU Meninos, CEU Heliópolis e CEU Vila Alpina da Diretoria Regional de Educação Ipiranga."
+        }
+    ]
+}

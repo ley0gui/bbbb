@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "41",
+            "valReajustes": 21754.92,
+            "codProcesso": "6016202000115749",
+            "codModalidade": 6,
+            "datVigencia": "28/03/2025 00:00:00",
+            "valAditamentos": 100825.28,
+            "codContrato": 5042,
+            "valLiquidado": 102872.83,
+            "codOrgao": "16",
+            "valPago": 100955.62,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 118827.15,
+            "valTotalEmpenhado": 121733.56,
+            "anoContrato": 2020,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 2906.41,
+            "valPrincipal": 21050.4,
+            "txtTipoContratacao": "Nota de Empenho de Serviços com fornecimento de materiais / peças",
+            "txtObjetoContrato": "AUTORIZO a emissão do empenho ao Termo de Contrato Nº 002/DRE-G/2020, celebrado com a empresa Método Mobile Comércio e Serviços em Telecomunicações Ltda – CNPJ 07.343.712/0001-52 por seu representante legal, Sr. RONALDO ANDRADE, RG 20.487.714-38 e inscrito  no CPF sob o n.º 245.117.656-34,   cujo objeto do contrato é a Prestação de serviços de locação da Central de Comunicação de Voz Híbrida, com DDR, com serviço de instalação, com gerenciamento e manutenção (Item III [Equipamento 2]) por 12 (doze) meses, compreendendo o período 30/03/2020 (inclusive) a 29/03/2021 e alteração no índice de reajuste contratual, conforme Portaria SF 389/2017, no valor total de R$ 21.050,40 (Vinte e um mil, cincoenta reais e quarenta centavos), para o exercício de 2020, onerando a  dotação orçamentária nº 16.21.12.368.3010.4.364.3.3.90.39.00.00 e 16.21.12.368.3010.2.100.3.3.90.39.00.00"
+        }
+    ]
+}

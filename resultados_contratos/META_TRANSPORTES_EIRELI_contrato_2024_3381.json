@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 1014.16,
+            "codProcesso": "6016202200732016",
+            "codModalidade": 12,
+            "datVigencia": "31/12/2025 00:00:00",
+            "valAditamentos": 80772.72,
+            "codContrato": 3381,
+            "valLiquidado": 100115.95,
+            "codOrgao": "16",
+            "valPago": 100115.95,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 162712.67,
+            "valTotalEmpenhado": 164707.27,
+            "anoContrato": 2024,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 1994.6,
+            "valPrincipal": 88849.99,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Contratação Empresa META Transportes Eirelli EPP - 2024 "
+        }
+    ]
+}

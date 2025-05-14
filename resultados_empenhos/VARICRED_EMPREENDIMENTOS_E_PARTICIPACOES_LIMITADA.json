@@ -2,7 +2,7 @@
     "razao_social": "VARICRED EMPREENDIMENTOS E PARTICIPACOES LIMITADA",
     "resultado": {
         "razao_social": "VARICRED EMPREENDIMENTOS E PARTICIPACOES LIMITADA",
-        "total_empenhado": 3782166.91,
+        "total_empenhado": 2866083.25,
         "quantidade_empenhos": 3,
         "empenhos": [
             {
@@ -45,8 +45,8 @@
                 "codSubElemento": "1",
                 "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
                 "valTotalEmpenhado": 3360000.0,
-                "valAnuladoEmpenho": 877796.94,
-                "valEmpenhadoLiquido": 2482203.06,
+                "valAnuladoEmpenho": 1400000.0,
+                "valEmpenhadoLiquido": 1960000.0,
                 "valLiquidado": 840000.0,
                 "valPagoExercicio": 840000.0,
                 "valPagoRestos": 0.0,
@@ -103,8 +103,8 @@
                 "codSubElemento": "1",
                 "txDescricaoSubElementoDespesa": "Outros Serviços de Terceiros - Pessoa Jurídica",
                 "valTotalEmpenhado": 852711.21,
-                "valAnuladoEmpenho": 0.0,
-                "valEmpenhadoLiquido": 852711.21,
+                "valAnuladoEmpenho": 393880.6,
+                "valEmpenhadoLiquido": 458830.61,
                 "valLiquidado": 172947.78,
                 "valPagoExercicio": 172947.78,
                 "valPagoRestos": 0.0,

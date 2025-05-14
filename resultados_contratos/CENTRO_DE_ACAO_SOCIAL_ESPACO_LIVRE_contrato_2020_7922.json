@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "22",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000356681",
+            "codModalidade": 8,
+            "datVigencia": "29/04/2030 00:00:00",
+            "datAssinaturaContrato": "24/02/2021 00:00:00",
+            "valAditamentos": 18563732.57,
+            "codContrato": 7922,
+            "valLiquidado": 11263143.39,
+            "codOrgao": "16",
+            "valPago": 11263143.39,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 11940918.01,
+            "valTotalEmpenhado": 12791432.71,
+            "anoContrato": 2020,
+            "numOriginalContrato": "7972021/DRE-SM/2021",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 850514.7,
+            "datPublicacaoContrato": "24/02/2021 00:00:00",
+            "valPrincipal": 7623277.8,
+            "txtTipoContratacao": "Termo de Colaboração - Lei Federal 13.019/2014",
+            "txtObjetoContrato": "ATENDIMENTO PARA 152 CRIANÇAS DE 0 A 3 ANOS, SENDO 66 DE BERÇÁRIO - CEI SEMENTINHA DO APRENDER"
+        }
+    ]
+}

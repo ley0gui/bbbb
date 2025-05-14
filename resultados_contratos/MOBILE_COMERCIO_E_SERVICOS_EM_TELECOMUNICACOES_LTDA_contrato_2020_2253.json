@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 11594.02,
+            "codProcesso": "6016202000070303",
+            "codModalidade": 12,
+            "datVigencia": "11/02/2026 00:00:00",
+            "datAssinaturaContrato": "07/02/2020 00:00:00",
+            "valAditamentos": 182605.06,
+            "codContrato": 2253,
+            "valLiquidado": 178013.68,
+            "codOrgao": "16",
+            "valPago": 178013.68,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 213115.03,
+            "valTotalEmpenhado": 224670.54,
+            "anoContrato": 2020,
+            "numOriginalContrato": "32/SME/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 11555.51,
+            "datPublicacaoContrato": "03/03/2020 00:00:00",
+            "valPrincipal": 35263.2,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa especializada na prestação de serviços de locação da Central de Comunicação de Voz Híbrida, com DDR, com serviço de instalação, com gerenciamento e com manutenção, para os equipamentos administrativos centrais da Secretaria Municipal de Educação – Coordenadoria de Alimentação Escolar (CODAE), Coordenadoria de Gestão de Pessoas (COGEP) e Coordenadoria Pedagógica (COPED MEMORIAL E PROJETO REDE)."
+        }
+    ]
+}

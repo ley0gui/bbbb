@@ -1,0 +1,68 @@
+{
+    "razao_social": "FENIX COMERCIO UTENSILIOS LTDA",
+    "resultado": {
+        "razao_social": "FENIX COMERCIO UTENSILIOS LTDA",
+        "total_empenhado": 4500.0,
+        "quantidade_empenhos": 1,
+        "empenhos": [
+            {
+                "codEmpresa": "01",
+                "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+                "numReserva": 2633,
+                "codEmpenho": 11797,
+                "anoEmpenho": 2025,
+                "mesEmpenho": 1,
+                "datEmpenho": "29/01/2025 00:00:00",
+                "codProcesso": "6031202400054625",
+                "numCpfCnpj": "37487565000155",
+                "txtRazaoSocial": "FENIX COMERCIO UTENSILIOS LTDA",
+                "numContrato": 1696,
+                "anoContrato": 2025,
+                "codOrgao": "50",
+                "txDescricaoOrgao": "Subprefeitura Butantã",
+                "codUnidade": "10",
+                "txDescricaoUnidade": "Administração da Subprefeitura",
+                "codFuncao": "15",
+                "txDescricaoFuncao": "Urbanismo",
+                "codSubFuncao": "122",
+                "txDescricaoSubFuncao": "Administração Geral",
+                "codPrograma": "3024",
+                "txDescricaoPrograma": "Suporte Administrativo",
+                "codProjetoAtividade": "2100",
+                "txDescricaoProjetoAtividade": "Administração da Unidade",
+                "codCategoria": "3",
+                "txDescricaoCategoriaEconomica": "Despesas Correntes",
+                "codGrupo": "3",
+                "txDescricaoGrupoDespesa": "Outras Despesas Correntes",
+                "codModalidade": "90",
+                "txDescricaoModalidade": "Aplicações Diretas",
+                "codElemento": "30",
+                "txDescricaoElemento": "Gêneros de Alimentação",
+                "codFonteRecurso": "00.1.500.9001",
+                "txDescricaoFonteRecurso": "Recursos não vinculados de Impostos",
+                "codItemDespesa": "1",
+                "txDescricaoItemDespesa": "Bebidas em Geral",
+                "codSubElemento": "0",
+                "txDescricaoSubElementoDespesa": "Material de Consumo",
+                "valTotalEmpenhado": 4500.0,
+                "valAnuladoEmpenho": 0.0,
+                "valEmpenhadoLiquido": 4500.0,
+                "valLiquidado": 2550.0,
+                "valPagoExercicio": 2137.5,
+                "valPagoRestos": 0.0,
+                "anexos": [
+                    {
+                        "siglaUnidadeMedida": "GL",
+                        "descricaoAnexo": "Aquisição de água mineral natural, potável, sem gás, envasada em garrafões de 20 litros",
+                        "qtdeAnexo": 600,
+                        "valorUnitarioAnexo": 7.5
+                    }
+                ],
+                "codReferencia": "",
+                "codDestinacaoRecurso": "",
+                "codVinculacaoRecurso": "",
+                "codExeFonte": ""
+            }
+        ]
+    }
+}

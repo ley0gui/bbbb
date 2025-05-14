@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 0.0,
+            "codProcesso": "6016201700127474",
+            "codModalidade": 7,
+            "datVigencia": "30/06/2024 00:00:00",
+            "valAditamentos": 90435.54,
+            "codContrato": 10178,
+            "valLiquidado": 60371.28,
+            "codOrgao": "16",
+            "valPago": 60371.28,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 69952.98,
+            "valTotalEmpenhado": 130815.04,
+            "anoContrato": 2017,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 60862.06,
+            "valPrincipal": 7500.0,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "Prestação de serviços fornecidos pela Empresa Brasileira de Correios we Telégrafos."
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 44427.24,
+            "codProcesso": "6031202200031478",
+            "codModalidade": 12,
+            "datVigencia": "31/01/2026 00:00:00",
+            "datAssinaturaContrato": "02/01/2023 00:00:00",
+            "valAditamentos": 600000.0,
+            "codContrato": 36439,
+            "valLiquidado": 664010.24,
+            "codOrgao": "50",
+            "valPago": 635737.48,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 907455.47,
+            "valTotalEmpenhado": 919955.47,
+            "anoContrato": 2022,
+            "numOriginalContrato": "01/SUB-BT/2023",
+            "txtDescricaoOrgao": "Subprefeitura Butantã",
+            "valAnuladoEmpenho": 12500.0,
+            "datPublicacaoContrato": "10/01/2023 00:00:00",
+            "valPrincipal": 300000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Locação de veículo para transporte de passageiros, tipo Mini-van (D-1) - 24 horas diárias ininterruptas"
+        }
+    ]
+}

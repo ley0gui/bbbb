@@ -1,0 +1,33 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202200936754",
+            "codModalidade": 12,
+            "datVigencia": "30/11/2025 00:00:00",
+            "valAditamentos": 455207.96,
+            "codContrato": 32347,
+            "valLiquidado": 504189.41,
+            "codOrgao": "16",
+            "valPago": 484853.25,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 639542.57,
+            "valTotalEmpenhado": 651811.79,
+            "anoContrato": 2022,
+            "numOriginalContrato": "11/DRESA/2022",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 12269.22,
+            "valPrincipal": 215940.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Contratação empresa especializada na prestação de serviço de transporte de cargas, com fornecimento de 01 (um) veículo urbano de carga (CAMINHÃO VUC 3/4), com baú, com capacidade de 3/4 toneladas incluindo 01 (um) motorista e 02 (dois) ajudantes, com fornecimento de combustível, quilometragem livre, mapa de localização/rastreamento (GPS) e seguro total para atendimento à demanda do Almoxarifado da Diretoria Regional de Educação – Santo Amaro (DRESA)."
+        }
+    ]
+}

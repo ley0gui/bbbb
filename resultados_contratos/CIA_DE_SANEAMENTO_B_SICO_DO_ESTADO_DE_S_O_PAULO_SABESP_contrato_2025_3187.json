@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "64",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202500071236",
+            "codModalidade": 7,
+            "datVigencia": "31/12/2025 00:00:00",
+            "valAditamentos": 0.0,
+            "codContrato": 3187,
+            "valLiquidado": 1086826.59,
+            "codOrgao": "16",
+            "valPago": 1086826.59,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 7689736.67,
+            "valTotalEmpenhado": 7689736.67,
+            "anoContrato": 2025,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 0.0,
+            "valPrincipal": 10054406.04,
+            "txtTipoContratacao": "Nota de Empenho-Fornecitº Serviços de Concessionárias de Abast.Público",
+            "txtObjetoContrato": "PRESTAÇÃO DE SERVIÇOS DE FORNECIMENTO DE ÁGUA E ESGOTO - EXERCÍCIO 2025 , CONFORME DOC. SEI 118499653"
+        }
+    ]
+}

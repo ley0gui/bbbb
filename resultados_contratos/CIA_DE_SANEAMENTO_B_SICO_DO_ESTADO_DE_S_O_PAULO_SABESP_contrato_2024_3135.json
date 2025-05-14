@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "64",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202400053708",
+            "codModalidade": 7,
+            "datVigencia": "31/12/2024 00:00:00",
+            "valAditamentos": 17787298.9,
+            "codContrato": 3135,
+            "valLiquidado": 10032812.91,
+            "codOrgao": "16",
+            "valPago": 10032812.91,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 13868088.95,
+            "valTotalEmpenhado": 14157262.95,
+            "anoContrato": 2024,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 289174.0,
+            "valPrincipal": 10905000.0,
+            "txtTipoContratacao": "Nota de Empenho-Fornecitº Serviços de Concessionárias de Abast.Público",
+            "txtObjetoContrato": "PRESTAÇÃO DE SERVIÇOS DE FORNECIMENTO DE ÁGUA - 2024"
+        }
+    ]
+}

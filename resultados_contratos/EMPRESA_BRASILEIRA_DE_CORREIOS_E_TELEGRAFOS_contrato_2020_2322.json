@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016201900723941",
+            "codModalidade": 7,
+            "datVigencia": "03/01/2026 00:00:00",
+            "datAssinaturaContrato": "06/02/2022 00:00:00",
+            "valAditamentos": 1228916.0,
+            "codContrato": 2322,
+            "valLiquidado": 162914.08,
+            "codOrgao": "16",
+            "valPago": 162914.08,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 385191.83,
+            "valTotalEmpenhado": 1175354.07,
+            "anoContrato": 2020,
+            "numOriginalContrato": "9912476998",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 790162.24,
+            "datPublicacaoContrato": "07/02/2022 00:00:00",
+            "valPrincipal": 260000.0,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "PRESTAÇÃO DE SERVIÇOS TELEMÁTICOS E DE CARTA COMERCIAL COM A.R.\nOBS. REAJUSTE APLICADO PELA EMPRESA"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "5",
+            "valReajustes": 3840.0,
+            "codProcesso": "6016202300426758",
+            "codModalidade": 6,
+            "datVigencia": "03/06/2025 00:00:00",
+            "valAditamentos": 3840.0,
+            "codContrato": 3225,
+            "valLiquidado": 4673.59,
+            "codOrgao": "16",
+            "valPago": 4673.59,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 7630.18,
+            "valTotalEmpenhado": 10035.91,
+            "anoContrato": 2024,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 2405.73,
+            "valPrincipal": 3801.6,
+            "txtTipoContratacao": "Nota de Empenho Fornecimento de Bens de Consumo e/ou Permanente",
+            "txtObjetoContrato": "BRAZON MAXFILTER INDÚSTRIA E LOCAÇÃO DE PURIFICADORES DE ÁGUA LTDA. "
+        }
+    ]
+}

@@ -41,7 +41,7 @@
             "empresa": "VARICRED EMPREENDIMENTOS E PARTICIPACOES LIMITADA",
             "anoContrato": "SC",
             "numContrato": "0",
-            "total_empenhado": 3782166.9099999997,
+            "total_empenhado": 2866083.2499999995,
             "detalhes_contrato": {
                 "modalidade": "Sem Contrato",
                 "tipoContratacao": "Empenho Direto",
@@ -54,52 +54,10 @@
             "sem_contrato": true
         },
         {
-            "empresa": "FUNDAÇÃO INSTITUTO DE PESQUISAS ECONÔMICAS FIPE",
-            "anoContrato": 2025,
-            "numContrato": 2056,
-            "total_empenhado": 2592151.83,
-            "detalhes_contrato": {
-                "modalidade": "Dispensa de Licitação",
-                "tipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
-                "codigoProcesso": "6022202400095705",
-                "objetoContrato": "Prestação de serviços técnicos visando o levantamento dos custos médios de 3.000 insumos adotados nas tabelas de SIURB, elaboração de 04 (quatro) índices - “Pavimentação de Tráfego Leve”, Pavimentação de Vias Arteriais”, “Mão de Obra” e “Locação de Veículos” e Criação de até 100 (cem) composições de custos unitários (CPU’s).",
-                "codEmpresa": "01",
-                "codTipoContratacao": "30",
-                "valReajustes": 0.0,
-                "codModalidade": 6,
-                "datVigencia": "10/02/2026 00:00:00",
-                "codOrgao": "22",
-                "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras"
-            },
-            "quantidade_empenhos": 1,
-            "identificador_unico": "FUNDAÇÃO INSTITUTO DE PESQUISAS ECONÔMICAS FIPE_2025_2056"
-        },
-        {
-            "empresa": "PHERTAS SEGURANCA EIRELI",
-            "anoContrato": 2021,
-            "numContrato": 26176,
-            "total_empenhado": 2577090.12,
-            "detalhes_contrato": {
-                "modalidade": "Pregão",
-                "tipoContratacao": "Termo de Contrato - Serviços",
-                "codigoProcesso": "6022202100012456",
-                "objetoContrato": "Contratação de empresa especializada na prestação de serviços presencial de vigilância desarmada executados de forma contínua, realizados por meio de Postos Fixos nos locais da Sede da SIURB.\n\n ",
-                "codEmpresa": "01",
-                "codTipoContratacao": "2",
-                "valReajustes": 879948.52,
-                "codModalidade": 12,
-                "datVigencia": "23/12/2025 00:00:00",
-                "codOrgao": "22",
-                "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras"
-            },
-            "quantidade_empenhos": 2,
-            "identificador_unico": "PHERTAS SEGURANCA EIRELI_2021_26176"
-        },
-        {
             "empresa": "GN GERENCIAMENTO NACIONAL DE TRANSPORTES E SERVICOS GERAIS LTDA",
             "anoContrato": 2021,
             "numContrato": 27484,
-            "total_empenhado": 2183010.25,
+            "total_empenhado": 2100790.34,
             "detalhes_contrato": {
                 "modalidade": "Pregão",
                 "tipoContratacao": "Termo de Contrato - Serviços",
@@ -136,6 +94,27 @@
             },
             "quantidade_empenhos": 2,
             "identificador_unico": "EMPRESA DE TECNOLOGIA DA INFORMACAO E COMUNICACAO DO MUNICIPIO DE SAO PAULO  PRODAMSP SA_2021_23448"
+        },
+        {
+            "empresa": "PHERTAS SEGURANCA EIRELI",
+            "anoContrato": 2021,
+            "numContrato": 26176,
+            "total_empenhado": 1549410.3200000003,
+            "detalhes_contrato": {
+                "modalidade": "Pregão",
+                "tipoContratacao": "Termo de Contrato - Serviços",
+                "codigoProcesso": "6022202100012456",
+                "objetoContrato": "Contratação de empresa especializada na prestação de serviços presencial de vigilância desarmada executados de forma contínua, realizados por meio de Postos Fixos nos locais da Sede da SIURB.\n\n ",
+                "codEmpresa": "01",
+                "codTipoContratacao": "2",
+                "valReajustes": 879948.52,
+                "codModalidade": 12,
+                "datVigencia": "23/12/2025 00:00:00",
+                "codOrgao": "22",
+                "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras"
+            },
+            "quantidade_empenhos": 2,
+            "identificador_unico": "PHERTAS SEGURANCA EIRELI_2021_26176"
         },
         {
             "empresa": "CONCREPOXI ENGENHARIA LTDA",
@@ -178,6 +157,27 @@
             },
             "quantidade_empenhos": 1,
             "identificador_unico": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SAO PAULO SA_2021_18904"
+        },
+        {
+            "empresa": "FUNDAÇÃO INSTITUTO DE PESQUISAS ECONÔMICAS FIPE",
+            "anoContrato": 2025,
+            "numContrato": 2056,
+            "total_empenhado": 995301.72,
+            "detalhes_contrato": {
+                "modalidade": "Dispensa de Licitação",
+                "tipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+                "codigoProcesso": "6022202400095705",
+                "objetoContrato": "Prestação de serviços técnicos visando o levantamento dos custos médios de 3.000 insumos adotados nas tabelas de SIURB, elaboração de 04 (quatro) índices - “Pavimentação de Tráfego Leve”, Pavimentação de Vias Arteriais”, “Mão de Obra” e “Locação de Veículos” e Criação de até 100 (cem) composições de custos unitários (CPU’s).",
+                "codEmpresa": "01",
+                "codTipoContratacao": "30",
+                "valReajustes": 0.0,
+                "codModalidade": 6,
+                "datVigencia": "10/02/2026 00:00:00",
+                "codOrgao": "22",
+                "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras"
+            },
+            "quantidade_empenhos": 1,
+            "identificador_unico": "FUNDAÇÃO INSTITUTO DE PESQUISAS ECONÔMICAS FIPE_2025_2056"
         },
         {
             "empresa": "CENTRO DE INTEGRACAO EMPRESA ESCOLA CIE E",

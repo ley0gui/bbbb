@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000147306",
+            "codModalidade": 6,
+            "datVigencia": "05/03/2026 00:00:00",
+            "datAssinaturaContrato": "07/03/2020 00:00:00",
+            "valAditamentos": 49508.69,
+            "codContrato": 4261,
+            "valLiquidado": 46104.05,
+            "codOrgao": "16",
+            "valPago": 45221.95,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 54114.7,
+            "valTotalEmpenhado": 55658.84,
+            "anoContrato": 2020,
+            "numOriginalContrato": "002/DRE-FB/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 1544.14,
+            "datPublicacaoContrato": "09/03/2020 00:00:00",
+            "valPrincipal": 8338.28,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Instalação e locação das Centrais de PABX nos CEUs Jd. Paulistano e Paz."
+        }
+    ]
+}

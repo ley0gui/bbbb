@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Dispensa de Licitação",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016201800804966",
+            "codModalidade": 6,
+            "datVigencia": "27/02/2028 00:00:00",
+            "valAditamentos": 81215274.23,
+            "codContrato": 7256,
+            "valLiquidado": 66127978.87,
+            "codOrgao": "16",
+            "valPago": 64666739.7,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 72422931.6,
+            "valTotalEmpenhado": 84140578.57,
+            "anoContrato": 2019,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 11717646.97,
+            "valPrincipal": 12030000.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Serviço de fornecimento de energia elétrica. EMEL - Esta contratação substitui a contratação nº 888, devido a erro em campo não passível de alteração no SOF."
+        }
+    ]
+}

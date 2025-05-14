@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 13453.76,
+            "codProcesso": "6016202000165088",
+            "codModalidade": 12,
+            "datVigencia": "15/06/2025 00:00:00",
+            "datAssinaturaContrato": "17/04/2020 00:00:00",
+            "valAditamentos": 71149.76,
+            "codContrato": 5725,
+            "valLiquidado": 68949.53,
+            "codOrgao": "16",
+            "valPago": 68949.53,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 72496.35,
+            "valTotalEmpenhado": 110645.84,
+            "anoContrato": 2020,
+            "numOriginalContrato": "02/DRE-MP/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 38149.49,
+            "datPublicacaoContrato": "11/07/2020 00:00:00",
+            "valPrincipal": 19185.42,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "SP/SR LOCAÇÃO DE PABXs COM DESINSTALAÇÃO/INSTALAÇÃO PARA O CEU SÃO MIGUEL, CEU TRES PONTES E CEU VILA CURUÇA "
+        }
+    ]
+}

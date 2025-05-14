@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Não Aplicável",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000185992",
+            "codModalidade": 8,
+            "datVigencia": "20/05/2025 00:00:00",
+            "datAssinaturaContrato": "29/04/2020 00:00:00",
+            "valAditamentos": 68371.9,
+            "codContrato": 6995,
+            "valLiquidado": 68587.98,
+            "codOrgao": "16",
+            "valPago": 67324.83,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 80061.04,
+            "valTotalEmpenhado": 81132.38,
+            "anoContrato": 2020,
+            "numOriginalContrato": "02/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 1071.34,
+            "datPublicacaoContrato": "29/05/2020 00:00:00",
+            "valPrincipal": 12916.0,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "CONTRATAÇÃO DE EMPRESA PARA SERVIÇO DE LOCAÇÃO DE PABX - DRE"
+        }
+    ]
+}

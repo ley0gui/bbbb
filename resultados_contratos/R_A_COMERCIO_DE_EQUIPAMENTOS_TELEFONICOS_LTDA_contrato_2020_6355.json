@@ -1,0 +1,32 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "30",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000076379",
+            "codModalidade": 12,
+            "datVigencia": "01/06/2025 00:00:00",
+            "valAditamentos": 31993.61,
+            "codContrato": 6355,
+            "valLiquidado": 34941.2,
+            "codOrgao": "16",
+            "valPago": 34941.2,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 36525.64,
+            "valTotalEmpenhado": 42064.05,
+            "anoContrato": 2020,
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 5538.41,
+            "valPrincipal": 6815.14,
+            "txtTipoContratacao": "Nota de Empenho para Fornecimento de Serviços",
+            "txtObjetoContrato": "Contratação de serviços de locação da Central de Comunicação de Voz Híbrida, com DDR, com serviço de instalação, com gerenciamento e manutenção para o CEU- Jaçanã.  Utilização da Ata de Registro de Preços n° 009/SG-COBES/2019"
+        }
+    ]
+}

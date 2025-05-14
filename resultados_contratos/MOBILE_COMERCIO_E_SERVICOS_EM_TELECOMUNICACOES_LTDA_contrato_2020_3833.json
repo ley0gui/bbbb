@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Pregão",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016202000136398",
+            "codModalidade": 12,
+            "datVigencia": "22/03/2026 00:00:00",
+            "datAssinaturaContrato": "12/03/2020 00:00:00",
+            "valAditamentos": 46648.44,
+            "codContrato": 3833,
+            "valLiquidado": 44159.96,
+            "codOrgao": "16",
+            "valPago": 43327.85,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 51864.05,
+            "valTotalEmpenhado": 52524.49,
+            "anoContrato": 2020,
+            "numOriginalContrato": "002/DRE-SM/2020",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 660.44,
+            "datPublicacaoContrato": "13/06/2020 00:00:00",
+            "valPrincipal": 8184.4,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "Contratação de empresa para locação de PABX - ARP 010/SG-COBES/2019 - DRE"
+        }
+    ]
+}

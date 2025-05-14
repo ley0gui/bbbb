@@ -1,0 +1,35 @@
+{
+    "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+    },
+    "lstContratos": [
+        {
+            "txtDescricaoModalidade": "Inexigibilidade",
+            "codEmpresa": "01",
+            "codTipoContratacao": "2",
+            "valReajustes": 0.0,
+            "codProcesso": "6016201600018843",
+            "codModalidade": 7,
+            "datVigencia": "04/09/2025 00:00:00",
+            "datAssinaturaContrato": "30/08/2022 00:00:00",
+            "valAditamentos": 1333993.72,
+            "codContrato": 23573,
+            "valLiquidado": 327531.09,
+            "codOrgao": "16",
+            "valPago": 327531.09,
+            "valAnulacao": 0.0,
+            "valEmpenhadoLiquido": 430797.21,
+            "valTotalEmpenhado": 1575996.48,
+            "anoContrato": 2016,
+            "numOriginalContrato": "9912403002",
+            "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+            "valAnuladoEmpenho": 1145199.27,
+            "datPublicacaoContrato": "31/08/2022 00:00:00",
+            "valPrincipal": 179920.32,
+            "txtTipoContratacao": "Termo de Contrato - Serviços",
+            "txtObjetoContrato": "SERVIÇO DE POSTAGEM ELETRÔNICA DE TELEGRAMAS E CARTAS COMERCIAIS"
+        }
+    ]
+}
